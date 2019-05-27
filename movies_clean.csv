@@ -1,0 +1,201 @@
+#,name,distributor_full_name,release_date,genre,runtime,rating,budget,rest_world,studio,total_gross,theaters_total,opening,theaters_opening,open_date,close_date,days_in_theaters,imdb_rating,directors,cinemascore_rating,cinemascore_name
+1,Black Panther,Buena Vista,"February 16, 2018",Action / Adventure,140,PG-13,,646853595.0,BV,700059566,4084,202003951.0,4084,2/16,8/9,174,7.3,Ryan Coogler,A+,BLACK PANTHER (2018)
+2,Avengers: Infinity War,Buena Vista,"April 27, 2018",Action / Adventure,156,PG-13,,1369544272.0,BV,678815482,4474,257698183.0,4474,4/27,9/13,139,8.5,Anthony Russo & Joe Russo,A,AVENGERS: INFINITY WAR (2018)
+3,Incredibles 2,Buena Vista,"June 15, 2018",Animation,118,PG,,634223615.0,BV,608581744,4410,182687905.0,4410,6/15,12/13,181,7.7,Brad Bird,A+,"INCREDIBLES 2, THE (2018)"
+4,Jurassic World: Fallen Kingdom,Universal,"June 22, 2018",Action / Adventure,128,PG-13,170.0,891764701.0,Uni.,417719760,4485,148024610.0,4485,6/22,10/4,104,6.2,J.A. Bayona,A-,JURASSIC WORLD: FALLEN KINGDOM (2018)
+5,Aquaman,Warner Bros.,"December 21, 2018",Action / Adventure,139,PG-13,,812700000.0,WB,335061807,4184,67873522.0,4184,12/21,4/4,104,7.1,James Wan,A-,AQUAMAN (2018)
+6,Deadpool 2,Fox,"May 18, 2018",Action,119,R,110.0,460455185.0,Fox,318491426,4349,125507153.0,4349,5/18,10/18,153,7.8,David Leitch,A,DEADPOOL 2 (2018)
+7,Dr. Seuss' The Grinch (2018),Universal,"November 9, 2018",Animation,90,PG,75.0,240944398.0,Uni.,270620950,4141,67572855.0,4141,11/9,2/14,97,6.3,Yarrow Cheney & Scott Mosier,,
+8,Mission: Impossible - Fallout,Paramount,"July 27, 2018",Action,147,PG-13,178.0,570956000.0,Par.,220159104,4395,61236534.0,4395,7/27,10/18,83,7.8,Christopher McQuarrie,A,MISSION: IMPOSSIBLE - FALLOUT (2018)
+9,Ant-Man and the Wasp,Buena Vista,"July 6, 2018",Action,118,PG-13,,406025399.0,BV,216648740,4206,75812205.0,4206,7/6,11/1,118,7.1,Peyton Reed,A-,ANT-MAN AND THE WASP (2018)
+10,Bohemian Rhapsody,Fox,"November 2, 2018",Drama,134,PG-13,52.0,686746974.0,Fox,216428042,4000,51061119.0,4000,11/2,4/25,174,8.1,Bryan Singer,A,BOHEMIAN RHAPSODY (2018)
+11,A Star is Born (2018),Warner Bros.,"October 5, 2018",Music Drama,136,R,36.0,218900000.0,WB,215288866,3904,42908051.0,3904,10/5,4/4,181,7.8,Bradley Cooper,,
+12,Solo: A Star Wars Story,Buena Vista,"May 25, 2018",Action / Adventure,135,PG-13,275.0,179157295.0,BV,213767512,4381,84420489.0,4381,5/25,9/20,118,7.0,Ron Howard,A-,SOLO: A STAR WARS STORY (2018)
+13,Venom (2018),Sony / Columbia,"October 5, 2018",Action,112,PG-13,100.0,641498448.0,Sony,213515506,4250,80255756.0,4250,10/5,1/24,111,6.7,Ruben Fleischer,,
+14,Ralph Breaks the Internet,Buena Vista,"November 21, 2018",Animation,112,PG,175.0,328049962.0,BV,201091711,4017,56237634.0,4017,11/21,4/11,141,7.1,Phil Johnston & Rich Moore,A-,RALPH BREAKS THE INTERNET (2018)
+15,Spider-Man: Into The Spider-Verse,Sony / Columbia,"December 14, 2018",Animation,117,PG,90.0,185219302.0,Sony,190241310,3813,35363376.0,3813,12/14,4/4,111,8.5,Bob Persichetti & Peter Ramsey & Rodney Rothman,A+,SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
+16,A Quiet Place,Paramount,"April 6, 2018",Horror Thriller,95,PG-13,17.0,152915000.0,Par.,188024361,3808,50203562.0,3808,4/6,8/2,118,7.6,John Krasinski,,
+17,Crazy Rich Asians,Warner Bros.,"August 15, 2018",Romantic Comedy,120,PG-13,30.0,64000000.0,WB,174532921,3865,26510140.0,3865,8/15,1/10,148,7.0,Jon M. Chu,A,CRAZY RICH ASIANS (2018)
+18,Mary Poppins Returns,Buena Vista,"December 19, 2018",Musical,130,PG,130.0,177514359.0,BV,171958438,4090,23523121.0,4090,12/19,4/11,113,6.9,Rob Marshall,A-,MARY POPPINS RETURNS (2018)
+19,Hotel Transylvania 3: Summer Vacation,Sony / Columbia,"July 13, 2018",Animation,97,PG,80.0,361073758.0,Sony,167510016,4267,44076225.0,4267,7/13,11/29,139,6.3,Genndy Tartakovsky,A-,HOTEL TRANSYLVANIA 3: SUMMER VACATION (2018)
+20,Fantastic Beasts: The Crimes of Grindelwald,Warner Bros.,"November 16, 2018",Fantasy,134,PG-13,200.0,494100000.0,WB,159555901,4163,62163104.0,4163,11/16,2/21,97,6.7,David Yates,B+,FANTASTIC BEASTS: THE CRIMES OF GRINDELWALD (2018)
+21,Halloween (2018),Universal,"October 19, 2018",Horror,109,R,10.0,94943694.0,Uni.,159342015,3990,76221545.0,3990,10/19,1/3,76,6.7,David Gordon Green,B+,HALLOWEEN (2018)
+22,The Meg,Warner Bros.,"August 10, 2018",Sci-Fi Thriller,113,PG-13,130.0,384800000.0,WB,145443742,4118,45402195.0,4118,8/10,11/1,83,5.7,Jon Turteltaub,,
+23,Ocean's 8,Warner Bros.,"June 8, 2018",Action / Adventure,110,PG-13,70.0,157500000.0,WB,140218711,4145,41607378.0,4145,6/8,9/20,104,6.2,Gary Ross,,
+24,Ready Player One,Warner Bros.,"March 29, 2018",Sci-Fi Action,140,PG-13,175.0,445200000.0,WB,137690172,4234,41764050.0,4234,3/29,7/5,98,7.5,Steven Spielberg,A-,READY PLAYER ONE (2018)
+25,Bumblebee,Paramount,"December 21, 2018",Sci-Fi Action,114,PG-13,135.0,340794056.0,Par.,127195589,3597,21654047.0,3597,12/21,3/7,76,6.9,Travis Knight,A-,BUMBLEBEE (2018)
+26,Mamma Mia! Here We Go Again,Universal,"July 20, 2018",Musical,114,PG-13,75.0,274110946.0,Uni.,120634935,3514,34952180.0,3514,7/20,10/11,83,6.8,Ol Parker,A-,MAMMA MIA! HERE WE GO AGAIN (2018)
+27,The Nun,Warner Bros. (New Line),"September 7, 2018",Horror,96,R,22.0,248100000.0,WB (NL),117450119,3876,53807379.0,3876,9/7,11/22,76,5.4,Corin Hardy,,
+28,Creed II,MGM,"November 21, 2018",Sports Drama,117,PG-13,50.0,98300000.0,MGM,115715889,3752,35574710.0,3752,11/21,3/21,120,7.2,Steven Caple Jr.,A,CREED II (2018)
+29,Peter Rabbit,Sony / Columbia,"February 9, 2018",Family,93,PG,50.0,236013009.0,Sony,115253424,3725,25010928.0,3725,2/9,6/14,125,6.6,Will Gluck,A-,PETER RABBIT (2018)
+30,The Mule,Warner Bros.,"December 14, 2018",Crime Drama,116,R,50.0,68700000.0,WB,103804407,3329,17509431.0,3329,12/14,3/14,90,7.1,Clint Eastwood,,
+31,The Equalizer 2,Sony / Columbia,"July 20, 2018",Thriller,121,R,62.0,88315795.0,Sony,102084362,3388,36011640.0,3388,7/20,9/20,62,6.7,Antoine Fuqua,,
+32,Rampage (2018),Warner Bros. (New Line),"April 13, 2018",Action / Adventure,107,PG-13,120.0,327000000.0,WB (NL),101028233,4115,35753093.0,4115,4/13,7/26,104,6.1,Brad Peyton,,
+33,A Wrinkle in Time,Buena Vista,"March 9, 2018",Fantasy,115,PG,,32197256.0,BV,100478608,3980,33123609.0,3980,3/9,7/5,118,4.2,Ava DuVernay,,
+34,Fifty Shades Freed,Universal,"February 9, 2018",Romance,105,R,55.0,271501689.0,Uni.,100407760,3768,38560195.0,3768,2/9,4/5,55,4.5,James Foley,B+,FIFTY SHADES FREED (2018)
+35,Disney's Christopher Robin,Buena Vista,"August 3, 2018",Fantasy,104,PG,75.0,98529335.0,BV,99215042,3602,24585139.0,3602,8/3,11/29,118,7.3,Marc Forster,,
+36,Green Book,Universal,"November 16, 2018",Comedy / Drama,130,PG-13,23.0,234370891.0,Uni.,85080171,2648,320429.0,2648,11/16,5/2,167,8.3,Peter Farrelly,,
+37,I Can Only Imagine,Roadside Attractions,"March 16, 2018",Family,110,PG,7.0,,RAtt.,83482352,2894,17108914.0,2894,3/16,7/12,118,7.4,Andrew Erwin & Jon Erwin,A+,I CAN ONLY IMAGINE (2018)
+38,Smallfoot,Warner Bros.,"September 28, 2018",Animation,87,PG,,130900000.0,WB,83240103,4131,23045635.0,4131,9/28,1/17,111,6.7,Karey Kirkpatrick & Jason Reisig,A-,SMALLFOOT (2018)
+39,Night School (2018),Universal,"September 28, 2018",Comedy,111,PG-13,29.0,25755573.0,Uni.,77339130,3019,27257615.0,3019,9/28,1/3,97,5.6,Malcolm D. Lee,,
+40,The First Purge,Universal,"July 4, 2018",Thriller,97,R,13.0,67497457.0,Uni.,69488745,3038,17374280.0,3038,7/4,9/6,64,5.1,Gerard McMurray,,
+41,Game Night,Warner Bros. (New Line),"February 23, 2018",Action Comedy,100,R,37.0,48500000.0,WB (NL),69179066,3502,17005332.0,3502,2/23,6/21,118,7.0,John Francis Daley & Jonathan Goldstein,B+,GAME NIGHT (2018)
+42,Book Club,Paramount,"May 18, 2018",Comedy,104,PG-13,,,Par.,68566296,3169,13582231.0,3169,5/18,8/9,83,6.1,Bill Holderman,A-,BOOK CLUB (2018)
+43,The House With A Clock In Its Walls,Universal,"September 21, 2018",Fantasy,104,PG,42.0,62907452.0,Uni.,68549695,3592,26608020.0,3592,9/21,1/3,104,6.0,Eli Roth,,
+44,Skyscraper,Universal,"July 13, 2018",Action,102,PG-13,125.0,236448841.0,Uni.,68420120,3822,24905015.0,3822,7/13,9/27,76,5.8,Rawson Marshall Thurber,B+,SKYSCRAPER (2018)
+45,Insidious: The Last Key,Universal,"January 5, 2018",Horror,103,PG-13,10.0,100140258.0,Uni.,67745330,3150,29581355.0,3150,1/5,3/29,83,5.7,Adam Robitel,B-,INSIDIOUS: THE LAST KEY (2018)
+46,Instant Family,Paramount,"November 16, 2018",Comedy,119,PG-13,48.0,53192964.0,Par.,67363237,3426,14504315.0,3426,11/16,1/31,76,7.4,Sean Anders,A,INSTANT FAMILY (2018)
+47,Blockers,Universal,"April 6, 2018",Comedy,102,R,21.0,33733798.0,Uni.,60311495,3418,20556350.0,3418,4/6,8/2,118,6.2,Kay Cannon,B,BLOCKERS (2018)
+48,Pacific Rim Uprising,Universal,"March 23, 2018",Sci-Fi Action,111,PG-13,150.0,231055623.0,Uni.,59874525,3708,28116535.0,3708,3/23,7/26,125,5.6,Steven S. DeKnight,B,PACIFIC RIM UPRISING (2018)
+49,Tomb Raider,Warner Bros.,"March 16, 2018",Action / Adventure,118,PG-13,94.0,216400000.0,WB,58250803,3854,23633317.0,3854,3/16,5/31,76,6.3,Roar Uthaug,B,TOMB RAIDER (2018)
+50,Maze Runner: The Death Cure,Fox,"January 26, 2018",Sci-Fi Adventure,142,PG-13,62.0,230229298.0,Fox,58032443,3793,24167011.0,3793,1/26,5/3,97,6.2,Wes Ball,B+,MAZE RUNNER: THE DEATH CURE (2018)
+51,The Nutcracker and the Four Realms,Buena Vista,"November 2, 2018",Adventure,99,PG,120.0,119102218.0,BV,54858851,3766,20352491.0,3766,11/2,1/17,76,5.5,Lasse Hallström & Joe Johnston,,
+52,Tag,Warner Bros. (New Line),"June 15, 2018",Comedy,100,R,28.0,23400000.0,WB (NL),54730625,3382,14947396.0,3382,6/15,9/13,90,6.6,Jeff Tomsic,B+,TAG (2018)
+53,A Simple Favor,Lionsgate,"September 14, 2018",Thriller,116,R,20.0,44095117.0,LGF,53548586,3102,16011689.0,3102,9/14,11/22,69,6.9,Paul Feig,,
+54,Life of the Party ,Warner Bros. (New Line),"May 11, 2018",Comedy,105,PG-13,,12800000.0,WB (NL),53059911,3656,17886075.0,3656,5/11,8/2,83,5.5,Ben Falcone,,
+55,The Predator (2018),Fox,"September 14, 2018",Sci-Fi Action,108,R,88.0,109517426.0,Fox,51024708,4070,24632284.0,4070,9/14,11/29,76,5.4,Shane Black,,
+56,Overboard (2018),Pantelion,"May 4, 2018",Romantic Comedy,112,PG-13,12.0,40928790.0,PNT,50316123,2006,14711101.0,2006,5/4,7/5,62,5.9,Rob Greenberg,A-,OVERBOARD (2018)
+57,Sicario: Day of the Soldado,Sony / Columbia,"June 29, 2018",Action / Adventure,122,R,35.0,25764448.0,Sony,50072235,3055,19007566.0,3055,6/29,9/20,83,7.1,Stefano Sollima,B,SICARIO: DAY OF THE SOLDADO (2018)
+58,BlacKkKlansman,Focus Features,"August 10, 2018",Drama,134,R,15.0,43321233.0,Focus,49275340,1914,10845330.0,1914,8/10,3/1,203,7.5,Spike Lee,A-,BLACKKKLANSMAN (2018)
+59,I Feel Pretty,STX Entertainment,"April 20, 2018",Comedy,110,PG-13,32.0,45743825.0,STX,48795601,3440,16030218.0,3440,4/20,6/21,62,5.4,Abby Kohn & Marc Silverstein,B+,I FEEL PRETTY (2018)
+60,Vice,Annapurna Pictures,"December 25, 2018",Drama,132,R,,28237206.0,Annapurna,47836282,2534,7768371.0,2534,12/25,4/11,107,8.2,???,C+,VICE (2018)
+61,Red Sparrow,Fox,"March 2, 2018",Thriller,139,R,69.0,104698129.0,Fox,46874505,3064,16853422.0,3064,3/2,6/7,97,6.6,Francis Lawrence,B,RED SPARROW (2018)
+62,Breaking In (2018),Universal,"May 11, 2018",Thriller,88,PG-13,6.0,4571030.0,Uni.,46840590,2537,17630285.0,2537,5/11,8/2,83,5.4,James McTeigue,,
+63,Goosebumps 2: Haunted Halloween,Sony / Columbia,"October 12, 2018",Comedy,90,PG,35.0,46619747.0,Sony,46700633,3723,15802225.0,3723,10/12,12/20,69,5.6,Ari Sandel,B,GOOSEBUMPS 2: HAUNTED HALLOWEEN (2018)
+64,12 Strong,Warner Bros.,"January 19, 2018",War Drama,129,R,,21631102.0,WB,45819713,3018,15815025.0,3018,1/19,3/29,69,6.6,Nicolai Fuglsig,A,12 STRONG (2018)
+65,Den of Thieves,STX Entertainment,"January 19, 2018",Action Thriller,140,R,,35562000.0,STX,44947622,2432,15206108.0,2432,1/19,3/22,62,7.0,Christian Gudegast,B+,DEN OF THIEVES (2018)
+66,First Man,Universal,"October 12, 2018",Drama,138,PG-13,59.0,60735601.0,Uni.,44936545,3640,16006065.0,3640,10/12,1/3,83,7.4,Damien Chazelle,B+,FIRST MAN (2018)
+67,Hereditary,A24,"June 8, 2018",Horror,126,R,,35267365.0,A24,44069456,2998,13575172.0,2998,6/8,8/30,83,7.3,Ari Aster,D+,HEREDITARY (2018)
+68,Tyler Perry's Acrimony,Lionsgate,"March 30, 2018",Thriller,120,R,,2854573.0,LGF,43549096,2006,17170707.0,2006,3/30,6/7,69,5.7,Tyler Perry,,
+69,Sherlock Gnomes,Paramount,"March 23, 2018",Animation,86,PG,59.0,47103000.0,Par.,43242871,3662,10604774.0,3662,3/23,6/14,83,5.1,John Stevenson,B+,SHERLOCK GNOMES (2018)
+70,Uncle Drew,Lionsgate/Summit,"June 29, 2018",Comedy,103,PG-13,,4194468.0,LG/S,42469946,2742,15242781.0,2742,6/29,9/13,76,5.7,Charles Stone III,A,UNCLE DREW (2018)
+71,Widows,Fox,"November 16, 2018",Crime Thriller,128,R,42.0,33582068.0,Fox,42402632,2803,12361307.0,2803,11/16,2/21,97,7.0,Steve McQueen,B,WIDOWS (2018)
+72,Truth or Dare,Universal,"April 13, 2018",Thriller,100,PG-13,3.5,53919478.0,Uni.,41411015,3068,18667855.0,3068,4/13,7/26,104,4.3,Elizabeth Banks & Steven Brill & Steve Carr,B-,TRUTH OR DARE (2018)
+73,Paddington 2,Warner Bros.,"January 12, 2018",Family Adventure,103,PG,,186440347.0,WB,40891591,3702,11001961.0,3702,1/12,3/15,62,7.9,Paul King,A,PADDINGTON 2 (2018)
+74,"Love, Simon",Fox,"March 16, 2018",Romantic Comedy,109,PG-13,17.0,25489948.0,Fox,40826341,2434,11756244.0,2434,3/16,6/14,90,7.6,Greg Berlanti,A+,"LOVE, SIMON (2018)"
+75,Second Act,STX Entertainment,"December 21, 2018",Romantic Comedy,100,PG-13,16.0,33000000.0,STX,39282227,2607,6489983.0,2607,12/21,2/21,62,5.8,Peter Segal,B+,SECOND ACT (2018)
+76,The Commuter,Lionsgate,"January 12, 2018",Action,105,PG-13,,83598529.0,LGF,36343858,2892,13701452.0,2892,1/12,3/15,62,6.3,Jaume Collet-Serra,,
+77,The 15:17 to Paris,Warner Bros.,"February 9, 2018",Drama,94,PG-13,30.0,20800000.0,WB,36276286,3042,12554286.0,3042,2/9,4/12,62,5.2,Clint Eastwood,,
+78,Mile 22,STX Entertainment,"August 17, 2018",Action,95,R,50.0,30200000.0,STX,36108758,3520,13710825.0,3520,8/17,10/4,48,6.1,Peter Berg,B-,MILE 22 (2018)
+79,Alpha,Studio 8,"August 17, 2018",Action Thriller,96,PG-13,51.0,62346015.0,Studio 8,35857181,2881,10352512.0,2881,8/17,11/22,97,6.7,Albert Hughes,B+,ALPHA (2018)
+80,Peppermint,STX Entertainment,"September 7, 2018",Action Thriller,102,R,25.0,18400000.0,STX,35418723,2980,13423255.0,2980,9/7,11/1,55,6.5,Pierre Morel,B+,PEPPERMINT (2018)
+81,The Favourite,Fox Searchlight,"November 23, 2018",Drama,119,R,,61551923.0,FoxS,34366783,1554,422410.0,1554,11/23,4/11,139,7.6,Yorgos Lanthimos,,
+82,Death Wish (2018),MGM,"March 2, 2018",Action / Crime,107,R,30.0,,MGM,34017028,2882,13010267.0,2882,3/2,5/31,90,6.4,Eli Roth,,
+83,The Spy Who Dumped Me,Lionsgate,"August 3, 2018",Action Comedy,116,R,40.0,41756475.0,LGF,33562069,3111,12103043.0,3111,8/3,9/27,55,6.0,Susanna Fogel,,
+84,Annihilation,Paramount,"February 23, 2018",Sci-Fi,115,R,40.0,,Par.,32732301,2112,11071584.0,2112,2/23,4/19,55,6.9,Alex Garland,C,ANNIHILATION (2018)
+85,Isle Of Dogs,Fox Searchlight,"March 23, 2018",Animation,101,PG-13,,32226268.0,FoxS,32015231,1947,1620294.0,1947,3/23,8/30,160,7.9,Wes Anderson,,
+86,Nobody's Fool,Paramount,"November 2, 2018",Comedy,110,R,19.0,1819483.0,Par.,31713110,2468,13743111.0,2468,11/2,12/20,48,4.6,Tyler Perry,,
+87,Adrift,STX Entertainment,"June 1, 2018",Drama,96,PG-13,35.0,28500000.0,STX,31445012,3015,11603039.0,3015,6/1,8/2,62,6.6,Baltasar Kormákur,B,ADRIFT (2018)
+88,Robin Hood (2018),Lionsgate/Summit,"November 21, 2018",Action / Adventure,104,PG-13,100.0,53955918.0,LG/S,30824628,2827,9195670.0,2827,11/21,1/10,50,5.3,Otto Bathurst,B,ROBIN HOOD (2018)
+89,Super Troopers 2,Fox,"April 20, 2018",Comedy,100,R,13.5,,Fox,30617396,2125,15181624.0,2125,4/20,7/12,83,6.1,Jay Chandrasekhar,B+,SUPER TROOPERS 2 (2018)
+90,Holmes and Watson,Sony / Columbia,"December 25, 2018",Comedy,91,PG-13,42.0,9893344.0,Sony,30573626,2780,7411522.0,2780,12/25,2/21,58,3.8,Etan Cohen,,
+91,Slender Man,Sony / Screen Gems,"August 10, 2018",Horror,93,PG-13,10.0,21169065.0,SGem,30569484,2358,11371866.0,2358,8/10,11/1,83,3.2,Sylvain White,D-,SLENDER MAN (2018)
+92,Teen Titans Go! To The Movies,Warner Bros.,"July 27, 2018",Animation,93,PG,10.0,22300000.0,WB,29790236,3188,10411189.0,3188,7/27,10/11,76,6.8,Aaron Horvath & Peter Rida Michail,B+,TEEN TITANS GO! TO THE MOVIES (2018)
+93,The Hate U Give,Fox,"October 5, 2018",Crime Drama,132,PG-13,23.0,5214526.0,Fox,29719483,2375,512035.0,2375,10/5,1/17,104,7.2,George Tillman Jr.,,
+94,Searching,Sony / Screen Gems,"August 24, 2018",Thriller,102,PG-13,,49441080.0,SGem,26020957,2009,388769.0,2009,8/24,11/15,83,7.7,Aneesh Chaganty,A,SEARCHING FOR BOBBY FISCHER (1993)
+95,Winchester,Lionsgate,"February 2, 2018",Horror,99,PG-13,,,LGF,25091816,2480,9307626.0,2480,2/2,3/29,55,5.4,Michael Spierig & Peter Spierig,B-,WINCHESTER (2018)
+96,On the Basis of Sex,Focus Features,"December 25, 2018",Drama,120,PG-13,,13536459.0,Focus,24622687,1957,686355.0,1957,12/25,3/7,72,6.8,Mimi Leder,A,ON THE BASIS OF SEX (2019)
+97,Strangers: Prey at Night,Aviron,"March 9, 2018",Horror,85,R,,,Aviron,24586708,2464,10402271.0,2464,3/9,5/31,83,5.2,Johannes Roberts,C,STRANGERS: PREY AT NIGHT (2018)
+98,White Boy Rick,Studio 8,"September 14, 2018",Crime Drama,110,R,29.0,1946294.0,Studio 8,24011188,2504,8860431.0,2504,9/14,11/8,55,6.4,Yann Demange,B,WHITE BOY RICK (2018)
+99,Won't You Be My Neighbor?,Focus Features,"June 8, 2018",Documentary,94,PG-13,,,Focus,22835787,893,475419.0,893,6/8,9/13,97,8.4,Morgan Neville,,
+100,Overlord,Paramount,"November 9, 2018",Horror,109,R,38.0,19953000.0,Par.,21704844,2859,10202108.0,2859,11/9,12/20,41,6.7,Julius Avery,B,OVERLORD (2018)
+101,Proud Mary,Sony / Screen Gems,"January 12, 2018",Drama,88,R,14.0,876352.0,SGem,20877013,2125,9959053.0,2125,1/12,3/8,55,4.9,Babak Najafi,B+,PROUD MARY (2018)
+102,The Happytime Murders,STX Entertainment,"August 24, 2018",Comedy,91,R,40.0,6800000.0,STX,20706452,3256,9532425.0,3256,8/24,9/27,34,5.3,Brian Henson,,
+103,Superfly,Sony / Columbia,"June 13, 2018",Action / Crime,116,R,16.0,235569.0,Sony,20545116,2220,6870740.0,2220,6/13,8/9,57,5.1,Director X.,B+,SUPERFLY (2018)
+104,They Shall Not Grow Old,Warner Bros.,"December 17, 2018",Documentary,120,R,,,WB,17956913,1335,,1335,12/17,5/9,143,8.4,Peter Jackson,,
+105,Show Dogs,Global Road,"May 18, 2018",Comedy,90,PG,,21299834.0,Global Road,17857020,3212,6023972.0,3212,5/18,10/11,146,3.7,Raja Gosnell,A-,SHOW DOGS (2018)
+106,Bad Times At The El Royale,Fox,"October 12, 2018",Thriller,141,R,32.0,14043609.0,Fox,17839115,2808,7132647.0,2808,10/12,12/6,55,7.1,Drew Goddard,B-,BAD TIMES AT THE EL ROYALE (2018)
+107,Operation Finale,MGM,"August 29, 2018",Thriller,122,PG-13,24.0,,MGM,17612099,1818,6022758.0,1818,8/29,11/15,78,6.5,Chris Weitz,A-,OPERATION FINALE (2018)
+108,"Paul, Apostle of Christ",Sony / AFFIRM Films,"March 23, 2018",Drama,107,PG-13,5.0,5478768.0,Affirm,17560475,1473,5172585.0,1473,3/23,5/24,62,6.7,Andrew Hyatt,,
+109,Free Solo,National Geographic Entertainment,"September 28, 2018",Documentary,100,PG-13,,,NGE,17541090,483,294288.0,483,9/28,-,,8.2,Jimmy Chin & Elizabeth Chai Vasarhelyi,,
+110,Sorry to Bother You,Annapurna Pictures,"July 6, 2018",Sci-Fi Comedy,105,R,,,Annapurna,17493096,1050,727266.0,1050,7/6,11/1,118,7.0,Boots Riley,,
+111,Chappaquiddick,Entertainment Studios,"April 6, 2018",Thriller,101,PG-13,,591151.0,ENTMP,17395520,1645,5765854.0,1645,4/6,8/1,117,6.5,John Curran,B,CHAPPAQUIDDICK (2018)
+112,Mary Queen of Scots,Focus Features,"December 7, 2018",Drama,125,R,,29900000.0,Focus,16468499,1052,194777.0,1052,12/7,1/31,55,6.3,Josie Rourke,,
+113,Forever My Girl,Roadside Attractions,"January 19, 2018",Romance,104,PG,3.5,,RAtt.,16376066,1427,4245630.0,1427,1/19,5/10,111,6.7,Bethany Ashton Wolf,,
+114,Mortal Engines,Universal,"December 14, 2018",Action / Adventure,128,PG-13,100.0,67663924.0,Uni.,15951040,3103,7559850.0,3103,12/14,1/17,34,6.1,Christian Rivers,B-,MORTAL ENGINES (2018)
+115,Hunter Killer,Lionsgate/Summit,"October 26, 2018",Action,121,R,40.0,,LG/S,15767460,2728,6653777.0,2728,10/26,11/29,34,6.6,Donovan Marsh,A-,HUNTER KILLER (2018)
+116,If Beale Street Could Talk,Annapurna Pictures,"December 14, 2018",Crime Drama,117,R,,5656918.0,Annapurna,14915773,1018,224476.0,1018,12/14,4/11,118,7.2,Barry Jenkins,,
+117,The Girl in the Spider's Web: A New Dragon Tattoo Story,Sony / Columbia,"November 9, 2018",Crime Thriller,117,R,43.0,20323582.0,Sony,14841338,2929,7810112.0,2929,11/9,12/20,41,6.1,Fede Alvarez,,
+118,The Possession of Hannah Grace,Sony / Screen Gems,"November 30, 2018",Horror,85,R,7.7,28179106.0,SGem,14837422,2298,6401744.0,2298,11/30,2/21,83,5.2,Diederik Van Rooijen,,
+119,RBG,Magnolia,"May 4, 2018",Documentary,97,PG,,,Magn.,14017361,432,578470.0,432,5/4,10/11,160,7.5,Julie Cohen & Betsy West,,
+120,Eighth Grade,A24,"July 13, 2018",Comedy,93,R,,,A24,13539709,1084,263797.0,1084,7/13,10/4,83,7.5,Bo Burnham,,
+121,The Darkest Minds,Fox,"August 3, 2018",Sci-Fi Thriller,105,PG-13,34.0,28446688.0,Fox,12695691,3127,5842609.0,3127,8/3,10/18,76,5.7,Jennifer Yuh Nelson,,
+122,Three Identical Strangers,Neon,"June 29, 2018",Documentary,96,PG-13,,,Neon,12320845,433,171503.0,433,6/29,10/18,111,7.7,Tim Wardle,,
+123,Upgrade,BH Tilt,"June 1, 2018",Thriller,95,R,,2400000.0,BH Tilt,11977130,1458,4670905.0,1458,6/1,8/2,62,7.6,Leigh Whannell,,
+124,Padmaavat,Viva Pictures Distribution,"January 25, 2018",Drama,164,Unrated,,11145000.0,VPD,11846060,354,4493384.0,354,1/25,2/25,31,7.0,Sanjay Leela Bhansali,,
+125,The Old Man & the Gun,Fox Searchlight,"September 28, 2018",Drama,96,PG-13,,,FoxS,11277120,1042,142131.0,1042,9/28,1/24,118,6.8,David Lowery,,
+126,Hell Fest,Lionsgate,"September 28, 2018",Horror Thriller,89,R,5.5,7052260.0,LGF,11107431,2297,5130963.0,2297,9/28,11/8,41,5.5,Gregory Plotkin,C,HELL FEST (2018)
+127,Welcome to Marwen,Universal,"December 21, 2018",Drama,116,PG-13,39.0,2145345.0,Uni.,10763520,1911,2354205.0,1911,12/21,1/17,27,6.1,Robert Zemeckis,B-,WELCOME TO MARWEN (2018)
+128,The Miracle Season,Mirror/LD,"April 6, 2018",Drama,99,PG,,,Mirr/LD,10230620,1707,3950652.0,1707,4/6,7/5,90,6.5,Sean McNamara,,
+129,The Wife,Sony Classics,"August 17, 2018",Drama,100,R,,8604220.0,SPC,9601092,541,108284.0,541,8/17,4/18,244,7.2,Björn Runge,,
+130,Midnight Sun,Global Road,"March 23, 2018",Romance,91,PG-13,,17804403.0,Global Road,9561064,2173,4003993.0,2173,3/23,5/10,48,6.6,Scott Speer,A-,MIDNIGHT SUN (2018)
+131,Tully (2018),Focus Features,"May 4, 2018",Comedy,96,R,,6266707.0,Focus,9369755,1356,3282610.0,1356,5/4,7/5,62,7.0,Jason Reitman,,
+132,Traffik,Lionsgate,"April 20, 2018",Thriller,96,R,,336279.0,LGF,9186156,1046,3941338.0,1046,4/20,5/31,41,6.0,Deon Taylor,,
+133,Unfriended: Dark Web,BH Tilt,"July 20, 2018",Thriller,88,R,1.0,6300000.0,BH Tilt,8866745,1547,3653035.0,1547,7/20,8/16,27,5.9,Stephen Susco,C,UNFRIENDED: DARK WEB (2018)
+134,Can You Ever Forgive Me?,Fox Searchlight,"October 19, 2018",Drama,107,R,,,FoxS,8803865,555,161510.0,555,10/19,-,,7.2,Marielle Heller,,
+135,Early Man,Lionsgate,"February 16, 2018",Animation,89,PG,,46355270.0,LGF,8267544,2494,3190525.0,2494,2/16,3/29,41,6.1,Nick Park,B,EARLY MAN (2018)
+136,The Death of Stalin,IFC,"March 9, 2018",Comedy / Drama,106,R,,16598199.0,IFC,8047856,548,184805.0,548,3/9,7/26,139,7.2,Armando Iannucci,,
+137,Sanju,FIP,"June 29, 2018",Drama,155,Unrated,,63625813.0,FIP,7909317,359,2723349.0,359,6/29,8/16,48,7.9,Rajkumar Hirani,,
+138,Unsane,Bleecker Street,"March 23, 2018",Thriller,98,R,,6560702.0,BST,7732899,2023,3762145.0,2023,3/23,4/12,20,6.4,Steven Soderbergh,B-,UNSANE (2018)
+139,Beautiful Boy (2018),Amazon Studios,"October 12, 2018",Drama,112,R,,8659781.0,Amazon,7649973,776,218888.0,776,10/12,2/7,118,7.3,Felix van Groeningen,,
+140,Mid90s,A24,"October 19, 2018",Comedy / Drama,84,R,,,A24,7362439,1206,258157.0,1206,10/19,12/23,65,7.4,Jonah Hill,,
+141,Dog Days (2018),LD Entertainment,"August 8, 2018",Comedy,112,PG,,,LD,6809080,2442,2554766.0,2442,8/8,9/27,50,6.1,Ken Marino,,
+142,Boy Erased,Focus Features,"November 2, 2018",Drama,114,R,,4600000.0,Focus,6788692,672,207057.0,672,11/2,1/3,62,7.0,Joel Edgerton,,
+143,Hotel Artemis,Global Road,"June 8, 2018",Action Thriller,93,R,,6043642.0,Global Road,6708147,2407,3232790.0,2407,6/8,7/19,41,6.1,Drew Pearce,C-,HOTEL ARTEMIS (2018)
+144,A.X.L.,Global Road,"August 24, 2018",Family Adventure,98,PG,,,Global Road,6501381,1710,2798229.0,1710,8/24,10/18,55,5.2,Oliver Daly,,
+145,Fahrenheit 11/9,Briarcliff,"September 21, 2018",Documentary,128,R,,,Briarcliff,6352306,1719,3008563.0,1719,9/21,11/1,41,6.7,Michael Moore,A,FAHRENHEIT 11/9 (2018)
+146,Unbroken: Path to Redemption,Pure Flix,"September 14, 2018",Drama,98,PG-13,,,PFR,6216897,1620,2238723.0,1620,9/14,11/29,76,5.7,Harold Cronk,A,UNBROKEN: PATH TO REDEMPTION (2018)
+147,The Hurricane Heist,Entertainment Studios,"March 9, 2018",Action Thriller,103,PG-13,35.0,,ENTMP,6115825,2402,3024399.0,2402,3/9,5/10,62,5.1,Rob Cohen,,
+148,Every Day (2018),Orion Pictures,"February 23, 2018",Drama,95,PG-13,4.9,,Orion,6102076,1669,3016149.0,1669,2/23,3/22,27,6.4,Michael Sucsy,,
+149,Once Upon a Deadpool,Fox,"December 12, 2018",Action,117,PG-13,,44400000.0,Fox,6100309,1566,2683200.0,1566,12/12,1/24,43,7.8,David Leitch,,
+150,Leave No Trace,Bleecker Street,"June 29, 2018",Drama,108,PG,,,BST,6046104,361,219140.0,361,6/29,10/4,97,7.2,Debra Granik,,
+151,Death of a Nation,Quality Flix,"August 3, 2018",Documentary,109,PG-13,6.0,,QF,5885881,1005,2356522.0,1005,8/3,10/11,69,4.7,Dinesh D'Souza & Bruce Schooley,A,DEATH OF A NATION (2018)
+152,Pandas,Warner Bros.,"April 6, 2018",Documentary,40,G,,,WB,5757906,35,158915.0,35,4/6,7/15,100,7.4,David Douglas & Drew Fellman,,
+153,My Hero Academia: Two Heroes,FUNimation Films,"September 25, 2018",Animation,96,PG-13,,,FUN,5754556,535,1388499.0,535,9/25,10/9,14,7.8,Kenji Nagasaki,,
+154,God's Not Dead: A Light in Darkness,Pure Flix,"March 30, 2018",Drama,106,PG,,,PFR,5728940,1693,2689677.0,1693,3/30,6/14,76,4.5,Michael Mason,,
+155,Kin,Lionsgate,"August 31, 2018",Sci-Fi Action,102,PG-13,,4309460.0,LGF,5718096,2141,3035618.0,2141,8/31,9/27,27,5.7,Jonathan Baker & Josh Baker,B+,"KID WHO WOULD BE KING, THE (2019)"
+156,Stan & Ollie,Sony Classics,"December 28, 2018",Comedy / Drama,97,PG,,,SPC,5470235,754,78104.0,754,12/28,-,,7.3,Jon S. Baird,,
+157,Colette,Bleecker Street,"September 21, 2018",Drama,111,R,,,BST,5137622,593,161179.0,593,9/21,11/29,69,6.8,Wash Westmoreland,,
+158,Simmba,Reliance Big Pictures,"December 28, 2018",Action,158,Unrated,,,Relbig.,5102129,301,1758576.0,301,12/28,2/3,37,6.3,Rohit Shetty,,
+159,Action Point,Paramount,"June 1, 2018",Comedy,85,R,19.0,,Par.,5059608,2032,2390164.0,2032,6/1,6/14,13,5.0,Tim Kirkby,C+,ACTION POINT (2018)
+160,Beirut,Bleecker Street,"April 11, 2018",War Drama,109,R,,2490210.0,BST,5019226,755,1734497.0,755,4/11,6/14,64,6.4,Brad Anderson,,
+161,Gringo,STX Entertainment,"March 9, 2018",Comedy,110,R,,6031774.0,STX,4969853,2404,2722420.0,2404,3/9,4/5,27,6.1,Nash Edgerton,C+,GRINGO (2018)
+162,Samson,Pure Flix,"February 16, 2018",Drama,110,PG-13,,,PFR,4719928,1249,1942569.0,1249,2/16,4/12,55,4.4,Bruce Macdonald & Gabriel Sabloff,,
+163,Cold War (2018),Amazon Studios,"December 21, 2018",Drama,89,R,,,Amazon,4580048,270,54353.0,270,12/21,4/4,104,7.6,Pawel Pawlikowski,,
+164,Johnny English Strikes Again,Universal,"October 26, 2018",Action Comedy,88,PG,25.0,154541694.0,Uni.,4412170,552,1638895.0,552,10/26,11/22,27,6.2,David Kerr,,
+165,Gotti,Vertical Entertainment,"June 15, 2018",Crime Drama,105,R,,,VE,4343227,503,1719902.0,503,6/15,7/23,38,4.8,Kevin Connolly,,
+166,Blindspotting,Lionsgate/Summit,"July 20, 2018",Comedy / Drama,95,R,,530192.0,LG/S,4333394,523,338999.0,523,7/20,9/13,55,7.4,Carlos López Estrada,,
+167,Burn the Stage: The Movie,Trafalgar Releasing,"November 15, 2018",Documentary,84,Unrated,,16145694.0,Trafalgar,4201819,645,2420197.0,645,11/15,12/9,24,8.9,Jun-Soo Park,,
+168,Ya Veremos,Pantelion,"August 31, 2018",Comedy / Drama,97,PG-13,,,PNT,4165949,369,1803848.0,369,8/31,10/11,41,5.5,Pitipol Ybarra,,
+169,2.0,Unknown,"November 30, 2018",Sci-Fi Action,148,Unrated,,,,4152000,314,2775000.0,314,11/30,12/6,6,6.6,S. Shankar,,
+170,Life Itself (2018),Amazon Studios,"September 21, 2018",Drama,117,R,,3687623.0,Amazon,4102648,2609,2123463.0,2609,9/21,-,,6.6,Dan Fogelman,,
+171,Sgt. Stubby: An American Hero,Fun Academy,"April 13, 2018",Animation,90,PG,,,FunAcad,4015935,1633,1164403.0,1633,4/13,1/10,272,6.9,Richard Lanni,A,SGT. STUBBY: AN AMERICAN HERO (2018)
+172,Amazing Grace (2019),Neon,"December 7, 2018",Documentary,87,G,,,Neon,3728229,263,57353.0,263,12/7,-,,8.2,Mario Van Peebles,,
+173,Ben is Back,Roadside Attractions,"December 7, 2018",Drama,102,R,,,RAtt.,3703184,598,80734.0,598,12/7,2/21,76,6.7,Peter Hedges,,
+174,Gosnell: The Trial of America's Biggest Serial Killer,GVN Releasing,"October 12, 2018",Drama,93,PG-13,,,GVN,3679893,673,1162988.0,673,10/12,12/17,66,6.8,Nick Searcy,,
+175,Indivisible,Pure Flix,"October 26, 2018",Drama,119,PG-13,,,PFR,3511417,830,1503101.0,830,10/26,1/3,69,5.6,David G. Evans,,
+176,The Oscar Nominated Short Films 2018,Shorts International,"February 9, 2018",Drama,96,Unrated,,,Shrts.,3508777,272,695044.0,272,2/9,3/22,41,7.9,???,,
+177,Disobedience,Bleecker Street,"April 27, 2018",Drama,114,R,,4371345.0,BST,3498782,247,237393.0,247,4/27,8/2,97,6.6,Sebastián Lelio,,
+178,First Reformed,A24,"May 18, 2018",Thriller,113,R,,,A24,3448256,334,97562.0,334,5/18,8/2,76,7.1,Paul Schrader,,
+179,"Juliet, Naked",Roadside Attractions,"August 17, 2018",Romantic Comedy,98,R,,,RAtt.,3444895,467,60886.0,467,8/17,10/25,69,6.6,Jesse Peretz,,
+180,Bad Samaritan,Electric Entertainment,"May 4, 2018",Horror Thriller,108,R,,,Electric,3435047,2007,1726868.0,2007,5/4,5/24,20,6.4,Dean Devlin,B-,BAD SAMARITAN (2018)
+181,7 Days in Entebbe,Focus Features,"March 16, 2018",Action Thriller,107,PG-13,,5358216.0,Focus,3326885,838,1592645.0,838,3/16,4/12,27,5.8,José Padilha,,
+182,Shoplifters,Magnolia,"November 23, 2018",Drama,121,R,,,Magn.,3313513,144,89264.0,144,11/23,-,,8.0,Hirokazu Koreeda,,
+183,2001: A Space Odyssey (2018 re-release),Warner Bros.,"May 18, 2018",Sci-Fi,149,G,,,WB,3236321,13,202759.0,13,5/18,7/15,58,,???,,
+184,The Sisters Brothers,Annapurna Pictures,"September 21, 2018",Western,120,R,,10000000.0,Annapurna,3143056,1141,115575.0,1141,9/21,12/20,90,7.0,Jacques Audiard,,
+185,Thoroughbreds,Focus Features,"March 9, 2018",Drama / Thriller,92,R,,,Focus,3072605,564,1224430.0,564,3/9,4/26,48,6.7,Cory Finley,,
+186,Whitney,Roadside Attractions,"July 6, 2018",Documentary,120,R,,,RAtt.,3026351,451,1265572.0,451,7/6,9/20,76,7.2,Kevin Macdonald,,
+187,Rachel Hollis Presents: Made for More,Fathom,"August 2, 2018",Unknown,120,Unrated,,,Fathom,2999134,703,,703,8/2,1/9,160,,???,,
+188,American Animals,The Orchard,"June 1, 2018",Crime Drama,117,R,,,Orch.,2856954,339,134793.0,339,6/1,8/30,90,7.0,Bart Layton,,
+189,God Bless the Broken Road,Freestyle Releasing,"September 7, 2018",Drama,111,PG,,,Free,2846257,1272,1386254.0,1272,9/7,11/8,62,5.2,Harold Cronk,,
+190,La Boda de Valentina,Pantelion,"February 9, 2018",Romantic Comedy,107,R,,,PNT,2783739,331,1147073.0,331,2/9,3/15,34,4.7,Marco Polo Constandse,,
+191,Bharat Ane Nenu,Great India Films,"April 20, 2018",Action Drama,173,Unrated,,,GrtIndia,2663090,305,2663090.0,305,4/20,-,,8.0,Koratala Siva,,
+192,Qué León (What A Lion),Spanglish Movies,"November 29, 2018",Romantic Comedy,93,PG-13,,5200000.0,Spanglish,2607916,86,291936.0,86,11/29,3/17,108,,???,,
+193,You Were Never Really Here,Amazon Studios,"April 6, 2018",Drama / Thriller,85,R,,,Amazon,2528078,233,132829.0,233,4/6,6/14,69,6.8,Lynne Ramsay,,
+194,Suspiria,Amazon Studios,"October 26, 2018",Horror,155,R,,5329637.0,Amazon,2483472,311,184037.0,311,10/26,12/20,55,6.8,Luca Guadagnino,,
+195,The Rider,Sony Classics,"April 13, 2018",Drama,104,R,,,SPC,2419031,224,42244.0,224,4/13,12/13,244,7.5,Chloé Zhao,,
+196,Mary and the Witch's Flower,GKIDS,"January 18, 2018",Animation,102,PG,,,GK,2418404,573,348475.0,573,1/18,4/5,77,6.8,Hiromasa Yonebayashi & Giles New,,
+197,Hearts Beat Loud,Gunpowder & Sky,"June 8, 2018",Comedy / Drama,97,PG-13,,,G&S,2386251,170,74524.0,170,6/8,8/30,83,6.9,Brett Haley,,
+198,1991,Entertainment One,"July 27, 2018",Comedy,141,Unrated,,,EOne,2342264,83,328828.0,83,7/27,11/4,100,7.1,Ricardo Trogi,,
+199,Papillon (2018),Bleecker Street,"August 24, 2018",Drama,136,R,,2180684.0,BST,2335896,544,1090073.0,544,8/24,9/13,20,,???,,
+200,At Eternity's Gate,CBS Films,"November 16, 2018",Drama,110,PG-13,,,CBS,2294915,178,92856.0,178,11/16,2/10,86,6.9,Julian Schnabel,,
