@@ -1,201 +1,879 @@
-,Unnamed: 0,#,name,distributor_full_name,release_date,genre,runtime,rating,budget,rest_world,studio,total_gross,theaters_total,opening,theaters_opening,open_date,close_date
-0,0,1,Black Panther,Buena Vista,"February 16, 2018",Action / Adventure,2 hrs. 20 min.,PG-13,,"$646,853,595",BV,"$700,059,566","4,084","$202,003,951","4,020",2/16,8/9
-1,1,2,Avengers: Infinity War,Buena Vista,"April 27, 2018",Action / Adventure,2 hrs. 36 min.,PG-13,,"$1,369,544,272",BV,"$678,815,482","4,474","$257,698,183","4,474",4/27,9/13
-2,2,3,Incredibles 2,Buena Vista,"June 15, 2018",Animation,1 hrs. 58 min.,PG,,"$634,223,615",BV,"$608,581,744","4,410","$182,687,905","4,410",6/15,12/13
-3,3,4,Jurassic World: Fallen Kingdom,Universal,"June 22, 2018",Action / Adventure,2 hrs. 8 min.,PG-13,$170 million,"$891,764,701",Uni.,"$417,719,760","4,485","$148,024,610","4,475",6/22,10/4
-4,4,5,Aquaman,Warner Bros.,"December 21, 2018",Action / Adventure,2 hrs. 19 min.,PG-13,,"$812,700,000",WB,"$335,061,807","4,184","$67,873,522","4,125",12/21,4/4
-5,5,6,Deadpool 2,Fox,"May 18, 2018",Action,1 hrs. 59 min.,R,$110 million,"$460,455,185",Fox,"$318,491,426","4,349","$125,507,153","4,349",5/18,10/18
-6,6,7,Dr. Seuss' The Grinch (2018),Universal,"November 9, 2018",Animation,1 hrs. 30 min.,PG,$75 million,"$240,944,398",Uni.,"$270,620,950","4,141","$67,572,855","4,141",11/9,2/14
-7,7,8,Mission: Impossible - Fallout,Paramount,"July 27, 2018",Action,2 hrs. 27 min.,PG-13,$178 million,"$570,956,000",Par.,"$220,159,104","4,395","$61,236,534","4,386",7/27,10/18
-8,8,9,Ant-Man and the Wasp,Buena Vista,"July 6, 2018",Action,1 hrs. 58 min.,PG-13,,"$406,025,399",BV,"$216,648,740","4,206","$75,812,205","4,206",7/6,11/1
-9,9,10,Bohemian Rhapsody,Fox,"November 2, 2018",Drama,2 hrs. 14 min.,PG-13,$52 million,"$686,746,974",Fox,"$216,428,042","4,000","$51,061,119","4,000",11/2,4/25
-10,10,11,A Star is Born (2018),Warner Bros.,"October 5, 2018",Music Drama,2 hrs. 16 min.,R,$36 million,"$218,900,000",WB,"$215,288,866","3,904","$42,908,051","3,686",10/5,4/4
-11,11,12,Solo: A Star Wars Story,Buena Vista,"May 25, 2018",Action / Adventure,2 hrs. 15 min.,PG-13,$275 million,"$179,157,295",BV,"$213,767,512","4,381","$84,420,489","4,381",5/25,9/20
-12,12,13,Venom (2018),Sony / Columbia,"October 5, 2018",Action,1 hrs. 52 min.,PG-13,$100 million,"$641,498,448",Sony,"$213,515,506","4,250","$80,255,756","4,250",10/5,1/24
-13,13,14,Ralph Breaks the Internet,Buena Vista,"November 21, 2018",Animation,1 hrs. 52 min.,PG,$175 million,"$328,049,962",BV,"$201,091,711","4,017","$56,237,634","4,017",11/21,4/11
-14,14,15,Spider-Man: Into The Spider-Verse,Sony / Columbia,"December 14, 2018",Animation,1 hrs. 57 min.,PG,$90 million,"$185,219,302",Sony,"$190,241,310","3,813","$35,363,376","3,813",12/14,4/4
-15,15,16,A Quiet Place,Paramount,"April 6, 2018",Horror Thriller,1 hrs. 35 min.,PG-13,$17 million,"$152,915,000",Par.,"$188,024,361","3,808","$50,203,562","3,508",4/6,8/2
-16,16,17,Crazy Rich Asians,Warner Bros.,"August 15, 2018",Romantic Comedy,2 hrs. 0 min.,PG-13,$30 million,"$64,000,000",WB,"$174,532,921","3,865","$26,510,140","3,384",8/15,1/10
-17,17,18,Mary Poppins Returns,Buena Vista,"December 19, 2018",Musical,2 hrs. 10 min.,PG,$130 million,"$177,514,359",BV,"$171,958,438","4,090","$23,523,121","4,090",12/19,4/11
-18,18,19,Hotel Transylvania 3: Summer Vacation,Sony / Columbia,"July 13, 2018",Animation,1 hrs. 37 min.,PG,$80 million,"$361,073,758",Sony,"$167,510,016","4,267","$44,076,225","4,267",7/13,11/29
-19,19,20,Fantastic Beasts: The Crimes of Grindelwald,Warner Bros.,"November 16, 2018",Fantasy,2 hrs. 14 min.,PG-13,$200 million,"$494,100,000",WB,"$159,555,901","4,163","$62,163,104","4,163",11/16,2/21
-20,20,21,Halloween (2018),Universal,"October 19, 2018",Horror,1 hrs. 49 min.,R,$10 million,"$94,943,694",Uni.,"$159,342,015","3,990","$76,221,545","3,928",10/19,1/3
-21,21,22,The Meg,Warner Bros.,"August 10, 2018",Sci-Fi Thriller,1 hrs. 53 min.,PG-13,$130 million,"$384,800,000",WB,"$145,443,742","4,118","$45,402,195","4,118",8/10,11/1
-22,22,23,Ocean's 8,Warner Bros.,"June 8, 2018",Action / Adventure,1 hrs. 50 min.,PG-13,$70 million,"$157,500,000",WB,"$140,218,711","4,145","$41,607,378","4,145",6/8,9/20
-23,23,24,Ready Player One,Warner Bros.,"March 29, 2018",Sci-Fi Action,2 hrs. 20 min.,PG-13,$175 million,"$445,200,000",WB,"$137,690,172","4,234","$41,764,050","4,234",3/29,7/5
-24,24,25,Bumblebee,Paramount,"December 21, 2018",Sci-Fi Action,1 hrs. 54 min.,PG-13,$135 million,"$340,794,056",Par.,"$127,195,589","3,597","$21,654,047","3,550",12/21,3/7
-25,25,26,Mamma Mia! Here We Go Again,Universal,"July 20, 2018",Musical,1 hrs. 54 min.,PG-13,$75 million,"$274,110,946",Uni.,"$120,634,935","3,514","$34,952,180","3,317",7/20,10/11
-26,26,27,The Nun,Warner Bros. (New Line),"September 7, 2018",Horror,1 hrs. 36 min.,R,$22 million,"$248,100,000",WB (NL),"$117,450,119","3,876","$53,807,379","3,876",9/7,11/22
-27,27,28,Creed II,MGM,"November 21, 2018",Sports Drama,1 hrs. 57 min.,PG-13,$50 million,"$98,300,000",MGM,"$115,715,889","3,752","$35,574,710","3,441",11/21,3/21
-28,28,29,Peter Rabbit,Sony / Columbia,"February 9, 2018",Family,1 hrs. 33 min.,PG,$50 million,"$236,013,009",Sony,"$115,253,424","3,725","$25,010,928","3,725",2/9,6/14
-29,29,30,The Mule,Warner Bros.,"December 14, 2018",Crime Drama,1 hrs. 56 min.,R,$50 million,"$68,700,000",WB,"$103,804,407","3,329","$17,509,431","2,588",12/14,3/14
-30,30,31,The Equalizer 2,Sony / Columbia,"July 20, 2018",Thriller,2 hrs. 1 min.,R,$62 million,"$88,315,795",Sony,"$102,084,362","3,388","$36,011,640","3,388",7/20,9/20
-31,31,32,Rampage (2018),Warner Bros. (New Line),"April 13, 2018",Action / Adventure,1 hrs. 47 min.,PG-13,$120 million,"$327,000,000",WB (NL),"$101,028,233","4,115","$35,753,093","4,101",4/13,7/26
-32,32,33,A Wrinkle in Time,Buena Vista,"March 9, 2018",Fantasy,1 hrs. 55 min.,PG,,"$32,197,256",BV,"$100,478,608","3,980","$33,123,609","3,980",3/9,7/5
-33,33,34,Fifty Shades Freed,Universal,"February 9, 2018",Romance,1 hrs. 45 min.,R,$55 million,"$271,501,689",Uni.,"$100,407,760","3,768","$38,560,195","3,768",2/9,4/5
-34,34,35,Disney's Christopher Robin,Buena Vista,"August 3, 2018",Fantasy,1 hrs. 44 min.,PG,$75 million,"$98,529,335",BV,"$99,215,042","3,602","$24,585,139","3,602",8/3,11/29
-35,35,36,Green Book,Universal,"November 16, 2018",Comedy / Drama,2 hrs. 10 min.,PG-13,$23 million,"$234,370,891",Uni.,"$85,080,171","2,648","$320,429",25,11/16,5/2
-36,36,37,I Can Only Imagine,Roadside Attractions,"March 16, 2018",Family,1 hrs. 50 min.,PG,$7 million,no dist,RAtt.,"$83,482,352","2,894","$17,108,914","1,629",3/16,7/12
-37,37,38,Smallfoot,Warner Bros.,"September 28, 2018",Animation,1 hrs. 27 min.,PG,,"$130,900,000",WB,"$83,240,103","4,131","$23,045,635","4,131",9/28,1/17
-38,38,39,Night School (2018),Universal,"September 28, 2018",Comedy,1 hrs. 51 min.,PG-13,$29 million,"$25,755,573",Uni.,"$77,339,130","3,019","$27,257,615","3,010",9/28,1/3
-39,39,40,The First Purge,Universal,"July 4, 2018",Thriller,1 hrs. 37 min.,R,$13 million,"$67,497,457",Uni.,"$69,488,745","3,038","$17,374,280","3,031",7/4,9/6
-40,40,41,Game Night,Warner Bros. (New Line),"February 23, 2018",Action Comedy,1 hrs. 40 min.,R,$37 million,"$48,500,000",WB (NL),"$69,179,066","3,502","$17,005,332","3,488",2/23,6/21
-41,41,42,Book Club,Paramount,"May 18, 2018",Comedy,1 hrs. 44 min.,PG-13,,,Par.,"$68,566,296","3,169","$13,582,231","2,781",5/18,8/9
-42,42,43,The House With A Clock In Its Walls,Universal,"September 21, 2018",Fantasy,1 hrs. 44 min.,PG,$42 million,"$62,907,452",Uni.,"$68,549,695","3,592","$26,608,020","3,592",9/21,1/3
-43,43,44,Skyscraper,Universal,"July 13, 2018",Action,1 hrs. 42 min.,PG-13,$125 million,"$236,448,841",Uni.,"$68,420,120","3,822","$24,905,015","3,782",7/13,9/27
-44,44,45,Insidious: The Last Key,Universal,"January 5, 2018",Horror,1 hrs. 43 min.,PG-13,$10 million,"$100,140,258",Uni.,"$67,745,330","3,150","$29,581,355","3,116",1/5,3/29
-45,45,46,Instant Family,Paramount,"November 16, 2018",Comedy,1 hrs. 59 min.,PG-13,$48 million,"$53,192,964",Par.,"$67,363,237","3,426","$14,504,315","3,286",11/16,1/31
-46,46,47,Blockers,Universal,"April 6, 2018",Comedy,1 hrs. 42 min.,R,$21 million,"$33,733,798",Uni.,"$60,311,495","3,418","$20,556,350","3,379",4/6,8/2
-47,47,48,Pacific Rim Uprising,Universal,"March 23, 2018",Sci-Fi Action,1 hrs. 51 min.,PG-13,$150 million,"$231,055,623",Uni.,"$59,874,525","3,708","$28,116,535","3,708",3/23,7/26
-48,48,49,Tomb Raider,Warner Bros.,"March 16, 2018",Action / Adventure,1 hrs. 58 min.,PG-13,$94 million,"$216,400,000",WB,"$58,250,803","3,854","$23,633,317","3,854",3/16,5/31
-49,49,50,Maze Runner: The Death Cure,Fox,"January 26, 2018",Sci-Fi Adventure,2 hrs. 22 min.,PG-13,$62 million,"$230,229,298",Fox,"$58,032,443","3,793","$24,167,011","3,787",1/26,5/3
-50,50,51,The Nutcracker and the Four Realms,Buena Vista,"November 2, 2018",Adventure,1 hrs. 39 min.,PG,$120 million,"$119,102,218",BV,"$54,858,851","3,766","$20,352,491","3,766",11/2,1/17
-51,51,52,Tag,Warner Bros. (New Line),"June 15, 2018",Comedy,1 hrs. 40 min.,R,$28 million,"$23,400,000",WB (NL),"$54,730,625","3,382","$14,947,396","3,382",6/15,9/13
-52,52,53,A Simple Favor,Lionsgate,"September 14, 2018",Thriller,1 hrs. 56 min.,R,$20 million,"$44,095,117",LGF,"$53,548,586","3,102","$16,011,689","3,102",9/14,11/22
-53,53,54,Life of the Party ,Warner Bros. (New Line),"May 11, 2018",Comedy,1 hrs. 45 min.,PG-13,,"$12,800,000",WB (NL),"$53,059,911","3,656","$17,886,075","3,656",5/11,8/2
-54,54,55,The Predator (2018),Fox,"September 14, 2018",Sci-Fi Action,1 hrs. 48 min.,R,$88 million,"$109,517,426",Fox,"$51,024,708","4,070","$24,632,284","4,037",9/14,11/29
-55,55,56,Overboard (2018),Pantelion,"May 4, 2018",Romantic Comedy,1 hrs. 52 min.,PG-13,$12 million,"$40,928,790",PNT,"$50,316,123","2,006","$14,711,101","1,623",5/4,7/5
-56,56,57,Sicario: Day of the Soldado,Sony / Columbia,"June 29, 2018",Action / Adventure,2 hrs. 2 min.,R,$35 million,"$25,764,448",Sony,"$50,072,235","3,055","$19,007,566","3,055",6/29,9/20
-57,57,58,BlacKkKlansman,Focus Features,"August 10, 2018",Drama,2 hrs. 14 min.,R,$15 million,"$43,321,233",Focus,"$49,275,340","1,914","$10,845,330","1,512",8/10,3/1
-58,58,59,I Feel Pretty,STX Entertainment,"April 20, 2018",Comedy,1 hrs. 50 min.,PG-13,$32 million,"$45,743,825",STX,"$48,795,601","3,440","$16,030,218","3,440",4/20,6/21
-59,59,60,Vice,Annapurna Pictures,"December 25, 2018",Drama,2 hrs. 12 min.,R,,"$28,237,206",Annapurna,"$47,836,282","2,534","$7,768,371","2,442",12/25,4/11
-60,60,61,Red Sparrow,Fox,"March 2, 2018",Thriller,2 hrs. 19 min.,R,$69 million,"$104,698,129",Fox,"$46,874,505","3,064","$16,853,422","3,056",3/2,6/7
-61,61,62,Breaking In (2018),Universal,"May 11, 2018",Thriller,1 hrs. 28 min.,PG-13,$6 million,"$4,571,030",Uni.,"$46,840,590","2,537","$17,630,285","2,537",5/11,8/2
-62,62,63,Goosebumps 2: Haunted Halloween,Sony / Columbia,"October 12, 2018",Comedy,1 hrs. 30 min.,PG,$35 million,"$46,619,747",Sony,"$46,700,633","3,723","$15,802,225","3,521",10/12,12/20
-63,63,64,12 Strong,Warner Bros.,"January 19, 2018",War Drama,2 hrs. 9 min.,R,,"$21,631,102",WB,"$45,819,713","3,018","$15,815,025","3,002",1/19,3/29
-64,64,65,Den of Thieves,STX Entertainment,"January 19, 2018",Action Thriller,2 hrs. 20 min.,R,,"$35,562,000",STX,"$44,947,622","2,432","$15,206,108","2,432",1/19,3/22
-65,65,66,First Man,Universal,"October 12, 2018",Drama,2 hrs. 18 min.,PG-13,$59 million,"$60,735,601",Uni.,"$44,936,545","3,640","$16,006,065","3,640",10/12,1/3
-66,66,67,Hereditary,A24,"June 8, 2018",Horror,2 hrs. 6 min.,R,,"$35,267,365",A24,"$44,069,456","2,998","$13,575,172","2,964",6/8,8/30
-67,67,68,Tyler Perry's Acrimony,Lionsgate,"March 30, 2018",Thriller,2 hrs. 0 min.,R,,"$2,854,573",LGF,"$43,549,096","2,006","$17,170,707","2,006",3/30,6/7
-68,68,69,Sherlock Gnomes,Paramount,"March 23, 2018",Animation,1 hrs. 26 min.,PG,$59 million,"$47,103,000",Par.,"$43,242,871","3,662","$10,604,774","3,662",3/23,6/14
-69,69,70,Uncle Drew,Lionsgate/Summit,"June 29, 2018",Comedy,1 hrs. 43 min.,PG-13,,"$4,194,468",LG/S,"$42,469,946","2,742","$15,242,781","2,742",6/29,9/13
-70,70,71,Widows,Fox,"November 16, 2018",Crime Thriller,2 hrs. 8 min.,R,$42 million,"$33,582,068",Fox,"$42,402,632","2,803","$12,361,307","2,803",11/16,2/21
-71,71,72,Truth or Dare,Universal,"April 13, 2018",Thriller,1 hrs. 40 min.,PG-13,$3.5 million,"$53,919,478",Uni.,"$41,411,015","3,068","$18,667,855","3,029",4/13,7/26
-72,72,73,Paddington 2,Warner Bros.,"January 12, 2018",Family Adventure,1 hrs. 43 min.,PG,,"$186,440,347",WB,"$40,891,591","3,702","$11,001,961","3,702",1/12,3/15
-73,73,74,"Love, Simon",Fox,"March 16, 2018",Romantic Comedy,1 hrs. 49 min.,PG-13,$17 million,"$25,489,948",Fox,"$40,826,341","2,434","$11,756,244","2,402",3/16,6/14
-74,74,75,Second Act,STX Entertainment,"December 21, 2018",Romantic Comedy,1 hrs. 40 min.,PG-13,$16 million,"$33,000,000",STX,"$39,282,227","2,607","$6,489,983","2,607",12/21,2/21
-75,75,76,The Commuter,Lionsgate,"January 12, 2018",Action,1 hrs. 45 min.,PG-13,,"$83,598,529",LGF,"$36,343,858","2,892","$13,701,452","2,892",1/12,3/15
-76,76,77,The 15:17 to Paris,Warner Bros.,"February 9, 2018",Drama,1 hrs. 34 min.,PG-13,$30 million,"$20,800,000",WB,"$36,276,286","3,042","$12,554,286","3,042",2/9,4/12
-77,77,78,Mile 22,STX Entertainment,"August 17, 2018",Action,1 hrs. 35 min.,R,$50 million,"$30,200,000",STX,"$36,108,758","3,520","$13,710,825","3,520",8/17,10/4
-78,78,79,Alpha,Studio 8,"August 17, 2018",Action Thriller,1 hrs. 36 min.,PG-13,$51 million,"$62,346,015",Studio 8,"$35,857,181","2,881","$10,352,512","2,719",8/17,11/22
-79,79,80,Peppermint,STX Entertainment,"September 7, 2018",Action Thriller,1 hrs. 42 min.,R,$25 million,"$18,400,000",STX,"$35,418,723","2,980","$13,423,255","2,980",9/7,11/1
-80,80,81,The Favourite,Fox Searchlight,"November 23, 2018",Drama,1 hrs. 59 min.,R,,"$61,551,923",FoxS,"$34,366,783","1,554","$422,410",4,11/23,4/11
-81,81,82,Death Wish (2018),MGM,"March 2, 2018",Action / Crime,1 hrs. 47 min.,R,$30 million,,MGM,"$34,017,028","2,882","$13,010,267","2,847",3/2,5/31
-82,82,83,The Spy Who Dumped Me,Lionsgate,"August 3, 2018",Action Comedy,1 hrs. 56 min.,R,$40 million,"$41,756,475",LGF,"$33,562,069","3,111","$12,103,043","3,111",8/3,9/27
-83,83,84,Annihilation,Paramount,"February 23, 2018",Sci-Fi,1 hrs. 55 min.,R,$40 million,no dist,Par.,"$32,732,301","2,112","$11,071,584","2,012",2/23,4/19
-84,84,85,Isle Of Dogs,Fox Searchlight,"March 23, 2018",Animation,1 hrs. 41 min.,PG-13,,"$32,226,268",FoxS,"$32,015,231","1,947","$1,620,294",27,3/23,8/30
-85,85,86,Nobody's Fool,Paramount,"November 2, 2018",Comedy,1 hrs. 50 min.,R,$19 million,"$1,819,483",Par.,"$31,713,110","2,468","$13,743,111","2,468",11/2,12/20
-86,86,87,Adrift,STX Entertainment,"June 1, 2018",Drama,1 hrs. 36 min.,PG-13,$35 million,"$28,500,000",STX,"$31,445,012","3,015","$11,603,039","3,015",6/1,8/2
-87,87,88,Robin Hood (2018),Lionsgate/Summit,"November 21, 2018",Action / Adventure,1 hrs. 44 min.,PG-13,$100 million,"$53,955,918",LG/S,"$30,824,628","2,827","$9,195,670","2,827",11/21,1/10
-88,88,89,Super Troopers 2,Fox,"April 20, 2018",Comedy,1 hrs. 40 min.,R,$13.5 million,no dist,Fox,"$30,617,396","2,125","$15,181,624","2,038",4/20,7/12
-89,89,90,Holmes and Watson,Sony / Columbia,"December 25, 2018",Comedy,1 hrs. 31 min.,PG-13,$42 million,"$9,893,344",Sony,"$30,573,626","2,780","$7,411,522","2,776",12/25,2/21
-90,90,91,Slender Man,Sony / Screen Gems,"August 10, 2018",Horror,1 hrs. 33 min.,PG-13,$10 million,"$21,169,065",SGem,"$30,569,484","2,358","$11,371,866","2,358",8/10,11/1
-91,91,92,Teen Titans Go! To The Movies,Warner Bros.,"July 27, 2018",Animation,1 hrs. 33 min.,PG,$10 million,"$22,300,000",WB,"$29,790,236","3,188","$10,411,189","3,188",7/27,10/11
-92,92,93,The Hate U Give,Fox,"October 5, 2018",Crime Drama,2 hrs. 12 min.,PG-13,$23 million,"$5,214,526",Fox,"$29,719,483","2,375","$512,035",36,10/5,1/17
-93,93,94,Searching,Sony / Screen Gems,"August 24, 2018",Thriller,1 hrs. 42 min.,PG-13,,"$49,441,080",SGem,"$26,020,957","2,009","$388,769",9,8/24,11/15
-94,94,95,Winchester,Lionsgate,"February 2, 2018",Horror,1 hrs. 39 min.,PG-13,,,LGF,"$25,091,816","2,480","$9,307,626","2,480",2/2,3/29
-95,95,96,On the Basis of Sex,Focus Features,"December 25, 2018",Drama,2 hrs. 0 min.,PG-13,,"$13,536,459",Focus,"$24,622,687","1,957","$686,355",33,12/25,3/7
-96,96,97,Strangers: Prey at Night,Aviron,"March 9, 2018",Horror,1 hrs. 25 min.,R,,,Aviron,"$24,586,708","2,464","$10,402,271","2,464",3/9,5/31
-97,97,98,White Boy Rick,Studio 8,"September 14, 2018",Crime Drama,1 hrs. 50 min.,R,$29 million,"$1,946,294",Studio 8,"$24,011,188","2,504","$8,860,431","2,504",9/14,11/8
-98,98,99,Won't You Be My Neighbor?,Focus Features,"June 8, 2018",Documentary,1 hrs. 34 min.,PG-13,,no dist,Focus,"$22,835,787",893,"$475,419",29,6/8,9/13
-99,99,100,Overlord,Paramount,"November 9, 2018",Horror,1 hrs. 49 min.,R,$38 million,"$19,953,000",Par.,"$21,704,844","2,859","$10,202,108","2,859",11/9,12/20
-100,100,101,Proud Mary,Sony / Screen Gems,"January 12, 2018",Drama,1 hrs. 28 min.,R,$14 million,"$876,352",SGem,"$20,877,013","2,125","$9,959,053","2,125",1/12,3/8
-101,101,102,The Happytime Murders,STX Entertainment,"August 24, 2018",Comedy,1 hrs. 31 min.,R,$40 million,"$6,800,000",STX,"$20,706,452","3,256","$9,532,425","3,256",8/24,9/27
-102,102,103,Superfly,Sony / Columbia,"June 13, 2018",Action / Crime,1 hrs. 56 min.,R,$16 million,"$235,569",Sony,"$20,545,116","2,220","$6,870,740","2,220",6/13,8/9
-103,103,104,They Shall Not Grow Old,Warner Bros.,"December 17, 2018",Documentary,2 hrs. 0 min.,R,,,WB,"$17,956,913","1,335",,"1,142",12/17,5/9
-104,104,105,Show Dogs,Global Road,"May 18, 2018",Comedy,1 hrs. 30 min.,PG,,"$21,299,834",Global Road,"$17,857,020","3,212","$6,023,972","3,212",5/18,10/11
-105,105,106,Bad Times At The El Royale,Fox,"October 12, 2018",Thriller,2 hrs. 21 min.,R,$32 million,"$14,043,609",Fox,"$17,839,115","2,808","$7,132,647","2,808",10/12,12/6
-106,106,107,Operation Finale,MGM,"August 29, 2018",Thriller,2 hrs. 2 min.,PG-13,$24 million,no dist,MGM,"$17,612,099","1,818","$6,022,758","1,818",8/29,11/15
-107,107,108,"Paul, Apostle of Christ",Sony / AFFIRM Films,"March 23, 2018",Drama,1 hrs. 47 min.,PG-13,$5 million,"$5,478,768",Affirm,"$17,560,475","1,473","$5,172,585","1,473",3/23,5/24
-108,108,109,Free Solo,National Geographic Entertainment,"September 28, 2018",Documentary,1 hrs. 40 min.,PG-13,,,NGE,"$17,541,090",483,"$294,288",4,9/28,-
-109,109,110,Sorry to Bother You,Annapurna Pictures,"July 6, 2018",Sci-Fi Comedy,1 hrs. 45 min.,R,,no dist,Annapurna,"$17,493,096","1,050","$727,266",16,7/6,11/1
-110,110,111,Chappaquiddick,Entertainment Studios,"April 6, 2018",Thriller,1 hrs. 41 min.,PG-13,,"$591,151",ENTMP,"$17,395,520","1,645","$5,765,854","1,560",4/6,8/1
-111,111,112,Mary Queen of Scots,Focus Features,"December 7, 2018",Drama,2 hrs. 5 min.,R,,"$29,900,000",Focus,"$16,468,499","1,052","$194,777",4,12/7,1/31
-112,112,113,Forever My Girl,Roadside Attractions,"January 19, 2018",Romance,1 hrs. 44 min.,PG,$3.5 million,no dist,RAtt.,"$16,376,066","1,427","$4,245,630","1,114",1/19,5/10
-113,113,114,Mortal Engines,Universal,"December 14, 2018",Action / Adventure,2 hrs. 8 min.,PG-13,$100 million,"$67,663,924",Uni.,"$15,951,040","3,103","$7,559,850","3,103",12/14,1/17
-114,114,115,Hunter Killer,Lionsgate/Summit,"October 26, 2018",Action,2 hrs. 1 min.,R,$40 million,,LG/S,"$15,767,460","2,728","$6,653,777","2,728",10/26,11/29
-115,115,116,If Beale Street Could Talk,Annapurna Pictures,"December 14, 2018",Crime Drama,1 hrs. 57 min.,R,,"$5,656,918",Annapurna,"$14,915,773","1,018","$224,476",4,12/14,4/11
-116,116,117,The Girl in the Spider's Web: A New Dragon Tattoo Story,Sony / Columbia,"November 9, 2018",Crime Thriller,1 hrs. 57 min.,R,$43 million,"$20,323,582",Sony,"$14,841,338","2,929","$7,810,112","2,929",11/9,12/20
-117,117,118,The Possession of Hannah Grace,Sony / Screen Gems,"November 30, 2018",Horror,1 hrs. 25 min.,R,$7.7 million,"$28,179,106",SGem,"$14,837,422","2,298","$6,401,744","2,065",11/30,2/21
-118,118,119,RBG,Magnolia,"May 4, 2018",Documentary,1 hrs. 37 min.,PG,,no dist,Magn.,"$14,017,361",432,"$578,470",34,5/4,10/11
-119,119,120,Eighth Grade,A24,"July 13, 2018",Comedy,1 hrs. 33 min.,R,,no dist,A24,"$13,539,709","1,084","$263,797",4,7/13,10/4
-120,120,121,The Darkest Minds,Fox,"August 3, 2018",Sci-Fi Thriller,1 hrs. 45 min.,PG-13,$34 million,"$28,446,688",Fox,"$12,695,691","3,127","$5,842,609","3,127",8/3,10/18
-121,121,122,Three Identical Strangers,Neon,"June 29, 2018",Documentary,1 hrs. 36 min.,PG-13,,no dist,Neon,"$12,320,845",433,"$171,503",5,6/29,10/18
-122,122,123,Upgrade,BH Tilt,"June 1, 2018",Thriller,1 hrs. 35 min.,R,,"$2,400,000",BH Tilt,"$11,977,130","1,458","$4,670,905","1,457",6/1,8/2
-123,123,124,Padmaavat,Viva Pictures Distribution,"January 25, 2018",Drama,2 hrs. 44 min.,Unrated,,"$11,145,000",VPD,"$11,846,060",354,"$4,493,384",326,1/25,2/25
-124,124,125,The Old Man & the Gun,Fox Searchlight,"September 28, 2018",Drama,1 hrs. 36 min.,PG-13,,,FoxS,"$11,277,120","1,042","$142,131",5,9/28,1/24
-125,125,126,Hell Fest,Lionsgate,"September 28, 2018",Horror Thriller,1 hrs. 29 min.,R,$5.5 million,"$7,052,260",LGF,"$11,107,431","2,297","$5,130,963","2,297",9/28,11/8
-126,126,127,Welcome to Marwen,Universal,"December 21, 2018",Drama,1 hrs. 56 min.,PG-13,$39 million,"$2,145,345",Uni.,"$10,763,520","1,911","$2,354,205","1,911",12/21,1/17
-127,127,128,The Miracle Season,Mirror/LD,"April 6, 2018",Drama,1 hrs. 39 min.,PG,,no dist,Mirr/LD,"$10,230,620","1,707","$3,950,652","1,707",4/6,7/5
-128,128,129,The Wife,Sony Classics,"August 17, 2018",Drama,1 hrs. 40 min.,R,,"$8,604,220",SPC,"$9,601,092",541,"$108,284",4,8/17,4/18
-129,129,130,Midnight Sun,Global Road,"March 23, 2018",Romance,1 hrs. 31 min.,PG-13,,"$17,804,403",Global Road,"$9,561,064","2,173","$4,003,993","2,173",3/23,5/10
-130,130,131,Tully (2018),Focus Features,"May 4, 2018",Comedy,1 hrs. 36 min.,R,,"$6,266,707",Focus,"$9,369,755","1,356","$3,282,610","1,353",5/4,7/5
-131,131,132,Traffik,Lionsgate,"April 20, 2018",Thriller,1 hrs. 36 min.,R,,"$336,279",LGF,"$9,186,156","1,046","$3,941,338","1,046",4/20,5/31
-132,132,133,Unfriended: Dark Web,BH Tilt,"July 20, 2018",Thriller,1 hrs. 28 min.,R,"$1,000,000","$6,300,000",BH Tilt,"$8,866,745","1,547","$3,653,035","1,546",7/20,8/16
-133,133,134,Can You Ever Forgive Me?,Fox Searchlight,"October 19, 2018",Drama,1 hrs. 47 min.,R,,,FoxS,"$8,803,865",555,"$161,510",5,10/19,-
-134,134,135,Early Man,Lionsgate,"February 16, 2018",Animation,1 hrs. 29 min.,PG,,"$46,355,270",LGF,"$8,267,544","2,494","$3,190,525","2,494",2/16,3/29
-135,135,136,The Death of Stalin,IFC,"March 9, 2018",Comedy / Drama,1 hrs. 46 min.,R,,"$16,598,199",IFC,"$8,047,856",548,"$184,805",4,3/9,7/26
-136,136,137,Sanju,FIP,"June 29, 2018",Drama,2 hrs. 35 min.,Unrated,,"$63,625,813",FIP,"$7,909,317",359,"$2,723,349",356,6/29,8/16
-137,137,138,Unsane,Bleecker Street,"March 23, 2018",Thriller,1 hrs. 38 min.,R,,"$6,560,702",BST,"$7,732,899","2,023","$3,762,145","2,023",3/23,4/12
-138,138,139,Beautiful Boy (2018),Amazon Studios,"October 12, 2018",Drama,1 hrs. 52 min.,R,,"$8,659,781",Amazon,"$7,649,973",776,"$218,888",4,10/12,2/7
-139,139,140,Mid90s,A24,"October 19, 2018",Comedy / Drama,1 hrs. 24 min.,R,,no dist,A24,"$7,362,439","1,206","$258,157",4,10/19,12/23
-140,140,141,Dog Days (2018),LD Entertainment,"August 8, 2018",Comedy,1 hrs. 52 min.,PG,,no dist,LD,"$6,809,080","2,442","$2,554,766","2,442",8/8,9/27
-141,141,142,Boy Erased,Focus Features,"November 2, 2018",Drama,1 hrs. 54 min.,R,,"$4,600,000",Focus,"$6,788,692",672,"$207,057",5,11/2,1/3
-142,142,143,Hotel Artemis,Global Road,"June 8, 2018",Action Thriller,1 hrs. 33 min.,R,,"$6,043,642",Global Road,"$6,708,147","2,407","$3,232,790","2,407",6/8,7/19
-143,143,144,A.X.L.,Global Road,"August 24, 2018",Family Adventure,1 hrs. 38 min.,PG,,no dist,Global Road,"$6,501,381","1,710","$2,798,229","1,710",8/24,10/18
-144,144,145,Fahrenheit 11/9,Briarcliff,"September 21, 2018",Documentary,2 hrs. 8 min.,R,,no dist,Briarcliff,"$6,352,306","1,719","$3,008,563","1,719",9/21,11/1
-145,145,146,Unbroken: Path to Redemption,Pure Flix,"September 14, 2018",Drama,1 hrs. 38 min.,PG-13,,no dist,PFR,"$6,216,897","1,620","$2,238,723","1,620",9/14,11/29
-146,146,147,The Hurricane Heist,Entertainment Studios,"March 9, 2018",Action Thriller,1 hrs. 43 min.,PG-13,$35 million,,ENTMP,"$6,115,825","2,402","$3,024,399","2,402",3/9,5/10
-147,147,148,Every Day (2018),Orion Pictures,"February 23, 2018",Drama,1 hrs. 35 min.,PG-13,$4.9 million,,Orion,"$6,102,076","1,669","$3,016,149","1,667",2/23,3/22
-148,148,149,Once Upon a Deadpool,Fox,"December 12, 2018",Action,1 hrs. 57 min.,PG-13,,"$44,400,000",Fox,"$6,100,309","1,566","$2,683,200","1,566",12/12,1/24
-149,149,150,Leave No Trace,Bleecker Street,"June 29, 2018",Drama,1 hrs. 48 min.,PG,,,BST,"$6,046,104",361,"$219,140",9,6/29,10/4
-150,150,151,Death of a Nation,Quality Flix,"August 3, 2018",Documentary,1 hrs. 49 min.,PG-13,$6 million,no dist,QF,"$5,885,881","1,005","$2,356,522","1,005",8/3,10/11
-151,151,152,Pandas,Warner Bros.,"April 6, 2018",Documentary,0 hrs. 40 min.,G,,no dist,WB,"$5,757,906",35,"$158,915",33,4/6,7/15
-152,152,153,My Hero Academia: Two Heroes,FUNimation Films,"September 25, 2018",Animation,1 hrs. 36 min.,PG-13,,,FUN,"$5,754,556",535,"$1,388,499",508,9/25,10/9
-153,153,154,God's Not Dead: A Light in Darkness,Pure Flix,"March 30, 2018",Drama,1 hrs. 46 min.,PG,,no dist,PFR,"$5,728,940","1,693","$2,689,677","1,693",3/30,6/14
-154,154,155,Kin,Lionsgate,"August 31, 2018",Sci-Fi Action,1 hrs. 42 min.,PG-13,,"$4,309,460",LGF,"$5,718,096","2,141","$3,035,618","2,141",8/31,9/27
-155,155,156,Stan & Ollie,Sony Classics,"December 28, 2018",Comedy / Drama,1 hrs. 37 min.,PG,,no dist,SPC,"$5,470,235",754,"$78,104",5,12/28,-
-156,156,157,Colette,Bleecker Street,"September 21, 2018",Drama,1 hrs. 51 min.,R,,,BST,"$5,137,622",593,"$161,179",4,9/21,11/29
-157,157,158,Simmba,Reliance Big Pictures,"December 28, 2018",Action,2 hrs. 38 min.,Unrated,,no dist,Relbig.,"$5,102,129",301,"$1,758,576",301,12/28,2/3
-158,158,159,Action Point,Paramount,"June 1, 2018",Comedy,1 hrs. 25 min.,R,$19 million,no dist,Par.,"$5,059,608","2,032","$2,390,164","2,032",6/1,6/14
-159,159,160,Beirut,Bleecker Street,"April 11, 2018",War Drama,1 hrs. 49 min.,R,,"$2,490,210",BST,"$5,019,226",755,"$1,734,497",755,4/11,6/14
-160,160,161,Gringo,STX Entertainment,"March 9, 2018",Comedy,1 hrs. 50 min.,R,,"$6,031,774",STX,"$4,969,853","2,404","$2,722,420","2,404",3/9,4/5
-161,161,162,Samson,Pure Flix,"February 16, 2018",Drama,1 hrs. 50 min.,PG-13,,no dist,PFR,"$4,719,928","1,249","$1,942,569","1,249",2/16,4/12
-162,162,163,Cold War (2018),Amazon Studios,"December 21, 2018",Drama,1 hrs. 29 min.,R,,,Amazon,"$4,580,048",270,"$54,353",3,12/21,4/4
-163,163,164,Johnny English Strikes Again,Universal,"October 26, 2018",Action Comedy,1 hrs. 28 min.,PG,$25 million,"$154,541,694",Uni.,"$4,412,170",552,"$1,638,895",544,10/26,11/22
-164,164,165,Gotti,Vertical Entertainment,"June 15, 2018",Crime Drama,1 hrs. 45 min.,R,,,VE,"$4,343,227",503,"$1,719,902",503,6/15,7/23
-165,165,166,Blindspotting,Lionsgate/Summit,"July 20, 2018",Comedy / Drama,1 hrs. 35 min.,R,,"$530,192",LG/S,"$4,333,394",523,"$338,999",14,7/20,9/13
-166,166,167,Burn the Stage: The Movie,Trafalgar Releasing,"November 15, 2018",Documentary,1 hrs. 24 min.,Unrated,,"$16,145,694",Trafalgar,"$4,201,819",645,"$2,420,197",629,11/15,12/9
-167,167,168,Ya Veremos,Pantelion,"August 31, 2018",Comedy / Drama,1 hrs. 37 min.,PG-13,,,PNT,"$4,165,949",369,"$1,803,848",369,8/31,10/11
-168,168,169,2.0,Unknown,"November 30, 2018",Sci-Fi Action,2 hrs. 28 min.,Unrated,,no dist,,"$4,152,000",314,"$2,775,000",314,11/30,12/6
-169,169,170,Life Itself (2018),Amazon Studios,"September 21, 2018",Drama,1 hrs. 57 min.,R,,"$3,687,623",Amazon,"$4,102,648","2,609","$2,123,463","2,609",9/21,-
-170,170,171,Sgt. Stubby: An American Hero,Fun Academy,"April 13, 2018",Animation,1 hrs. 30 min.,PG,,no dist,FunAcad,"$4,015,935","1,633","$1,164,403","1,633",4/13,1/10
-171,171,172,Amazing Grace (2019),Neon,"December 7, 2018",Documentary,1 hrs. 27 min.,G,,no dist,Neon,"$3,728,229",263,"$57,353",3,12/7,-
-172,172,173,Ben is Back,Roadside Attractions,"December 7, 2018",Drama,1 hrs. 42 min.,R,,,RAtt.,"$3,703,184",598,"$80,734",4,12/7,2/21
-173,173,174,Gosnell: The Trial of America's Biggest Serial Killer,GVN Releasing,"October 12, 2018",Drama,1 hrs. 33 min.,PG-13,,no dist,GVN,"$3,679,893",673,"$1,162,988",673,10/12,12/17
-174,174,175,Indivisible,Pure Flix,"October 26, 2018",Drama,1 hrs. 59 min.,PG-13,,no dist,PFR,"$3,511,417",830,"$1,503,101",830,10/26,1/3
-175,175,176,The Oscar Nominated Short Films 2018,Shorts International,"February 9, 2018",Drama,1 hrs. 36 min.,Unrated,,no dist,Shrts.,"$3,508,777",272,"$695,044",198,2/9,3/22
-176,176,177,Disobedience,Bleecker Street,"April 27, 2018",Drama,1 hrs. 54 min.,R,,"$4,371,345",BST,"$3,498,782",247,"$237,393",5,4/27,8/2
-177,177,178,First Reformed,A24,"May 18, 2018",Thriller,1 hrs. 53 min.,R,,no dist,A24,"$3,448,256",334,"$97,562",4,5/18,8/2
-178,178,179,"Juliet, Naked",Roadside Attractions,"August 17, 2018",Romantic Comedy,1 hrs. 38 min.,R,,no dist,RAtt.,"$3,444,895",467,"$60,886",4,8/17,10/25
-179,179,180,Bad Samaritan,Electric Entertainment,"May 4, 2018",Horror Thriller,1 hrs. 48 min.,R,,,Electric,"$3,435,047","2,007","$1,726,868","2,007",5/4,5/24
-180,180,181,7 Days in Entebbe,Focus Features,"March 16, 2018",Action Thriller,1 hrs. 47 min.,PG-13,,"$5,358,216",Focus,"$3,326,885",838,"$1,592,645",838,3/16,4/12
-181,181,182,Shoplifters,Magnolia,"November 23, 2018",Drama,2 hrs. 1 min.,R,,,Magn.,"$3,313,513",144,"$89,264",5,11/23,-
-182,182,183,2001: A Space Odyssey (2018 re-release),Warner Bros.,"May 18, 2018",Sci-Fi,2 hrs. 29 min.,G,,,WB,"$3,236,321",13,"$202,759",4,5/18,7/15
-183,183,184,The Sisters Brothers,Annapurna Pictures,"September 21, 2018",Western,2 hrs. 0 min.,R,,"$10,000,000",Annapurna,"$3,143,056","1,141","$115,575",4,9/21,12/20
-184,184,185,Thoroughbreds,Focus Features,"March 9, 2018",Drama / Thriller,1 hrs. 32 min.,R,,no dist,Focus,"$3,072,605",564,"$1,224,430",549,3/9,4/26
-185,185,186,Whitney,Roadside Attractions,"July 6, 2018",Documentary,2 hrs. 0 min.,R,,no dist,RAtt.,"$3,026,351",451,"$1,265,572",451,7/6,9/20
-186,186,187,Rachel Hollis Presents: Made for More,Fathom,"August 2, 2018",Unknown,2 hrs. 0 min.,Unrated,,no dist,Fathom,"$2,999,134",703,,,8/2,1/9
-187,187,188,American Animals,The Orchard,"June 1, 2018",Crime Drama,1 hrs. 57 min.,R,,no dist,Orch.,"$2,856,954",339,"$134,793",4,6/1,8/30
-188,188,189,God Bless the Broken Road,Freestyle Releasing,"September 7, 2018",Drama,1 hrs. 51 min.,PG,,no dist,Free,"$2,846,257","1,272","$1,386,254","1,272",9/7,11/8
-189,189,190,La Boda de Valentina,Pantelion,"February 9, 2018",Romantic Comedy,1 hrs. 47 min.,R,,,PNT,"$2,783,739",331,"$1,147,073",331,2/9,3/15
-190,190,191,Bharat Ane Nenu,Great India Films,"April 20, 2018",Action Drama,2 hrs. 53 min.,Unrated,,no dist,GrtIndia,"$2,663,090",305,"$2,663,090",305,4/20,-
-191,191,192,Qué León (What A Lion),Spanglish Movies,"November 29, 2018",Romantic Comedy,1 hrs. 33 min.,PG-13,,"$5,200,000",Spanglish,"$2,607,916",86,"$291,936",34,11/29,3/17
-192,192,193,You Were Never Really Here,Amazon Studios,"April 6, 2018",Drama / Thriller,1 hrs. 25 min.,R,,,Amazon,"$2,528,078",233,"$132,829",3,4/6,6/14
-193,193,194,Suspiria,Amazon Studios,"October 26, 2018",Horror,2 hrs. 35 min.,R,,"$5,329,637",Amazon,"$2,483,472",311,"$184,037",2,10/26,12/20
-194,194,195,The Rider,Sony Classics,"April 13, 2018",Drama,1 hrs. 44 min.,R,,,SPC,"$2,419,031",224,"$42,244",3,4/13,12/13
-195,195,196,Mary and the Witch's Flower,GKIDS,"January 18, 2018",Animation,1 hrs. 42 min.,PG,,,GK,"$2,418,404",573,"$348,475",161,1/18,4/5
-196,196,197,Hearts Beat Loud,Gunpowder & Sky,"June 8, 2018",Comedy / Drama,1 hrs. 37 min.,PG-13,,no dist,G&S,"$2,386,251",170,"$74,524",4,6/8,8/30
-197,197,198,1991,Entertainment One,"July 27, 2018",Comedy,2 hrs. 21 min.,Unrated,,no dist,EOne,"$2,342,264",83,"$328,828",83,7/27,11/4
-198,198,199,Papillon (2018),Bleecker Street,"August 24, 2018",Drama,2 hrs. 16 min.,R,,"$2,180,684",BST,"$2,335,896",544,"$1,090,073",544,8/24,9/13
-199,199,200,At Eternity's Gate,CBS Films,"November 16, 2018",Drama,1 hrs. 50 min.,PG-13,,no dist,CBS,"$2,294,915",178,"$92,856",4,11/16,2/10
+﻿,#,name,distributor_full_name,release_date,genre,runtime,rating,budget,rest_world,studio,total_gross,theaters_total,opening,theaters_opening,open_date,close_date
+0,1,Black Panther,Buena Vista,"February 16, 2018",Action / Adventure,2 hrs. 20 min.,PG-13,N/A,"$646,853,595",BV,"$700,059,566","4,084","$202,003,951","4,020",2/16,8/9
+1,2,Avengers: Infinity War,Buena Vista,"April 27, 2018",Action / Adventure,2 hrs. 36 min.,PG-13,N/A,"$1,369,544,272",BV,"$678,815,482","4,474","$257,698,183","4,474",4/27,9/13
+2,3,Incredibles 2,Buena Vista,"June 15, 2018",Animation,1 hrs. 58 min.,PG,N/A,"$634,223,615",BV,"$608,581,744","4,410","$182,687,905","4,410",6/15,12/13
+3,4,Jurassic World: Fallen Kingdom,Universal,"June 22, 2018",Action / Adventure,2 hrs. 8 min.,PG-13,$170 million,"$891,764,701",Uni.,"$417,719,760","4,485","$148,024,610","4,475",6/22,10/4
+4,5,Aquaman,Warner Bros.,"December 21, 2018",Action / Adventure,2 hrs. 19 min.,PG-13,N/A,"$812,700,000",WB,"$335,061,807","4,184","$67,873,522","4,125",12/21,4/4
+5,6,Deadpool 2,Fox,"May 18, 2018",Action,1 hrs. 59 min.,R,$110 million,"$460,455,185",Fox,"$318,491,426","4,349","$125,507,153","4,349",5/18,10/18
+6,7,Dr. Seuss' The Grinch (2018),Universal,"November 9, 2018",Animation,1 hrs. 30 min.,PG,$75 million,"$240,973,508",Uni.,"$270,620,950","4,141","$67,572,855","4,141",11/9,2/14
+7,8,Mission: Impossible - Fallout,Paramount,"July 27, 2018",Action,2 hrs. 27 min.,PG-13,$178 million,"$570,956,000",Par.,"$220,159,104","4,395","$61,236,534","4,386",7/27,10/18
+8,9,Ant-Man and the Wasp,Buena Vista,"July 6, 2018",Action,1 hrs. 58 min.,PG-13,N/A,"$406,025,399",BV,"$216,648,740","4,206","$75,812,205","4,206",7/6,11/1
+9,10,Bohemian Rhapsody,Fox,"November 2, 2018",Drama,2 hrs. 14 min.,PG-13,$52 million,"$687,227,217",Fox,"$216,428,042","4,000","$51,061,119","4,000",11/2,4/25
+10,11,A Star is Born (2018),Warner Bros.,"October 5, 2018",Music Drama,2 hrs. 16 min.,R,$36 million,"$218,900,000",WB,"$215,288,866","3,904","$42,908,051","3,686",10/5,4/4
+11,12,Solo: A Star Wars Story,Buena Vista,"May 25, 2018",Action / Adventure,2 hrs. 15 min.,PG-13,$275 million,"$179,157,295",BV,"$213,767,512","4,381","$84,420,489","4,381",5/25,9/20
+12,13,Venom (2018),Sony / Columbia,"October 5, 2018",Action,1 hrs. 52 min.,PG-13,$100 million,"$641,498,448",Sony,"$213,515,506","4,250","$80,255,756","4,250",10/5,1/24
+13,14,Ralph Breaks the Internet,Buena Vista,"November 21, 2018",Animation,1 hrs. 52 min.,PG,$175 million,"$328,069,706",BV,"$201,091,711","4,017","$56,237,634","4,017",11/21,4/11
+14,15,Spider-Man: Into The Spider-Verse,Sony / Columbia,"December 14, 2018",Animation,1 hrs. 57 min.,PG,$90 million,"$185,198,765",Sony,"$190,241,310","3,813","$35,363,376","3,813",12/14,4/4
+15,16,A Quiet Place,Paramount,"April 6, 2018",Horror Thriller,1 hrs. 35 min.,PG-13,$17 million,"$152,915,000",Par.,"$188,024,361","3,808","$50,203,562","3,508",4/6,8/2
+16,17,Crazy Rich Asians,Warner Bros.,"August 15, 2018",Romantic Comedy,2 hrs. 0 min.,PG-13,$30 million,"$64,000,000",WB,"$174,532,921","3,865","$26,510,140","3,384",8/15,1/10
+17,18,Mary Poppins Returns,Buena Vista,"December 19, 2018",Musical,2 hrs. 10 min.,PG,$130 million,"$177,523,973",BV,"$171,958,438","4,090","$23,523,121","4,090",12/19,4/11
+18,19,Hotel Transylvania 3: Summer Vacation,Sony / Columbia,"July 13, 2018",Animation,1 hrs. 37 min.,PG,$80 million,"$361,073,758",Sony,"$167,510,016","4,267","$44,076,225","4,267",7/13,11/29
+19,20,Fantastic Beasts: The Crimes of Grindelwald,Warner Bros.,"November 16, 2018",Fantasy,2 hrs. 14 min.,PG-13,$200 million,"$494,100,000",WB,"$159,555,901","4,163","$62,163,104","4,163",11/16,2/21
+20,21,Halloween (2018),Universal,"October 19, 2018",Horror,1 hrs. 49 min.,R,$10 million,"$96,135,353",Uni.,"$159,342,015","3,990","$76,221,545","3,928",10/19,1/3
+21,22,The Meg,Warner Bros.,"August 10, 2018",Sci-Fi Thriller,1 hrs. 53 min.,PG-13,$130 million,"$384,800,000",WB,"$145,443,742","4,118","$45,402,195","4,118",8/10,11/1
+22,23,Ocean's 8,Warner Bros.,"June 8, 2018",Action / Adventure,1 hrs. 50 min.,PG-13,$70 million,"$157,500,000",WB,"$140,218,711","4,145","$41,607,378","4,145",6/8,9/20
+23,24,Ready Player One,Warner Bros.,"March 29, 2018",Sci-Fi Action,2 hrs. 20 min.,PG-13,$175 million,"$445,200,000",WB,"$137,690,172","4,234","$41,764,050","4,234",3/29,7/5
+24,25,Bumblebee,Paramount,"December 21, 2018",Sci-Fi Action,1 hrs. 54 min.,PG-13,$135 million,"$340,794,056",Par.,"$127,195,589","3,597","$21,654,047","3,550",12/21,3/7
+25,26,Mamma Mia! Here We Go Again,Universal,"July 20, 2018",Musical,1 hrs. 54 min.,PG-13,$75 million,"$274,392,722",Uni.,"$120,634,935","3,514","$34,952,180","3,317",7/20,10/11
+26,27,The Nun,Warner Bros. (New Line),"September 7, 2018",Horror,1 hrs. 36 min.,R,$22 million,"$248,100,000",WB (NL),"$117,450,119","3,876","$53,807,379","3,876",9/7,11/22
+27,28,Creed II,MGM,"November 21, 2018",Sports Drama,1 hrs. 57 min.,PG-13,$50 million,"$98,300,000",MGM,"$115,715,889","3,752","$35,574,710","3,441",11/21,3/21
+28,29,Peter Rabbit,Sony / Columbia,"February 9, 2018",Family,1 hrs. 33 min.,PG,$50 million,"$236,013,009",Sony,"$115,253,424","3,725","$25,010,928","3,725",2/9,6/14
+29,30,The Mule,Warner Bros.,"December 14, 2018",Crime Drama,1 hrs. 56 min.,R,$50 million,"$68,700,000",WB,"$103,804,407","3,329","$17,509,431","2,588",12/14,3/14
+30,31,The Equalizer 2,Sony / Columbia,"July 20, 2018",Thriller,2 hrs. 1 min.,R,$62 million,"$88,315,795",Sony,"$102,084,362","3,388","$36,011,640","3,388",7/20,9/20
+31,32,Rampage (2018),Warner Bros. (New Line),"April 13, 2018",Action / Adventure,1 hrs. 47 min.,PG-13,$120 million,"$327,000,000",WB (NL),"$101,028,233","4,115","$35,753,093","4,101",4/13,7/26
+32,33,A Wrinkle in Time,Buena Vista,"March 9, 2018",Fantasy,1 hrs. 55 min.,PG,N/A,"$32,197,256",BV,"$100,478,608","3,980","$33,123,609","3,980",3/9,7/5
+33,34,Fifty Shades Freed,Universal,"February 9, 2018",Romance,1 hrs. 45 min.,R,$55 million,"$271,501,689",Uni.,"$100,407,760","3,768","$38,560,195","3,768",2/9,4/5
+34,35,Disney's Christopher Robin,Buena Vista,"August 3, 2018",Fantasy,1 hrs. 44 min.,PG,$75 million,"$98,529,335",BV,"$99,215,042","3,602","$24,585,139","3,602",8/3,11/29
+35,36,Green Book,Universal,"November 16, 2018",Comedy / Drama,2 hrs. 10 min.,PG-13,$23 million,"$234,657,190",Uni.,"$85,080,171","2,648","$320,429",25,11/16,5/2
+36,37,I Can Only Imagine,Roadside Attractions,"March 16, 2018",Family,1 hrs. 50 min.,PG,$7 million,no dist,RAtt.,"$83,482,352","2,894","$17,108,914","1,629",3/16,7/12
+37,38,Smallfoot,Warner Bros.,"September 28, 2018",Animation,1 hrs. 27 min.,PG,N/A,"$130,900,000",WB,"$83,240,103","4,131","$23,045,635","4,131",9/28,1/17
+38,39,Night School (2018),Universal,"September 28, 2018",Comedy,1 hrs. 51 min.,PG-13,$29 million,"$25,765,819",Uni.,"$77,339,130","3,019","$27,257,615","3,010",9/28,1/3
+39,40,The First Purge,Universal,"July 4, 2018",Thriller,1 hrs. 37 min.,R,$13 million,"$67,497,457",Uni.,"$69,488,745","3,038","$17,374,280","3,031",7/4,9/6
+40,41,Game Night,Warner Bros. (New Line),"February 23, 2018",Action Comedy,1 hrs. 40 min.,R,$37 million,"$48,500,000",WB (NL),"$69,179,066","3,502","$17,005,332","3,488",2/23,6/21
+41,42,Book Club,Paramount,"May 18, 2018",Comedy,1 hrs. 44 min.,PG-13,N/A,n/a,Par.,"$68,566,296","3,169","$13,582,231","2,781",5/18,8/9
+42,43,The House With A Clock In Its Walls,Universal,"September 21, 2018",Fantasy,1 hrs. 44 min.,PG,$42 million,"$62,907,452",Uni.,"$68,549,695","3,592","$26,608,020","3,592",9/21,1/3
+43,44,Skyscraper,Universal,"July 13, 2018",Action,1 hrs. 42 min.,PG-13,$125 million,"$236,448,841",Uni.,"$68,420,120","3,822","$24,905,015","3,782",7/13,9/27
+44,45,Insidious: The Last Key,Universal,"January 5, 2018",Horror,1 hrs. 43 min.,PG-13,$10 million,"$100,140,258",Uni.,"$67,745,330","3,150","$29,581,355","3,116",1/5,3/29
+45,46,Instant Family,Paramount,"November 16, 2018",Comedy,1 hrs. 59 min.,PG-13,$48 million,"$53,192,964",Par.,"$67,363,237","3,426","$14,504,315","3,286",11/16,1/31
+46,47,Blockers,Universal,"April 6, 2018",Comedy,1 hrs. 42 min.,R,$21 million,"$33,733,798",Uni.,"$60,311,495","3,418","$20,556,350","3,379",4/6,8/2
+47,48,Pacific Rim Uprising,Universal,"March 23, 2018",Sci-Fi Action,1 hrs. 51 min.,PG-13,$150 million,"$231,055,623",Uni.,"$59,874,525","3,708","$28,116,535","3,708",3/23,7/26
+48,49,Tomb Raider,Warner Bros.,"March 16, 2018",Action / Adventure,1 hrs. 58 min.,PG-13,$94 million,"$216,400,000",WB,"$58,250,803","3,854","$23,633,317","3,854",3/16,5/31
+49,50,Maze Runner: The Death Cure,Fox,"January 26, 2018",Sci-Fi Adventure,2 hrs. 22 min.,PG-13,$62 million,"$230,229,298",Fox,"$58,032,443","3,793","$24,167,011","3,787",1/26,5/3
+50,51,The Nutcracker and the Four Realms,Buena Vista,"November 2, 2018",Adventure,1 hrs. 39 min.,PG,$120 million,"$119,102,218",BV,"$54,858,851","3,766","$20,352,491","3,766",11/2,1/17
+51,52,Tag,Warner Bros. (New Line),"June 15, 2018",Comedy,1 hrs. 40 min.,R,$28 million,"$23,400,000",WB (NL),"$54,730,625","3,382","$14,947,396","3,382",6/15,9/13
+52,53,A Simple Favor,Lionsgate,"September 14, 2018",Thriller,1 hrs. 56 min.,R,$20 million,"$44,096,031",LGF,"$53,548,586","3,102","$16,011,689","3,102",9/14,11/22
+53,54,Life of the Party ,Warner Bros. (New Line),"May 11, 2018",Comedy,1 hrs. 45 min.,PG-13,N/A,"$12,800,000",WB (NL),"$53,059,911","3,656","$17,886,075","3,656",5/11,8/2
+54,55,The Predator (2018),Fox,"September 14, 2018",Sci-Fi Action,1 hrs. 48 min.,R,$88 million,"$109,517,426",Fox,"$51,024,708","4,070","$24,632,284","4,037",9/14,11/29
+55,56,Overboard (2018),Pantelion,"May 4, 2018",Romantic Comedy,1 hrs. 52 min.,PG-13,$12 million,"$40,928,790",PNT,"$50,316,123","2,006","$14,711,101","1,623",5/4,7/5
+56,57,Sicario: Day of the Soldado,Sony / Columbia,"June 29, 2018",Action / Adventure,2 hrs. 2 min.,R,$35 million,"$25,764,448",Sony,"$50,072,235","3,055","$19,007,566","3,055",6/29,9/20
+57,58,BlacKkKlansman,Focus Features,"August 10, 2018",Drama,2 hrs. 14 min.,R,$15 million,"$43,998,459",Focus,"$49,275,340","1,914","$10,845,330","1,512",8/10,3/1
+58,59,I Feel Pretty,STX Entertainment,"April 20, 2018",Comedy,1 hrs. 50 min.,PG-13,$32 million,"$45,743,825",STX,"$48,795,601","3,440","$16,030,218","3,440",4/20,6/21
+59,60,Vice,Annapurna Pictures,"December 25, 2018",Drama,2 hrs. 12 min.,R,N/A,"$28,237,206",Annapurna,"$47,836,282","2,534","$7,768,371","2,442",12/25,4/11
+60,61,Red Sparrow,Fox,"March 2, 2018",Thriller,2 hrs. 19 min.,R,$69 million,"$104,698,129",Fox,"$46,874,505","3,064","$16,853,422","3,056",3/2,6/7
+61,62,Breaking In (2018),Universal,"May 11, 2018",Thriller,1 hrs. 28 min.,PG-13,$6 million,"$4,571,030",Uni.,"$46,840,590","2,537","$17,630,285","2,537",5/11,8/2
+62,63,Goosebumps 2: Haunted Halloween,Sony / Columbia,"October 12, 2018",Comedy,1 hrs. 30 min.,PG,$35 million,"$46,619,747",Sony,"$46,700,633","3,723","$15,802,225","3,521",10/12,12/20
+63,64,12 Strong,Warner Bros.,"January 19, 2018",War Drama,2 hrs. 9 min.,R,N/A,"$21,631,102",WB,"$45,819,713","3,018","$15,815,025","3,002",1/19,3/29
+64,65,Den of Thieves,STX Entertainment,"January 19, 2018",Action Thriller,2 hrs. 20 min.,R,N/A,"$35,562,000",STX,"$44,947,622","2,432","$15,206,108","2,432",1/19,3/22
+65,66,First Man,Universal,"October 12, 2018",Drama,2 hrs. 18 min.,PG-13,$59 million,"$60,752,084",Uni.,"$44,936,545","3,640","$16,006,065","3,640",10/12,1/3
+66,67,Hereditary,A24,"June 8, 2018",Horror,2 hrs. 6 min.,R,N/A,"$35,267,365",A24,"$44,069,456","2,998","$13,575,172","2,964",6/8,8/30
+67,68,Tyler Perry's Acrimony,Lionsgate,"March 30, 2018",Thriller,2 hrs. 0 min.,R,N/A,"$2,854,573",LGF,"$43,549,096","2,006","$17,170,707","2,006",3/30,6/7
+68,69,Sherlock Gnomes,Paramount,"March 23, 2018",Animation,1 hrs. 26 min.,PG,$59 million,"$47,103,000",Par.,"$43,242,871","3,662","$10,604,774","3,662",3/23,6/14
+69,70,Uncle Drew,Lionsgate/Summit,"June 29, 2018",Comedy,1 hrs. 43 min.,PG-13,N/A,"$4,194,468",LG/S,"$42,469,946","2,742","$15,242,781","2,742",6/29,9/13
+70,71,Widows,Fox,"November 16, 2018",Crime Thriller,2 hrs. 8 min.,R,$42 million,"$33,582,068",Fox,"$42,402,632","2,803","$12,361,307","2,803",11/16,2/21
+71,72,Truth or Dare,Universal,"April 13, 2018",Thriller,1 hrs. 40 min.,PG-13,$3.5 million,"$53,919,478",Uni.,"$41,411,015","3,068","$18,667,855","3,029",4/13,7/26
+72,73,Paddington 2,Warner Bros.,"January 12, 2018",Family Adventure,1 hrs. 43 min.,PG,N/A,"$186,440,347",WB,"$40,891,591","3,702","$11,001,961","3,702",1/12,3/15
+73,74,"Love, Simon",Fox,"March 16, 2018",Romantic Comedy,1 hrs. 49 min.,PG-13,$17 million,"$25,489,948",Fox,"$40,826,341","2,434","$11,756,244","2,402",3/16,6/14
+74,75,Second Act,STX Entertainment,"December 21, 2018",Romantic Comedy,1 hrs. 40 min.,PG-13,$16 million,"$33,000,000",STX,"$39,282,227","2,607","$6,489,983","2,607",12/21,2/21
+75,76,The Commuter,Lionsgate,"January 12, 2018",Action,1 hrs. 45 min.,PG-13,N/A,"$83,598,529",LGF,"$36,343,858","2,892","$13,701,452","2,892",1/12,3/15
+76,77,The 15:17 to Paris,Warner Bros.,"February 9, 2018",Drama,1 hrs. 34 min.,PG-13,$30 million,"$20,800,000",WB,"$36,276,286","3,042","$12,554,286","3,042",2/9,4/12
+77,78,Mile 22,STX Entertainment,"August 17, 2018",Action,1 hrs. 35 min.,R,$50 million,"$30,200,000",STX,"$36,108,758","3,520","$13,710,825","3,520",8/17,10/4
+78,79,Alpha,Studio 8,"August 17, 2018",Action Thriller,1 hrs. 36 min.,PG-13,$51 million,"$62,346,015",Studio 8,"$35,857,181","2,881","$10,352,512","2,719",8/17,11/22
+79,80,Peppermint,STX Entertainment,"September 7, 2018",Action Thriller,1 hrs. 42 min.,R,$25 million,"$18,400,000",STX,"$35,418,723","2,980","$13,423,255","2,980",9/7,11/1
+80,81,The Favourite,Fox Searchlight,"November 23, 2018",Drama,1 hrs. 59 min.,R,N/A,"$61,551,923",FoxS,"$34,366,783","1,554","$422,410",4,11/23,4/11
+81,82,Death Wish (2018),MGM,"March 2, 2018",Action / Crime,1 hrs. 47 min.,R,$30 million,n/a,MGM,"$34,017,028","2,882","$13,010,267","2,847",3/2,5/31
+82,83,The Spy Who Dumped Me,Lionsgate,"August 3, 2018",Action Comedy,1 hrs. 56 min.,R,$40 million,"$41,756,475",LGF,"$33,562,069","3,111","$12,103,043","3,111",8/3,9/27
+83,84,Annihilation,Paramount,"February 23, 2018",Sci-Fi,1 hrs. 55 min.,R,$40 million,no dist,Par.,"$32,732,301","2,112","$11,071,584","2,012",2/23,4/19
+84,85,Isle Of Dogs,Fox Searchlight,"March 23, 2018",Animation,1 hrs. 41 min.,PG-13,N/A,"$32,226,268",FoxS,"$32,015,231","1,947","$1,620,294",27,3/23,8/30
+85,86,Nobody's Fool,Paramount,"November 2, 2018",Comedy,1 hrs. 50 min.,R,$19 million,"$1,819,483",Par.,"$31,713,110","2,468","$13,743,111","2,468",11/2,12/20
+86,87,Adrift,STX Entertainment,"June 1, 2018",Drama,1 hrs. 36 min.,PG-13,$35 million,"$28,500,000",STX,"$31,445,012","3,015","$11,603,039","3,015",6/1,8/2
+87,88,Robin Hood (2018),Lionsgate/Summit,"November 21, 2018",Action / Adventure,1 hrs. 44 min.,PG-13,$100 million,"$53,955,918",LG/S,"$30,824,628","2,827","$9,195,670","2,827",11/21,1/10
+88,89,Super Troopers 2,Fox,"April 20, 2018",Comedy,1 hrs. 40 min.,R,$13.5 million,no dist,Fox,"$30,617,396","2,125","$15,181,624","2,038",4/20,7/12
+89,90,Holmes and Watson,Sony / Columbia,"December 25, 2018",Comedy,1 hrs. 31 min.,PG-13,$42 million,"$9,893,344",Sony,"$30,573,626","2,780","$7,411,522","2,776",12/25,2/21
+90,91,Slender Man,Sony / Screen Gems,"August 10, 2018",Horror,1 hrs. 33 min.,PG-13,$10 million,"$21,169,065",SGem,"$30,569,484","2,358","$11,371,866","2,358",8/10,11/1
+91,92,Teen Titans Go! To The Movies,Warner Bros.,"July 27, 2018",Animation,1 hrs. 33 min.,PG,$10 million,"$22,300,000",WB,"$29,790,236","3,188","$10,411,189","3,188",7/27,10/11
+92,93,The Hate U Give,Fox,"October 5, 2018",Crime Drama,2 hrs. 12 min.,PG-13,$23 million,"$5,214,526",Fox,"$29,719,483","2,375","$512,035",36,10/5,1/17
+93,94,Searching,Sony / Screen Gems,"August 24, 2018",Thriller,1 hrs. 42 min.,PG-13,N/A,"$49,441,080",SGem,"$26,020,957","2,009","$388,769",9,8/24,11/15
+94,95,Winchester,Lionsgate,"February 2, 2018",Horror,1 hrs. 39 min.,PG-13,N/A,n/a,LGF,"$25,091,816","2,480","$9,307,626","2,480",2/2,3/29
+95,96,On the Basis of Sex,Focus Features,"December 25, 2018",Drama,2 hrs. 0 min.,PG-13,N/A,"$13,607,642",Focus,"$24,622,687","1,957","$686,355",33,12/25,3/7
+96,97,Strangers: Prey at Night,Aviron,"March 9, 2018",Horror,1 hrs. 25 min.,R,N/A,n/a,Aviron,"$24,586,708","2,464","$10,402,271","2,464",3/9,5/31
+97,98,White Boy Rick,Studio 8,"September 14, 2018",Crime Drama,1 hrs. 50 min.,R,$29 million,"$1,946,294",Studio 8,"$24,011,188","2,504","$8,860,431","2,504",9/14,11/8
+98,99,Won't You Be My Neighbor?,Focus Features,"June 8, 2018",Documentary,1 hrs. 34 min.,PG-13,N/A,no dist,Focus,"$22,835,787",893,"$475,419",29,6/8,9/13
+99,100,Overlord,Paramount,"November 9, 2018",Horror,1 hrs. 49 min.,R,$38 million,"$19,953,000",Par.,"$21,704,844","2,859","$10,202,108","2,859",11/9,12/20
+100,101,Proud Mary,Sony / Screen Gems,"January 12, 2018",Drama,1 hrs. 28 min.,R,$14 million,"$876,352",SGem,"$20,877,013","2,125","$9,959,053","2,125",1/12,3/8
+101,102,The Happytime Murders,STX Entertainment,"August 24, 2018",Comedy,1 hrs. 31 min.,R,$40 million,"$6,800,000",STX,"$20,706,452","3,256","$9,532,425","3,256",8/24,9/27
+102,103,Superfly,Sony / Columbia,"June 13, 2018",Action / Crime,1 hrs. 56 min.,R,$16 million,"$235,569",Sony,"$20,545,116","2,220","$6,870,740","2,220",6/13,8/9
+103,104,They Shall Not Grow Old,Warner Bros.,"December 17, 2018",Documentary,2 hrs. 0 min.,R,N/A,n/a,WB,"$17,956,913","1,335",N/A,"1,142",12/17,5/9
+104,105,Show Dogs,Global Road,"May 18, 2018",Comedy,1 hrs. 30 min.,PG,N/A,"$21,299,834",Global Road,"$17,857,020","3,212","$6,023,972","3,212",5/18,10/11
+105,106,Bad Times At The El Royale,Fox,"October 12, 2018",Thriller,2 hrs. 21 min.,R,$32 million,"$14,043,609",Fox,"$17,839,115","2,808","$7,132,647","2,808",10/12,12/6
+106,107,Operation Finale,MGM,"August 29, 2018",Thriller,2 hrs. 2 min.,PG-13,$24 million,no dist,MGM,"$17,612,099","1,818","$6,022,758","1,818",8/29,11/15
+107,108,"Paul, Apostle of Christ",Sony / AFFIRM Films,"March 23, 2018",Drama,1 hrs. 47 min.,PG-13,$5 million,"$5,478,768",Affirm,"$17,560,475","1,473","$5,172,585","1,473",3/23,5/24
+108,109,Free Solo,National Geographic Entertainment,"September 28, 2018",Documentary,1 hrs. 40 min.,PG-13,N/A,n/a,NGE,"$17,541,090",483,"$294,288",4,9/28,5/2
+109,110,Sorry to Bother You,Annapurna Pictures,"July 6, 2018",Sci-Fi Comedy,1 hrs. 45 min.,R,N/A,no dist,Annapurna,"$17,493,096","1,050","$727,266",16,7/6,11/1
+110,111,Chappaquiddick,Entertainment Studios,"April 6, 2018",Thriller,1 hrs. 41 min.,PG-13,N/A,"$591,151",ENTMP,"$17,395,520","1,645","$5,765,854","1,560",4/6,8/1
+111,112,Mary Queen of Scots,Focus Features,"December 7, 2018",Drama,2 hrs. 5 min.,R,N/A,"$29,900,000",Focus,"$16,468,499","1,052","$194,777",4,12/7,1/31
+112,113,Forever My Girl,Roadside Attractions,"January 19, 2018",Romance,1 hrs. 44 min.,PG,$3.5 million,no dist,RAtt.,"$16,376,066","1,427","$4,245,630","1,114",1/19,5/10
+113,114,Mortal Engines,Universal,"December 14, 2018",Action / Adventure,2 hrs. 8 min.,PG-13,$100 million,"$67,706,100",Uni.,"$15,951,040","3,103","$7,559,850","3,103",12/14,1/17
+114,115,Hunter Killer,Lionsgate/Summit,"October 26, 2018",Action,2 hrs. 1 min.,R,$40 million,n/a,LG/S,"$15,767,460","2,728","$6,653,777","2,728",10/26,11/29
+115,116,If Beale Street Could Talk,Annapurna Pictures,"December 14, 2018",Crime Drama,1 hrs. 57 min.,R,N/A,"$5,656,918",Annapurna,"$14,915,773","1,018","$224,476",4,12/14,4/11
+116,117,The Girl in the Spider's Web: A New Dragon Tattoo Story,Sony / Columbia,"November 9, 2018",Crime Thriller,1 hrs. 57 min.,R,$43 million,"$20,323,582",Sony,"$14,841,338","2,929","$7,810,112","2,929",11/9,12/20
+117,118,The Possession of Hannah Grace,Sony / Screen Gems,"November 30, 2018",Horror,1 hrs. 25 min.,R,$7.7 million,"$28,179,106",SGem,"$14,837,422","2,298","$6,401,744","2,065",11/30,2/21
+118,119,RBG,Magnolia,"May 4, 2018",Documentary,1 hrs. 37 min.,PG,N/A,no dist,Magn.,"$14,017,361",432,"$578,470",34,5/4,10/11
+119,120,Eighth Grade,A24,"July 13, 2018",Comedy,1 hrs. 33 min.,R,N/A,no dist,A24,"$13,539,709","1,084","$263,797",4,7/13,10/4
+120,121,The Darkest Minds,Fox,"August 3, 2018",Sci-Fi Thriller,1 hrs. 45 min.,PG-13,$34 million,"$28,446,688",Fox,"$12,695,691","3,127","$5,842,609","3,127",8/3,10/18
+121,122,Three Identical Strangers,Neon,"June 29, 2018",Documentary,1 hrs. 36 min.,PG-13,N/A,no dist,Neon,"$12,320,845",433,"$171,503",5,6/29,10/18
+122,123,Upgrade,BH Tilt,"June 1, 2018",Thriller,1 hrs. 35 min.,R,N/A,"$2,400,000",BH Tilt,"$11,977,130","1,458","$4,670,905","1,457",6/1,8/2
+123,124,Padmaavat,Viva Pictures Distribution,"January 25, 2018",Drama,2 hrs. 44 min.,Unrated,N/A,"$11,145,000",VPD,"$11,846,060",354,"$4,493,384",326,1/25,2/25
+124,125,The Old Man & the Gun,Fox Searchlight,"September 28, 2018",Drama,1 hrs. 36 min.,PG-13,N/A,n/a,FoxS,"$11,277,120","1,042","$142,131",5,9/28,1/24
+125,126,Hell Fest,Lionsgate,"September 28, 2018",Horror Thriller,1 hrs. 29 min.,R,$5.5 million,"$7,052,260",LGF,"$11,107,431","2,297","$5,130,963","2,297",9/28,11/8
+126,127,Welcome to Marwen,Universal,"December 21, 2018",Drama,1 hrs. 56 min.,PG-13,$39 million,"$2,145,345",Uni.,"$10,763,520","1,911","$2,354,205","1,911",12/21,1/17
+127,128,The Miracle Season,Mirror/LD,"April 6, 2018",Drama,1 hrs. 39 min.,PG,N/A,no dist,Mirr/LD,"$10,230,620","1,707","$3,950,652","1,707",4/6,7/5
+128,129,The Wife,Sony Classics,"August 17, 2018",Drama,1 hrs. 40 min.,R,N/A,"$8,604,220",SPC,"$9,601,092",541,"$108,284",4,8/17,4/18
+129,130,Midnight Sun,Global Road,"March 23, 2018",Romance,1 hrs. 31 min.,PG-13,N/A,"$17,804,403",Global Road,"$9,561,064","2,173","$4,003,993","2,173",3/23,5/10
+130,131,Tully (2018),Focus Features,"May 4, 2018",Comedy,1 hrs. 36 min.,R,N/A,"$6,266,707",Focus,"$9,369,755","1,356","$3,282,610","1,353",5/4,7/5
+131,132,Traffik,Lionsgate,"April 20, 2018",Thriller,1 hrs. 36 min.,R,N/A,"$336,279",LGF,"$9,186,156","1,046","$3,941,338","1,046",4/20,5/31
+132,133,Unfriended: Dark Web,BH Tilt,"July 20, 2018",Thriller,1 hrs. 28 min.,R,"$1,000,000","$6,300,000",BH Tilt,"$8,866,745","1,547","$3,653,035","1,546",7/20,8/16
+133,134,Can You Ever Forgive Me?,Fox Searchlight,"October 19, 2018",Drama,1 hrs. 47 min.,R,N/A,n/a,FoxS,"$8,803,865",555,"$161,510",5,10/19,-
+134,135,Early Man,Lionsgate,"February 16, 2018",Animation,1 hrs. 29 min.,PG,N/A,"$46,355,270",LGF,"$8,267,544","2,494","$3,190,525","2,494",2/16,3/29
+135,136,The Death of Stalin,IFC,"March 9, 2018",Comedy / Drama,1 hrs. 46 min.,R,N/A,"$16,598,199",IFC,"$8,047,856",548,"$184,805",4,3/9,7/26
+136,137,Sanju,FIP,"June 29, 2018",Drama,2 hrs. 35 min.,Unrated,N/A,"$63,625,813",FIP,"$7,909,317",359,"$2,723,349",356,6/29,8/16
+137,138,Unsane,Bleecker Street,"March 23, 2018",Thriller,1 hrs. 38 min.,R,N/A,"$6,560,702",BST,"$7,732,899","2,023","$3,762,145","2,023",3/23,4/12
+138,139,Beautiful Boy (2018),Amazon Studios,"October 12, 2018",Drama,1 hrs. 52 min.,R,N/A,"$8,671,105",Amazon,"$7,649,973",776,"$218,888",4,10/12,2/7
+139,140,Mid90s,A24,"October 19, 2018",Comedy / Drama,1 hrs. 24 min.,R,N/A,no dist,A24,"$7,362,439","1,206","$258,157",4,10/19,12/23
+140,141,Dog Days (2018),LD Entertainment,"August 8, 2018",Comedy,1 hrs. 52 min.,PG,N/A,no dist,LD,"$6,809,080","2,442","$2,554,766","2,442",8/8,9/27
+141,142,Boy Erased,Focus Features,"November 2, 2018",Drama,1 hrs. 54 min.,R,N/A,"$4,969,159",Focus,"$6,788,692",672,"$207,057",5,11/2,1/3
+142,143,Hotel Artemis,Global Road,"June 8, 2018",Action Thriller,1 hrs. 33 min.,R,N/A,"$6,043,642",Global Road,"$6,708,147","2,407","$3,232,790","2,407",6/8,7/19
+143,144,A.X.L.,Global Road,"August 24, 2018",Family Adventure,1 hrs. 38 min.,PG,N/A,no dist,Global Road,"$6,501,381","1,710","$2,798,229","1,710",8/24,10/18
+144,145,Fahrenheit 11/9,Briarcliff,"September 21, 2018",Documentary,2 hrs. 8 min.,R,N/A,no dist,Briarcliff,"$6,352,306","1,719","$3,008,563","1,719",9/21,11/1
+145,146,Unbroken: Path to Redemption,Pure Flix,"September 14, 2018",Drama,1 hrs. 38 min.,PG-13,N/A,no dist,PFR,"$6,216,897","1,620","$2,238,723","1,620",9/14,11/29
+146,147,The Hurricane Heist,Entertainment Studios,"March 9, 2018",Action Thriller,1 hrs. 43 min.,PG-13,$35 million,n/a,ENTMP,"$6,115,825","2,402","$3,024,399","2,402",3/9,5/10
+147,148,Every Day (2018),Orion Pictures,"February 23, 2018",Drama,1 hrs. 35 min.,PG-13,$4.9 million,n/a,Orion,"$6,102,076","1,669","$3,016,149","1,667",2/23,3/22
+148,149,Once Upon a Deadpool,Fox,"December 12, 2018",Action,1 hrs. 57 min.,PG-13,N/A,"$44,400,000",Fox,"$6,100,309","1,566","$2,683,200","1,566",12/12,1/24
+149,150,Leave No Trace,Bleecker Street,"June 29, 2018",Drama,1 hrs. 48 min.,PG,N/A,n/a,BST,"$6,046,104",361,"$219,140",9,6/29,10/4
+150,151,Death of a Nation,Quality Flix,"August 3, 2018",Documentary,1 hrs. 49 min.,PG-13,$6 million,no dist,QF,"$5,885,881","1,005","$2,356,522","1,005",8/3,10/11
+151,152,Pandas,Warner Bros.,"April 6, 2018",Documentary,0 hrs. 40 min.,G,N/A,no dist,WB,"$5,757,906",35,"$158,915",33,4/6,7/15
+152,153,My Hero Academia: Two Heroes,FUNimation Films,"September 25, 2018",Animation,1 hrs. 36 min.,PG-13,N/A,n/a,FUN,"$5,754,556",535,"$1,388,499",508,9/25,10/9
+153,154,God's Not Dead: A Light in Darkness,Pure Flix,"March 30, 2018",Drama,1 hrs. 46 min.,PG,N/A,no dist,PFR,"$5,728,940","1,693","$2,689,677","1,693",3/30,6/14
+154,155,Kin,Lionsgate,"August 31, 2018",Sci-Fi Action,1 hrs. 42 min.,PG-13,N/A,"$4,309,460",LGF,"$5,718,096","2,141","$3,035,618","2,141",8/31,9/27
+155,156,Stan & Ollie,Sony Classics,"December 28, 2018",Comedy / Drama,1 hrs. 37 min.,PG,N/A,no dist,SPC,"$5,470,235",754,"$78,104",5,12/28,5/19
+156,157,Colette,Bleecker Street,"September 21, 2018",Drama,1 hrs. 51 min.,R,N/A,n/a,BST,"$5,137,622",593,"$161,179",4,9/21,11/29
+157,158,Simmba,Reliance Big Pictures,"December 28, 2018",Action,2 hrs. 38 min.,Unrated,N/A,no dist,Relbig.,"$5,102,129",301,"$1,758,576",301,12/28,2/3
+158,159,Action Point,Paramount,"June 1, 2018",Comedy,1 hrs. 25 min.,R,$19 million,no dist,Par.,"$5,059,608","2,032","$2,390,164","2,032",6/1,6/14
+159,160,Beirut,Bleecker Street,"April 11, 2018",War Drama,1 hrs. 49 min.,R,N/A,"$2,490,210",BST,"$5,019,226",755,"$1,734,497",755,4/11,6/14
+160,161,Gringo,STX Entertainment,"March 9, 2018",Comedy,1 hrs. 50 min.,R,N/A,"$6,031,774",STX,"$4,969,853","2,404","$2,722,420","2,404",3/9,4/5
+161,162,Samson,Pure Flix,"February 16, 2018",Drama,1 hrs. 50 min.,PG-13,N/A,no dist,PFR,"$4,719,928","1,249","$1,942,569","1,249",2/16,4/12
+162,163,Cold War (2018),Amazon Studios,"December 21, 2018",Drama,1 hrs. 29 min.,R,N/A,n/a,Amazon,"$4,580,048",270,"$54,353",3,12/21,4/4
+163,164,Johnny English Strikes Again,Universal,"October 26, 2018",Action Comedy,1 hrs. 28 min.,PG,$25 million,"$154,541,694",Uni.,"$4,412,170",552,"$1,638,895",544,10/26,11/22
+164,165,Gotti,Vertical Entertainment,"June 15, 2018",Crime Drama,1 hrs. 45 min.,R,N/A,n/a,VE,"$4,343,227",503,"$1,719,902",503,6/15,7/23
+165,166,Blindspotting,Lionsgate/Summit,"July 20, 2018",Comedy / Drama,1 hrs. 35 min.,R,N/A,"$530,192",LG/S,"$4,333,394",523,"$338,999",14,7/20,9/13
+166,167,Burn the Stage: The Movie,Trafalgar Releasing,"November 15, 2018",Documentary,1 hrs. 24 min.,Unrated,N/A,"$16,145,694",Trafalgar,"$4,201,819",645,"$2,420,197",629,11/15,12/9
+167,168,Ya Veremos,Pantelion,"August 31, 2018",Comedy / Drama,1 hrs. 37 min.,PG-13,N/A,n/a,PNT,"$4,165,949",369,"$1,803,848",369,8/31,10/11
+168,169,2.0,Unknown,"November 30, 2018",Sci-Fi Action,2 hrs. 28 min.,Unrated,N/A,no dist,N/A,"$4,152,000",314,"$2,775,000",314,11/30,12/6
+169,170,Amazing Grace (2019),Neon,"December 7, 2018",Documentary,1 hrs. 27 min.,G,N/A,no dist,Neon,"$4,146,847",263,"$57,353",3,12/7,-
+170,171,Life Itself (2018),Amazon Studios,"September 21, 2018",Drama,1 hrs. 57 min.,R,N/A,"$3,687,623",Amazon,"$4,102,648","2,609","$2,123,463","2,609",9/21,-
+171,172,Sgt. Stubby: An American Hero,Fun Academy,"April 13, 2018",Animation,1 hrs. 30 min.,PG,N/A,no dist,FunAcad,"$4,015,935","1,633","$1,164,403","1,633",4/13,1/10
+172,173,Ben is Back,Roadside Attractions,"December 7, 2018",Drama,1 hrs. 42 min.,R,N/A,n/a,RAtt.,"$3,703,184",598,"$80,734",4,12/7,2/21
+173,174,Gosnell: The Trial of America's Biggest Serial Killer,GVN Releasing,"October 12, 2018",Drama,1 hrs. 33 min.,PG-13,N/A,no dist,GVN,"$3,679,893",673,"$1,162,988",673,10/12,12/17
+174,175,Indivisible,Pure Flix,"October 26, 2018",Drama,1 hrs. 59 min.,PG-13,N/A,no dist,PFR,"$3,511,417",830,"$1,503,101",830,10/26,1/3
+175,176,The Oscar Nominated Short Films 2018,Shorts International,"February 9, 2018",Drama,1 hrs. 36 min.,Unrated,N/A,no dist,Shrts.,"$3,508,777",272,"$695,044",198,2/9,3/22
+176,177,Disobedience,Bleecker Street,"April 27, 2018",Drama,1 hrs. 54 min.,R,N/A,"$4,371,345",BST,"$3,498,782",247,"$237,393",5,4/27,8/2
+177,178,First Reformed,A24,"May 18, 2018",Thriller,1 hrs. 53 min.,R,N/A,no dist,A24,"$3,448,256",334,"$97,562",4,5/18,8/2
+178,179,"Juliet, Naked",Roadside Attractions,"August 17, 2018",Romantic Comedy,1 hrs. 38 min.,R,N/A,no dist,RAtt.,"$3,444,895",467,"$60,886",4,8/17,10/25
+179,180,Bad Samaritan,Electric Entertainment,"May 4, 2018",Horror Thriller,1 hrs. 48 min.,R,N/A,n/a,Electric,"$3,435,047","2,007","$1,726,868","2,007",5/4,5/24
+180,181,7 Days in Entebbe,Focus Features,"March 16, 2018",Action Thriller,1 hrs. 47 min.,PG-13,N/A,"$5,358,216",Focus,"$3,326,885",838,"$1,592,645",838,3/16,4/12
+181,182,Shoplifters,Magnolia,"November 23, 2018",Drama,2 hrs. 1 min.,R,N/A,n/a,Magn.,"$3,313,513",144,"$89,264",5,11/23,5/2
+182,183,2001: A Space Odyssey (2018 re-release),Warner Bros.,"May 18, 2018",Sci-Fi,2 hrs. 29 min.,G,N/A,n/a,WB,"$3,236,321",13,"$202,759",4,5/18,7/15
+183,184,The Sisters Brothers,Annapurna Pictures,"September 21, 2018",Western,2 hrs. 0 min.,R,N/A,"$10,000,000",Annapurna,"$3,143,056","1,141","$115,575",4,9/21,12/20
+184,185,Thoroughbreds,Focus Features,"March 9, 2018",Drama / Thriller,1 hrs. 32 min.,R,N/A,no dist,Focus,"$3,072,605",564,"$1,224,430",549,3/9,4/26
+185,186,Whitney,Roadside Attractions,"July 6, 2018",Documentary,2 hrs. 0 min.,R,N/A,no dist,RAtt.,"$3,026,351",451,"$1,265,572",451,7/6,9/20
+186,187,Rachel Hollis Presents: Made for More,Fathom,"August 2, 2018",Unknown,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$2,999,134",703,N/A,N/A,8/2,1/9
+187,188,American Animals,The Orchard,"June 1, 2018",Crime Drama,1 hrs. 57 min.,R,N/A,no dist,Orch.,"$2,856,954",339,"$134,793",4,6/1,8/30
+188,189,God Bless the Broken Road,Freestyle Releasing,"September 7, 2018",Drama,1 hrs. 51 min.,PG,N/A,no dist,Free,"$2,846,257","1,272","$1,386,254","1,272",9/7,11/8
+189,190,La Boda de Valentina,Pantelion,"February 9, 2018",Romantic Comedy,1 hrs. 47 min.,R,N/A,n/a,PNT,"$2,783,739",331,"$1,147,073",331,2/9,3/15
+190,191,Bharat Ane Nenu,Great India Films,"April 20, 2018",Action Drama,2 hrs. 53 min.,Unrated,N/A,no dist,GrtIndia,"$2,663,090",305,"$2,663,090",305,4/20,-
+191,192,Qué León (What A Lion),Spanglish Movies,"November 29, 2018",Romantic Comedy,1 hrs. 33 min.,PG-13,N/A,"$5,200,000",Spanglish,"$2,607,916",86,"$291,936",34,11/29,3/17
+192,193,You Were Never Really Here,Amazon Studios,"April 6, 2018",Drama / Thriller,1 hrs. 25 min.,R,N/A,n/a,Amazon,"$2,528,078",233,"$132,829",3,4/6,6/14
+193,194,Suspiria,Amazon Studios,"October 26, 2018",Horror,2 hrs. 35 min.,R,N/A,"$5,419,814",Amazon,"$2,483,472",311,"$184,037",2,10/26,12/20
+194,195,The Rider,Sony Classics,"April 13, 2018",Drama,1 hrs. 44 min.,R,N/A,n/a,SPC,"$2,419,031",224,"$42,244",3,4/13,12/13
+195,196,Mary and the Witch's Flower,GKIDS,"January 18, 2018",Animation,1 hrs. 42 min.,PG,N/A,n/a,GK,"$2,418,404",573,"$348,475",161,1/18,4/5
+196,197,Hearts Beat Loud,Gunpowder & Sky,"June 8, 2018",Comedy / Drama,1 hrs. 37 min.,PG-13,N/A,no dist,G&S,"$2,386,251",170,"$74,524",4,6/8,8/30
+197,198,1991,Entertainment One,"July 27, 2018",Comedy,2 hrs. 21 min.,Unrated,N/A,no dist,EOne,"$2,342,264",83,"$328,828",83,7/27,11/4
+198,199,Papillon (2018),Bleecker Street,"August 24, 2018",Drama,2 hrs. 16 min.,R,N/A,"$2,180,684",BST,"$2,335,896",544,"$1,090,073",544,8/24,9/13
+199,200,At Eternity's Gate,CBS Films,"November 16, 2018",Drama,1 hrs. 50 min.,PG-13,N/A,no dist,CBS,"$2,294,915",178,"$92,856",4,11/16,2/10
+200,201,The Fall of the American Empire,Entertainment One,"June 29, 2018",Comedy,2 hrs. 7 min.,R,N/A,no dist,EOne,"$2,059,945",73,"$338,216",72,6/29,10/4
+201,202,Puzzle,Sony Classics,"July 27, 2018",Drama,1 hrs. 43 min.,R,N/A,no dist,SPC,"$2,032,018",265,"$61,214",5,7/27,11/22
+202,203,Met Opera: Tosca,Fathom,"January 27, 2018",Musical,3 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$2,023,749",691,"$1,498,309",691,1/27,-
+203,204,A Fantastic Woman,Sony Classics,"February 2, 2018",Drama,1 hrs. 44 min.,R,N/A,n/a,SPC,"$2,020,988",190,"$64,241",5,2/2,5/20
+204,205,Pope Francis - A Man of His Word,Focus Features,"May 18, 2018",Documentary,1 hrs. 36 min.,PG,N/A,"$6,600,000",Focus,"$2,008,385",385,"$507,870",346,5/18,9/30
+205,206,Assassination Nation,Neon,"September 21, 2018",Thriller,1 hrs. 47 min.,R,N/A,no dist,Neon,"$2,005,142","1,403","$1,050,021","1,403",9/21,10/21
+206,207,The Front Runner,Sony / Columbia,"November 6, 2018",Drama,1 hrs. 53 min.,R,N/A,"$1,242,130",Sony,"$2,000,105",807,"$51,543",4,11/6,12/20
+207,208,Detective Chinatown 2,Warner Bros.,"February 16, 2018",Action Comedy,2 hrs. 0 min.,R,N/A,"$542,077,932",WB,"$1,983,984",115,"$704,047",115,2/16,4/5
+208,209,Indian Horse,Elevation Pictures,"April 13, 2018",Drama,1 hrs. 41 min.,Unrated,N/A,no dist,Elevation,"$1,893,758",7,N/A,N/A,4/13,-
+209,210,MET Opera: La Traviata,Fathom,"December 15, 2018",Unknown,3 hrs. 30 min.,Unrated,N/A,n/a,Fathom,"$1,882,931",725,"$1,333,159",725,12/15,12/19
+210,211,Racetime,Entertainment One,"December 7, 2018",Animation,1 hrs. 29 min.,Unrated,N/A,no dist,EOne,"$1,875,283",86,"$271,061",86,12/7,4/14
+211,212,Moses,Fathom,"September 13, 2018",Unknown,2 hrs. 10 min.,Unrated,N/A,no dist,Fathom,"$1,807,117",697,"$416,047",673,9/13,-
+212,213,Met Opera: La Bohème (2018),Fathom,"February 24, 2018",Musical,3 hrs. 20 min.,Unrated,N/A,no dist,Fathom,"$1,764,201",687,"$1,326,339",687,2/24,2/28
+213,214,Race 3,Yash Raj,"June 15, 2018",Action,2 hrs. 40 min.,Unrated,N/A,no dist,Yash,"$1,690,861",314,"$1,690,861",314,6/15,-
+214,215,Pad Man,Sony / Columbia,"February 9, 2018",Drama,2 hrs. 20 min.,PG-13,N/A,"$25,588,573",Sony,"$1,670,192",152,"$740,313",152,2/9,3/8
+215,216,Capernaum,Sony Classics,"December 14, 2018",Drama,2 hrs. 1 min.,R,N/A,n/a,SPC,"$1,661,096",136,"$24,988",3,12/14,-
+216,217,A Private War,Aviron,"November 2, 2018",Drama,1 hrs. 46 min.,R,N/A,"$2,193,470",Aviron,"$1,633,208",865,"$60,491",4,11/2,1/24
+217,218,MET Opera: Aida,Fathom,"October 6, 2018",Unknown,4 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$1,595,902",699,"$1,187,275",699,10/6,10/10
+218,219,The Bookshop,Greenwich,"August 24, 2018",Drama,1 hrs. 53 min.,PG,N/A,"$9,889,806",Greenwich,"$1,588,150",136,"$75,736",4,8/24,10/11
+219,220,Operation Red Sea,Well Go USA,"February 23, 2018",Action,2 hrs. 21 min.,Unrated,N/A,"$577,677,013",WGUSA,"$1,543,547",55,"$436,059",45,2/23,4/19
+220,221,Destroyer,Annapurna Pictures,"December 25, 2018",Crime Thriller,2 hrs. 3 min.,R,N/A,"$4,047,616",Annapurna,"$1,533,324",235,"$55,347",3,12/25,3/21
+221,222,Thugs of Hindostan,Yash Raj,"November 8, 2018",Action Drama,2 hrs. 44 min.,Unrated,N/A,no dist,Yash,"$1,449,848",377,"$1,185,386",377,11/8,-
+222,223,Don't Worry He Won't Get Far on Foot,Amazon Studios,"July 13, 2018",Comedy / Drama,1 hrs. 53 min.,R,N/A,"$2,494,914",Amazon,"$1,441,705",266,"$83,339",4,7/13,9/13
+223,224,Princess Mononoke - Studio Ghibli (2018),Fathom,"July 22, 2018",Animation,2 hrs. 15 min.,PG-13,N/A,no dist,Fathom,"$1,423,877",754,"$476,728",731,7/22,7/25
+224,225,Finding Your Feet,Roadside Attractions,"March 30, 2018",Comedy,1 hrs. 51 min.,PG-13,N/A,n/a,RAtt.,"$1,418,682",277,"$60,132",14,3/30,6/7
+225,226,Little Women (2018),Pinnacle Peak,"September 28, 2018",Drama,1 hrs. 52 min.,PG-13,N/A,no dist,Pinnacle,"$1,379,497",643,"$705,063",643,9/28,11/22
+226,227,102 Not Out,Sony / Columbia,"May 4, 2018",Comedy,1 hrs. 42 min.,PG,N/A,"$10,871,092",Sony,"$1,343,797",102,"$483,681",102,5/4,6/7
+227,228,Baaghi 2,FIP,"March 30, 2018",Action,2 hrs. 17 min.,Unrated,N/A,"$29,890,510",FIP,"$1,319,579",123,"$650,722",123,3/30,4/19
+228,229,Never Look Away,Sony Classics,"November 30, 2018",Drama,3 hrs. 8 min.,R,N/A,n/a,SPC,"$1,303,198",122,"$25,789",1,11/30,-
+229,230,The Metropolitan Opera: Cosi Fan Tutte (2018),Fathom,"March 31, 2018",Unknown,4 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$1,302,949",687,"$966,870",687,3/31,4/4
+230,231,Maria by Callas,Sony Classics,"November 2, 2018",Documentary,1 hrs. 53 min.,PG,N/A,n/a,SPC,"$1,267,301",149,"$91,915",16,11/2,2/14
+231,232,McQueen,Bleecker Street,"July 20, 2018",Documentary,1 hrs. 51 min.,R,N/A,no dist,BST,"$1,257,275",95,"$98,873",4,7/20,10/4
+232,233,The Seagull,Sony Classics,"May 11, 2018",Drama,1 hrs. 38 min.,PG-13,N/A,no dist,SPC,"$1,252,960",211,"$79,016",6,5/11,8/16
+233,234,Met Opera: Cendrillon,Fathom,"April 28, 2018",Musical,3 hrs. 15 min.,Unrated,N/A,no dist,Fathom,"$1,243,306",684,"$925,752",684,4/28,5/2
+234,235,Mandy,RLJ Entertainment,"September 13, 2018",Action Horror,2 hrs. 1 min.,Unrated,N/A,n/a,RLJ,"$1,214,525",250,"$225,723",75,9/13,11/4
+235,236,Grease (40th Anniversary),Fathom,"April 8, 2018",Musical,1 hrs. 50 min.,PG,N/A,no dist,Fathom,"$1,213,413",735,"$664,766",700,4/8,4/14
+236,237,Beautifully Broken,ArtAffects,"August 24, 2018",Drama,1 hrs. 48 min.,PG-13,N/A,no dist,AAE,"$1,208,925",651,"$589,155",651,8/24,11/7
+237,238,An Interview with God,Fathom,"August 20, 2018",Drama,1 hrs. 37 min.,Unrated,N/A,no dist,Fathom,"$1,201,434",944,N/A,N/A,8/20,8/23
+238,239,Along with the Gods: The Last 49 Days,Well Go USA,"August 1, 2018",Fantasy,2 hrs. 15 min.,Unrated,N/A,no dist,WGUSA,"$1,200,246",48,"$311,743",48,8/1,9/20
+239,240,MET Opera: Samson Et Dalila,Fathom,"October 20, 2018",Unknown,3 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$1,195,758",699,"$898,384",699,10/20,-
+240,241,Andhadhun,Eros,"October 5, 2018",Comedy Thriller,2 hrs. 19 min.,Unrated,N/A,n/a,Eros,"$1,193,046",62,"$278,677",56,10/5,11/4
+241,242,Spirited Away - Studio Ghibli Fest 2018,Fathom,"October 28, 2018",Animation,2 hrs. 4 min.,PG,N/A,no dist,Fathom,"$1,175,067",742,"$494,054",720,10/28,10/30
+242,243,The Metropolitan Opera: Luisa Miller,Fathom,"April 14, 2018",Unknown,4 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$1,166,858",685,"$850,777",685,4/14,4/18
+243,244,Lean on Pete,A24,"April 6, 2018",Adventure,2 hrs. 1 min.,R,N/A,n/a,A24,"$1,163,056",187,"$46,975",4,4/6,6/14
+244,245,My Neighbor Totoro - Studio Ghibli Fest 2018,Fathom,"September 30, 2018",Animation,1 hrs. 40 min.,G,N/A,no dist,Fathom,"$1,144,649",718,"$539,245",718,9/30,-
+245,246,Met Opera: L'Elisir d'Amore (2018),Fathom,"February 10, 2018",Musical,3 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$1,115,018",687,"$837,262",687,2/10,2/14
+246,247,Wildlife,IFC,"October 19, 2018",Drama,1 hrs. 44 min.,PG-13,N/A,"$2,048,983",IFC,"$1,050,616",105,"$104,589",4,10/19,-
+247,248,The Dark Crystal (special re-release),Fathom,"February 25, 2018",Fantasy,1 hrs. 40 min.,PG,N/A,no dist,Fathom,"$1,036,956",616,"$548,354",609,2/25,3/1
+248,249,Zero,Yash Raj,"December 21, 2018",Comedy / Drama,2 hrs. 44 min.,Unrated,N/A,no dist,Yash,"$1,035,388",300,"$1,035,388",300,12/21,-
+249,250,Met Opera: Semiramide,Fathom,"March 10, 2018",Musical,3 hrs. 29 min.,Unrated,N/A,no dist,Fathom,"$1,033,651",691,"$798,605",691,3/10,-
+250,251,MET Opera: La Fanciulla Del West,Fathom,"October 27, 2018",Unknown,3 hrs. 45 min.,Unrated,N/A,no dist,Fathom,"$1,023,233",705,"$765,549",705,10/27,10/31
+251,252,Nothing to Lose (2018),Swen,"May 11, 2018",Drama,2 hrs. 15 min.,PG,N/A,n/a,Swen,"$1,016,188",69,"$679,531",69,5/11,6/14
+252,253,Elvis: '68 Comeback Special (2018 release),Fathom,"August 16, 2018",Concert,1 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$1,010,657",725,N/A,N/A,8/16,-
+253,254,Raid (2018),Eros,"March 16, 2018",Action / Crime,2 hrs. 0 min.,Unrated,N/A,n/a,Eros,"$1,010,385",79,"$423,817",79,3/16,4/1
+254,255,The Insult,Cohen Media Group,"January 12, 2018",Foreign,1 hrs. 53 min.,R,N/A,n/a,Cohen,"$1,001,305",54,"$24,600",3,1/12,4/19
+255,256,Labyrinth (2018 Fathom Event),Fathom,"April 29, 2018",Fantasy,1 hrs. 41 min.,PG,N/A,no dist,Fathom,"$993,336",685,"$558,857",576,4/29,5/3
+256,257,Yellow Submarine (2018 re-release),Abramorama,"July 8, 2018",Animation,1 hrs. 30 min.,G,N/A,no dist,Abr.,"$992,305",188,"$107,105",73,7/8,9/30
+257,258,Little Italy,Entertainment One,"August 24, 2018",Romantic Comedy,1 hrs. 42 min.,R,N/A,n/a,EOne,"$990,230",133,"$283,399",133,8/24,11/8
+258,259,The Dawn Wall (Fathom),Fathom,"September 19, 2018",Documentary,1 hrs. 40 min.,Unrated,N/A,no dist,Fathom,"$970,032",593,N/A,N/A,9/19,-
+259,260,TCM: White Christmas,Fathom,"December 9, 2018",Musical,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$928,298",638,"$566,045",638,12/9,12/12
+260,261,Kirk Cameron: Connect,Fathom,"February 27, 2018",Documentary,1 hrs. 10 min.,Unrated,N/A,no dist,Fathom,"$918,127",781,N/A,N/A,2/27,3/1
+261,262,The Miseducation of Cameron Post,FilmRise,"August 3, 2018",Drama,1 hrs. 35 min.,Unrated,N/A,n/a,FR,"$904,703",85,"$48,638",2,8/3,9/30
+262,263,Kedarnath,PackYourBag,"December 7, 2018",Drama,1 hrs. 56 min.,Unrated,N/A,n/a,PackYourBag,"$901,131",113,"$407,118",113,12/7,1/3
+263,264,Let the Sunshine In,IFC,"April 27, 2018",Comedy / Drama,1 hrs. 34 min.,Unrated,N/A,no dist,IFC,"$892,421",67,"$39,699",2,4/27,7/26
+264,265,Tea with the Dames,IFC,"September 21, 2018",Documentary,1 hrs. 24 min.,Unrated,N/A,no dist,IFC,"$889,343",71,"$14,777",1,9/21,1/20
+265,266,The Cakemaker,Strand,"June 29, 2018",Drama,1 hrs. 44 min.,Unrated,N/A,no dist,Strand,"$875,751",34,"$33,384",4,6/29,11/8
+266,267,MET Opera: Marnie,Fathom,"November 10, 2018",Unknown,3 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$849,710",669,"$639,253",669,11/10,11/14
+267,268,Bandstand: The Broadway Musical,Fathom,"June 25, 2018",Musical,2 hrs. 10 min.,Unrated,N/A,no dist,Fathom,"$839,554",720,N/A,N/A,6/25,6/28
+268,269,Schindler's List (2018 re-release),Universal,"December 7, 2018",Drama,3 hrs. 15 min.,R,N/A,n/a,Uni.,"$833,050","1,029","$566,760","1,029",12/7,12/13
+269,270,Like Arrows,Fathom,"May 1, 2018",Drama,1 hrs. 40 min.,Unrated,N/A,no dist,Fathom,"$817,990",818,N/A,N/A,5/1,5/3
+270,271,Mirai,GKIDS,"November 29, 2018",Animation,1 hrs. 38 min.,PG,N/A,n/a,GK,"$812,794",780,"$63,325",69,11/29,2/21
+271,272,Beast,Roadside Attractions,"May 11, 2018",Thriller,1 hrs. 47 min.,R,N/A,n/a,RAtt.,"$800,365",93,"$53,248",4,5/11,7/5
+272,273,Sui Dhaaga - Made in India,Yash Raj,"September 28, 2018",Drama,2 hrs. 16 min.,Unrated,N/A,no dist,Yash,"$790,628",193,"$581,950",193,9/28,10/4
+273,274,Pokemon the Movie: The Power of Us,Fathom,"November 24, 2018",Animation,1 hrs. 52 min.,Unrated,N/A,n/a,Fathom,"$789,170",999,"$255,299",989,11/24,-
+274,275,Border,Neon,"October 26, 2018",Drama,1 hrs. 41 min.,R,N/A,no dist,Neon,"$771,930",74,"$73,700",7,10/26,1/6
+275,276,The Party (2017),Roadside Attractions,"February 16, 2018",Comedy,1 hrs. 11 min.,R,N/A,n/a,RAtt.,"$749,827",92,"$37,396",3,2/16,5/10
+276,277,How Long Will I Love U,Well Go USA,"May 25, 2018",Comedy,1 hrs. 41 min.,Unrated,N/A,"$82,134,386",WGUSA,"$746,933",32,"$204,733",23,5/25,6/28
+277,278,On Chesil Beach,Bleecker Street,"May 18, 2018",Drama,1 hrs. 50 min.,R,N/A,no dist,BST,"$745,971",203,"$35,765",4,5/18,7/12
+278,279,The Polar Express (2018 re-release),Warner Bros.,"November 2, 2018",Animation,1 hrs. 40 min.,G,N/A,no dist,WB,"$731,018",392,N/A,N/A,11/2,-
+279,280,Vox Lux,Neon,"December 7, 2018",Drama,1 hrs. 54 min.,R,N/A,no dist,Neon,"$727,119",325,"$155,714",6,12/7,1/6
+280,281,The Catcher Was a Spy,IFC,"June 22, 2018",Drama,1 hrs. 38 min.,R,N/A,"$228,730",IFC,"$725,223",52,"$114,771",46,6/22,8/23
+281,282,Burning,Well Go USA,"October 26, 2018",Drama,2 hrs. 28 min.,Unrated,N/A,n/a,WGUSA,"$718,991",27,"$26,130",2,10/26,3/7
+282,283,The Little Stranger,Focus Features,"August 31, 2018",Drama,1 hrs. 51 min.,R,N/A,no dist,Focus,"$713,143",477,"$401,563",474,8/31,9/13
+283,284,Canelo vs. GGG 2,Fathom,"September 15, 2018",Unknown,N/A,Unrated,N/A,no dist,Fathom,"$707,875",533,"$707,875",533,9/15,-
+284,285,Monster Hunt 2,Lionsgate,"February 16, 2018",Fantasy,1 hrs. 50 min.,Unrated,N/A,"$360,976,465",LGF,"$706,153",69,"$341,834",69,2/16,3/8
+285,286,Blaze (2018),IFC,"August 17, 2018",Drama,2 hrs. 7 min.,R,N/A,no dist,IFC,"$704,955",88,"$44,050",3,8/17,11/29
+286,287,Boundaries,Sony Classics,"June 22, 2018",Comedy / Drama,1 hrs. 50 min.,R,N/A,no dist,SPC,"$703,438",224,"$29,552",5,6/22,9/6
+287,288,Jim Henson's Holiday Special with Fraggle Rock and Emmet Otter,Fathom,"December 10, 2018",Musical,1 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$695,130",623,"$473,802",536,12/10,12/16
+288,289,The Trump Prophecy,Fathom,"October 2, 2018",Drama,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$671,198",608,N/A,N/A,10/2,-
+289,290,The Island (2018),Well Go USA,"August 10, 2018",Comedy / Drama,2 hrs. 14 min.,Unrated,N/A,no dist,WGUSA,"$670,883",40,"$263,412",40,8/10,9/16
+290,291,Dragon Ball Z: Broly - The Legendary Super Saiyan (2018 re-release),Fathom,"September 15, 2018",Animation,1 hrs. 12 min.,Unrated,N/A,no dist,Fathom,"$658,982",681,"$357,322",681,9/15,9/19
+291,292,Ponyo (10th Anniversary) - Studio Ghibli Fest 2018,Fathom,"March 25, 2018",Animation,1 hrs. 40 min.,G,N/A,no dist,Fathom,"$653,072",757,"$281,697",726,3/25,3/28
+292,293,Lizzie,Roadside Attractions,"September 14, 2018",Thriller,1 hrs. 46 min.,R,N/A,no dist,RAtt.,"$642,157",240,"$47,580",4,9/14,10/25
+293,294,"Love, Gilda",Magnolia,"September 21, 2018",Documentary,1 hrs. 26 min.,Unrated,N/A,no dist,Magn.,"$626,318",112,"$189,639",82,9/21,11/15
+294,295,Transformers: The Movie (2018 re-release),Fathom,"September 27, 2018",Animation,1 hrs. 24 min.,PG,N/A,no dist,Fathom,"$619,597",742,N/A,N/A,9/27,9/27
+295,296,Foxtrot,Sony Classics,"March 2, 2018",Drama,1 hrs. 48 min.,R,N/A,n/a,SPC,"$618,883",45,"$31,629",4,3/2,6/21
+296,297,The Sound of Music (2018 re-release),Fathom,"September 9, 2018",Musical,2 hrs. 54 min.,Unknown,N/A,n/a,Fathom,"$616,171",640,"$413,497",640,9/9,9/12
+297,298,Itzhak,Greenwich,"March 9, 2018",Documentary,1 hrs. 23 min.,Unrated,N/A,no dist,Greenwich,"$607,290",35,"$14,350",2,3/9,8/2
+298,299,Survival Sunday: The Walking Dead/Fear the Walking Dead,Fathom,"April 15, 2018",Horror,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$605,764",777,"$605,764",777,4/15,4/15
+299,300,"DCI 2018: Big, Loud & Live 15",Fathom,"August 9, 2018",Unknown,5 hrs. 15 min.,Unrated,N/A,no dist,Fathom,"$603,320",639,N/A,N/A,8/9,8/9
+300,301,The Grateful Dead Meet Up 2018,Fathom,"April 4, 2018",Documentary,3 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$600,554",504,N/A,N/A,4/4,8/1
+301,302,The Big Lebowski (20th Anniversary),Fathom,"August 5, 2018",Crime Comedy,1 hrs. 57 min.,R,N/A,n/a,Fathom,"$582,585",658,"$330,067",624,8/5,8/8
+302,303,Pick of the Litter,IFC,"August 31, 2018",Documentary,1 hrs. 21 min.,Unrated,N/A,no dist,IFC,"$578,717",60,"$16,519",2,8/31,11/29
+303,304,Manmarziyaan,Eros,"September 14, 2018",Romance,2 hrs. 36 min.,Unrated,N/A,n/a,Eros,"$567,417",99,"$292,439",99,9/14,10/14
+304,305,Loveless (2018),Sony Classics,"February 16, 2018",Drama,2 hrs. 7 min.,R,N/A,n/a,SPC,"$566,356",59,"$30,222",3,2/16,5/10
+305,306,The Cat Returns - Studio Ghibli Fest 2018,Fathom,"April 22, 2018",Animation,1 hrs. 15 min.,G,N/A,no dist,Fathom,"$563,718",752,"$254,402",721,4/22,4/25
+306,307,A Cool Fish,China Lion,"November 16, 2018",Comedy,1 hrs. 49 min.,Unrated,N/A,no dist,CL,"$551,876",36,"$71,187",15,11/16,1/10
+307,308,Tommy Wiseau's The Room,Fathom,"January 10, 2018",Drama,1 hrs. 39 min.,R,N/A,n/a,Fathom,"$549,602",513,N/A,N/A,1/10,1/19
+308,309,The Children Act,A24,"September 14, 2018",Thriller,1 hrs. 45 min.,R,N/A,"$16,973,993",A24,"$547,750",73,"$76,108",23,9/14,11/22
+309,310,Anna and the Apocalypse,Orion Pictures,"November 30, 2018",Musical,1 hrs. 32 min.,R,N/A,no dist,Orion,"$545,597",138,"$52,588",5,11/30,1/3
+310,311,Dragon Ball Z: Saiyan Double Feature,Fathom,"November 3, 2018",Animation,1 hrs. 45 min.,Unrated,N/A,no dist,Fathom,"$540,707",691,"$288,095",691,11/3,11/8
+311,312,Fireworks (2018),GKIDS,"July 3, 2018",Animation,1 hrs. 30 min.,Unrated,N/A,n/a,GK,"$525,280",510,"$138,014",10,7/3,7/19
+312,313,Castle in the Sky - Studio Ghibli Fest 2018,Fathom,"November 18, 2018",Animation,2 hrs. 5 min.,PG,N/A,no dist,Fathom,"$523,664",648,"$197,172",645,11/18,11/20
+313,314,Grave of the Fireflies - Studio Ghibli Fest 2018,Fathom,"August 12, 2018",Animation,1 hrs. 29 min.,Unrated,N/A,no dist,Fathom,"$516,962",746,"$158,101",715,8/12,8/15
+314,315,The Sandlot (25th Anniversary),Fathom,"July 22, 2018",Family Comedy,1 hrs. 41 min.,PG,N/A,no dist,Fathom,"$516,130",438,"$263,582",410,7/22,7/24
+315,316,Beetlejuice (30th Anniversary),Warner Bros.,"September 28, 2018",Horror Comedy,1 hrs. 32 min.,PG,N/A,no dist,WB,"$512,947",N/A,N/A,N/A,9/28,-
+316,317,Bullitt 50th Anniversary,Fathom,,,,,,,,"$511,350",586,"$408,627",586,10/7,10/9
+317,318,TCM: Die Hard 30th Anniversary Event,Fathom,"November 11, 2018",Action Thriller,2 hrs. 12 min.,R,N/A,no dist,Fathom,"$510,241",687,"$321,704",687,11/11,-
+318,319,The Spy Gone North,CJ Entertainment,"August 10, 2018",Drama,2 hrs. 21 min.,Unrated,N/A,n/a,CJ,"$500,803",31,"$43,348",2,8/10,9/20
+319,320,Monsters and Men,Neon,"September 28, 2018",Drama,1 hrs. 35 min.,R,N/A,no dist,Neon,"$500,101",153,"$118,697",18,9/28,10/28
+320,321,Bilal: A New Breed of Hero,Vertical Entertainment,"February 2, 2018",Animation,1 hrs. 49 min.,PG-13,N/A,"$1,710,132",VE,"$490,973",300,"$309,951",300,2/2,3/1
+321,322,The Great Battle,Well Go USA,"September 21, 2018",Action,2 hrs. 16 min.,Unrated,N/A,no dist,WGUSA,"$472,166",30,"$123,983",30,9/21,11/1
+322,323,The Happy Prince,Sony Classics,"October 10, 2018",Drama,1 hrs. 45 min.,R,N/A,n/a,SPC,"$466,440",277,"$38,886",8,10/10,12/20
+323,324,Puffs: Filmed Live Off Broadway,Fathom,"May 9, 2018",Unknown,1 hrs. 50 min.,Unrated,N/A,no dist,Fathom,"$464,483",687,"$232,863",606,5/9,5/12
+324,325,Final Portrait,Sony Classics,"March 23, 2018",Comedy / Drama,1 hrs. 30 min.,R,N/A,n/a,SPC,"$461,972",100,"$25,472",3,3/23,6/21
+325,326,Scotty and the Secret History of Hollywood,Greenwich,"July 27, 2018",Documentary,1 hrs. 38 min.,Unrated,N/A,no dist,Greenwich,"$461,689",34,"$28,144",1,7/27,9/20
+326,327,South Pacific (60th Anniversary),Fathom,"August 26, 2018",Musical,2 hrs. 37 min.,Unrated,N/A,no dist,Fathom,"$458,000",718,"$258,350",683,8/26,8/29
+327,328,Condorito: La Pelicula,Lionsgate,"January 12, 2018",Animation,1 hrs. 28 min.,PG,N/A,"$7,983,475",LGF,"$447,719",153,"$248,456",153,1/12,2/1
+328,329,Perfect Blue (2018 re-release),GKIDS,"September 7, 2018",Animation,1 hrs. 20 min.,R,N/A,no dist,GK,"$446,062",491,"$19,020",491,9/7,10/25
+329,330,Porco Rosso - Studio Ghibli Fest 2018,Fathom,"May 20, 2018",Animation,1 hrs. 34 min.,PG,N/A,no dist,Fathom,"$443,059",755,"$156,270",734,5/20,5/23
+330,331,Elf (15th Anniversary),Warner Bros.,"November 2, 2018",Comedy,1 hrs. 35 min.,PG,N/A,no dist,WB,"$442,073",N/A,N/A,N/A,11/2,-
+331,332,DCI 2018: Tour Premiere,Fathom,"June 21, 2018",Unknown,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$434,008",479,N/A,N/A,6/21,6/21
+332,333,The Shining (2018 re-issue),Warner Bros.,"October 31, 2018",Horror,2 hrs. 26 min.,R,N/A,no dist,WB,"$421,572",N/A,N/A,N/A,10/31,-
+333,334,NT LIVE: FRANKENSTEIN Cumberbatch as Creature,Fathom,"October 22, 2018",Unknown,2 hrs. 20 min.,Unrated,N/A,no dist,Fathom,"$417,783",512,N/A,N/A,10/22,10/29
+334,335,Cirque du Soleil: KURIOS - Cabinet Of Curiosities,Fathom,"November 13, 2018",Unknown,1 hrs. 45 min.,Unrated,N/A,no dist,Fathom,"$413,039",522,N/A,N/A,11/13,-
+335,336,Bag of Marbles,Gaumont British Picture Corporation,"March 23, 2018",Drama,1 hrs. 50 min.,Unrated,N/A,n/a,Gaum.,"$411,318",16,"$14,420",4,3/23,7/26
+336,337,"Night Is Short, Walk On Girl",GKIDS,"August 21, 2018",Animation,1 hrs. 32 min.,Unrated,N/A,no dist,GK,"$406,490",415,"$18,302",10,8/21,10/4
+337,338,The Philadelphia Story (2018 re-release),Fathom,"February 18, 2018",Romantic Comedy,1 hrs. 52 min.,Unrated,N/A,no dist,Fathom,"$404,524",665,"$258,994",630,2/18,2/21
+338,339,The Oath (2018),Roadside Attractions,"October 12, 2018",Comedy,1 hrs. 33 min.,R,N/A,no dist,RAtt.,"$401,463",300,"$29,077",10,10/12,11/1
+339,340,We the Animals,The Orchard,"August 17, 2018",Drama,1 hrs. 33 min.,R,N/A,no dist,Orch.,"$400,961",48,"$63,357",3,8/17,10/18
+340,341,The Gospel According to André,Magnolia,"May 25, 2018",Documentary,1 hrs. 34 min.,PG-13,N/A,no dist,Magn.,"$400,713",36,"$47,802",4,5/25,8/16
+341,342,Leaning Into The Wind,Magnolia,"March 9, 2018",Documentary,1 hrs. 33 min.,PG,N/A,no dist,Magn.,"$400,530",39,"$24,840",5,3/9,6/21
+342,343,TCM: West Side Story,Fathom,"June 24, 2018",Musical,2 hrs. 33 min.,Unrated,N/A,no dist,Fathom,"$398,670",616,"$207,145",616,6/24,6/27
+343,344,RiffTrax Live: Space Mutiny,Fathom,"June 14, 2018",Action / Adventure,1 hrs. 31 min.,Unrated,N/A,no dist,Fathom,"$397,887",725,N/A,N/A,6/14,6/19
+344,345,RiffTrax Live: Krull,Fathom,"August 23, 2018",Comedy,1 hrs. 56 min.,Unrated,N/A,no dist,Fathom,"$397,157",638,"$95,010",507,8/23,8/25
+345,346,Vertigo (60th Anniversary),Fathom,"March 18, 2018",Romantic Thriller,2 hrs. 8 min.,PG,N/A,n/a,Fathom,"$394,212",662,"$252,880",628,3/18,3/21
+346,347,Soorma,Sony / Columbia,"July 13, 2018",Sports,2 hrs. 11 min.,PG-13,N/A,"$6,189,568",Sony,"$390,077",50,"$168,354",50,7/13,8/2
+347,348,Attack on Titan Season 3,FUNimation Films,"July 10, 2018",Animation,2 hrs. 21 min.,Unrated,N/A,no dist,FUN,"$377,334",173,N/A,N/A,7/10,-
+348,349,The Dark Knight (10th Anniversary),Warner Bros.,"August 24, 2018",Action / Adventure,2 hrs. 30 min.,PG-13,N/A,no dist,WB,"$375,589",N/A,N/A,N/A,8/24,-
+349,350,Oh Lucy!,Film Movement,"March 2, 2018",Comedy / Drama,1 hrs. 35 min.,Unrated,N/A,n/a,FM,"$375,391",41,"$14,569",3,3/2,7/5
+350,351,Grace Jones: Bloodlight and Bami,Kino Lorber,"April 13, 2018",Documentary,1 hrs. 55 min.,Unrated,N/A,no dist,KL,"$375,208",36,"$56,171",3,4/13,8/23
+351,352,Jurassic Park (25th Anniversary),Fathom,"September 16, 2018",Sci-Fi Horror,2 hrs. 7 min.,PG-13,N/A,no dist,Fathom,"$374,238",532,"$213,743",532,9/16,9/19
+352,353,Pom Poko - Studio Ghibli Fest 2018,Fathom,"June 17, 2018",Animation,1 hrs. 59 min.,PG,N/A,no dist,Fathom,"$372,405",758,"$107,909",733,6/17,6/20
+353,354,Believer,Well Go USA,"June 8, 2018",Crime Thriller,2 hrs. 3 min.,Unrated,N/A,no dist,WGUSA,"$365,639",32,"$146,630",32,6/8,7/8
+354,355,Mountain,Greenwich,"May 11, 2018",Documentary,1 hrs. 14 min.,PG,N/A,n/a,Greenwich,"$365,412",35,"$6,067",1,5/11,8/9
+355,356,Kusama: Infinity,Magnolia,"September 7, 2018",Documentary,1 hrs. 20 min.,Unrated,N/A,no dist,Magn.,"$360,931",22,"$30,998",2,9/7,12/13
+356,357,The Wizard of Oz (2018 re-issue),Warner Bros.,"February 18, 2018",Fantasy,1 hrs. 41 min.,G,N/A,,WB,"$351,839",N/A,N/A,N/A,2/18,-
+357,358,Suicide: The Ripple Effect,Gathr Films,"February 23, 2018",Documentary,1 hrs. 33 min.,Unrated,N/A,no dist,Gathr,"$347,468",25,"$2,600",1,2/23,-
+358,359,Sailor Moon R & S - The Movies,Fathom,"July 28, 2018",Animation,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$335,697",621,"$173,199",526,7/28,7/30
+359,360,Russ Taff: I Still Believe,Fathom,"October 30, 2018",Unknown,1 hrs. 50 min.,Unrated,N/A,no dist,Fathom,"$334,983",693,N/A,N/A,10/30,10/30
+360,361,Shine (2018),GVN Releasing,"October 5, 2018",Drama,1 hrs. 36 min.,R,N/A,no dist,GVN,"$333,388",609,"$205,842",609,10/5,11/7
+361,362,Hichki,Yash Raj,"March 23, 2018",Drama,1 hrs. 46 min.,Unrated,N/A,"$3,889,000",Yash,"$330,279",73,"$330,279",73,3/23,3/25
+362,363,Flower,The Orchard,"March 16, 2018",Comedy / Drama,1 hrs. 33 min.,R,N/A,no dist,Orch.,"$328,188",101,"$48,919",3,3/16,5/27
+363,364,Bolshoi Ballet: The Nutcracker,Fathom,"December 23, 2018",Unknown,2 hrs. 20 min.,Unrated,N/A,no dist,Fathom,"$323,928",360,"$323,928",360,12/23,-
+364,365,The Opera House,Fathom,"January 13, 2018",Documentary,1 hrs. 51 min.,Unrated,N/A,no dist,Fathom,"$320,079",627,"$191,466",604,1/13,1/17
+365,366,The Riot and the Dance,Fathom,"March 19, 2018",Documentary,1 hrs. 50 min.,Unrated,N/A,no dist,Fathom,"$316,103",745,N/A,N/A,3/19,4/19
+366,367,Bolshoi Ballet 2017/2018: Romeo and Juliet,Fathom,"January 21, 2018",Unknown,3 hrs. 5 min.,Unrated,N/A,no dist,Fathom,"$313,088",361,"$256,025",361,1/21,7/16
+367,368,MET Opera: Magic Flute,Fathom,"December 1, 2018",Unknown,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$307,686",647,"$307,686",647,12/1,12/1
+368,369,Damsel,Magnolia,"June 22, 2018",Drama,1 hrs. 53 min.,R,N/A,no dist,Magn.,"$305,136",42,"$20,291",3,6/22,8/23
+369,370,Wilder vs Fury,Fathom,"December 1, 2018",Unknown,4 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$304,482",486,N/A,486,12/1,12/1
+370,371,Bolshoi Ballet 2017/2018: Giselle,Fathom,"April 8, 2018",Unknown,2 hrs. 20 min.,Unrated,N/A,no dist,Fathom,"$302,681",357,"$244,588",357,4/8,7/9
+371,372,Sunset Boulevard (2018 re-release),Fathom,"May 13, 2018",Drama,1 hrs. 50 min.,Unrated,N/A,no dist,Fathom,"$299,645",666,"$169,067",628,5/13,5/16
+372,373,Harry Potter & the Sorcerer's Stone (2018 re-release),Warner Bros.,"September 2, 2018",Fantasy,2 hrs. 33 min.,PG,N/A,no dist,WB,"$295,917",N/A,N/A,N/A,9/2,-
+373,374,More Than Funny: Everybody Has a Punchline,Fathom,"October 18, 2018",Comedy,1 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$290,498",595,N/A,N/A,10/18,-
+374,375,The Son of Bigfoot,Viva Pictures Distribution,"March 30, 2018",Animation,1 hrs. 32 min.,PG,N/A,"$46,756,973",VPD,"$289,308",30,N/A,N/A,3/30,7/26
+375,376,Andy Irons: Kissed by God,Fathom,"May 25, 2018",Documentary,1 hrs. 40 min.,Unrated,N/A,no dist,Fathom,"$285,933",495,N/A,N/A,5/25,5/31
+376,377,Golden Job,Well Go USA,"September 28, 2018",Action,1 hrs. 40 min.,Unrated,N/A,no dist,WGUSA,"$285,795",34,"$121,391",34,9/28,11/1
+377,378,But Deliver Us from Evil,Indican,"February 9, 2018",Horror Thriller,1 hrs. 49 min.,Unrated,N/A,no dist,Indic.,"$285,169",247,"$99,541",247,2/9,5/17
+378,379,Newsies: The Broadway Musical (2018 re-release),Fathom,"July 26, 2018",Musical,2 hrs. 29 min.,PG,N/A,no dist,Fathom,"$282,429",647,"$122,524",647,7/26,7/28
+379,380,Science Fair,National Geographic Entertainment,"September 14, 2018",Documentary,1 hrs. 30 min.,PG,N/A,no dist,NGE,"$276,195",36,"$11,231",1,9/14,12/20
+380,381,Kings (2018),The Orchard,"April 27, 2018",Crime Drama,1 hrs. 37 min.,R,N/A,no dist,Orch.,"$274,635",215,"$163,289",215,4/27,5/17
+381,382,The Endless,Well Go USA,"April 6, 2018",Sci-Fi Thriller,1 hrs. 52 min.,Unrated,N/A,no dist,WGUSA,"$272,020",20,"$9,083",1,4/6,6/28
+382,383,The World Before Your Feet,Greenwich,"November 21, 2018",Documentary,1 hrs. 35 min.,Unrated,N/A,no dist,Greenwich,"$268,644",11,"$22,482",2,11/21,4/7
+383,384,Doctor Who: Genesis of the Daleks,Fathom,"June 11, 2018",Adventure,1 hrs. 50 min.,Unrated,N/A,no dist,Fathom,"$264,629",780,N/A,N/A,6/11,6/11
+384,385,Detective Dee: The Four Heavenly Kings,Well Go USA,"July 27, 2018",Action,2 hrs. 11 min.,Unrated,N/A,no dist,WGUSA,"$262,963",31,"$126,929",31,7/27,8/16
+385,386,Eating You Alive,Fathom,"April 5, 2018",Documentary,2 hrs. 5 min.,Unrated,N/A,no dist,Fathom,"$260,534",570,N/A,N/A,4/5,4/5
+386,387,What They Had,Bleecker Street,"October 19, 2018",Drama,1 hrs. 41 min.,R,N/A,n/a,BST,"$260,136",53,"$17,683",4,10/19,11/22
+387,388,The King (2018),Oscilloscope Pictures,"June 22, 2018",Documentary,1 hrs. 47 min.,R,N/A,no dist,Osci.,"$259,291",45,"$29,050",2,6/22,9/27
+388,389,Across the Universe (2018 re-release),Fathom,"July 29, 2018",Musical,2 hrs. 11 min.,PG-13,N/A,no dist,Fathom,"$258,618",439,"$118,217",439,7/29,8/1
+389,390,Big 30th Anniversary,Fathom,"July 15, 2018",Fantasy Comedy,1 hrs. 44 min.,PG,N/A,no dist,Fathom,"$258,507",722,"$141,578",689,7/15,7/18
+390,391,Back to Burgundy,Music Box Films,"March 23, 2018",Comedy / Drama,1 hrs. 53 min.,Unrated,N/A,"$11,368,274",MBox,"$257,610",18,"$15,157",5,3/23,6/21
+391,392,London Fields,GVN Releasing,"October 26, 2018",Drama,1 hrs. 58 min.,R,N/A,no dist,GVN,"$252,676",613,"$168,575",613,10/26,11/8
+392,393,Best F(r)iends Movie,Fathom,"March 30, 2018",Comedy / Drama,1 hrs. 48 min.,R,N/A,no dist,Fathom,"$252,410",504,"$131,671",409,3/30,4/2
+393,394,Batti Gul Meter Chalu,Eros,"September 21, 2018",Drama,2 hrs. 41 min.,Unrated,N/A,n/a,Eros,"$249,539",64,"$153,847",64,9/21,10/14
+394,395,Harry Potter & the Chamber of Secrets (2018 re-release),Warner Bros.,"September 2, 2018",Fantasy,2 hrs. 41 min.,PG,N/A,no dist,WB,"$245,501",N/A,N/A,N/A,9/2,-
+395,396,The Fireflies are Gone,Entertainment One,"September 21, 2018",Drama,1 hrs. 36 min.,Unrated,N/A,no dist,EOne,"$245,006",25,"$51,119",25,9/21,11/11
+396,397,RWBY Volume 6 Premiere,Fathom,"October 25, 2018",Animation,1 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$238,379",420,N/A,N/A,10/25,10/25
+397,398,Generation Wealth,Magnolia,"July 20, 2018",Documentary,1 hrs. 46 min.,Not Yet Rated,N/A,no dist,Magn.,"$237,709",45,"$35,834",4,7/20,9/20
+398,399,Alien Intrusion: Unmasking a Deception,Fathom,"January 11, 2018",Documentary,2 hrs. 10 min.,Unrated,N/A,no dist,Fathom,"$237,411",727,N/A,N/A,1/11,1/11
+399,400,Skate Kitchen,Magnolia,"August 10, 2018",Drama,1 hrs. 45 min.,R,N/A,no dist,Magn.,"$236,799",34,"$18,065",1,8/10,10/4
+400,401,NT Live: Hamlet 2018 Encore,Fathom,"March 8, 2018",Unknown,3 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$235,229",480,N/A,N/A,3/8,3/8
+401,402,Superman 40th Anniversary,Fathom,"November 25, 2018",Action / Adventure,2 hrs. 23 min.,PG,N/A,no dist,Fathom,"$233,585",394,"$102,223",394,11/25,-
+402,403,Sailor Moon SuperS - The Movie,Fathom,"August 4, 2018",Animation,1 hrs. 15 min.,Unrated,N/A,no dist,Fathom,"$231,434",580,"$109,707",520,8/4,8/6
+403,404,Borg vs. McEnroe,Neon,"April 13, 2018",Drama,1 hrs. 47 min.,R,N/A,n/a,Neon,"$231,346",51,"$52,625",51,4/13,5/17
+404,405,Matangi/Maya/M.I.A.,Abramorama,"September 28, 2018",Documentary,1 hrs. 36 min.,Unrated,N/A,n/a,Abr.,"$230,808",9,"$43,573",2,9/28,12/20
+405,406,MFKZ,GKIDS,"October 11, 2018",Animation,1 hrs. 34 min.,R,N/A,no dist,GK,"$229,423",436,"$6,094",436,10/11,-
+406,407,Swing Kids (2018),Well Go USA,"December 21, 2018",Drama,2 hrs. 13 min.,Unrated,N/A,no dist,WGUSA,"$222,001",21,"$43,952",15,12/21,1/27
+407,408,Little Pink House,Dada Films,"April 20, 2018",Drama,1 hrs. 38 min.,Unrated,N/A,no dist,Da.,"$220,948",13,"$68,507",9,4/20,-
+408,409,Mazinger Z: INFINITY,Fathom,"February 11, 2018",Animation,1 hrs. 35 min.,Unrated,N/A,n/a,Fathom,"$220,682",495,"$137,451",482,2/11,2/12
+409,410,Fragments of Truth,Fathom,"April 24, 2018",Documentary,1 hrs. 45 min.,Unrated,N/A,no dist,Fathom,"$219,342",616,N/A,N/A,4/24,4/24
+410,411,Harry Potter & the Prisoner of Azkaban (2018 re-release),Warner Bros.,"September 2, 2018",Fantasy,2 hrs. 22 min.,PG,N/A,no dist,WB,"$218,774",N/A,N/A,N/A,9/2,-
+411,412,Dark Money,PBS Distribution,"July 13, 2018",Documentary,1 hrs. 38 min.,Unrated,N/A,no dist,PBS,"$217,932",20,"$8,100",1,7/13,-
+412,413,Getting Grace,Hannover House,"March 23, 2018",Comedy / Drama,1 hrs. 52 min.,PG-13,N/A,no dist,Hann.,"$217,812",60,"$103,831",60,3/23,5/28
+413,414,The Producers (50th Anniversary),Fathom,"June 3, 2018",Comedy,1 hrs. 28 min.,PG,N/A,no dist,Fathom,"$216,807",664,"$120,975",629,6/3,6/6
+414,415,The Treasure of the Sierra Madre (70th anniversary),Fathom,"January 14, 2018",Adventure,2 hrs. 6 min.,Unrated,N/A,no dist,Fathom,"$215,295",631,"$144,074",631,1/14,1/16
+415,416,Agent Mr. Chan,China Lion,"February 23, 2018",Comedy,1 hrs. 41 min.,Unrated,N/A,no dist,CL,"$208,351",10,"$62,234",10,2/23,4/1
+416,417,The Dating Project,Fathom,"April 17, 2018",Documentary,1 hrs. 11 min.,Unrated,N/A,no dist,Fathom,"$208,100",615,N/A,N/A,4/17,4/17
+417,418,The Guilty,Magnolia,"October 19, 2018",Thriller,1 hrs. 25 min.,R,N/A,no dist,Magn.,"$207,140",31,"$60,050",29,10/19,12/13
+418,419,Default,CJ Entertainment,"November 30, 2018",Drama,1 hrs. 54 min.,Unrated,N/A,no dist,CJ,"$203,775",23,"$50,011",19,11/30,12/30
+419,420,Keep the Change,Kino Lorber,"March 16, 2018",Romantic Comedy,1 hrs. 33 min.,Unrated,N/A,no dist,KL,"$202,788",13,"$12,445",1,3/16,6/14
+420,421,Bolshoi Ballet 2017/2018: Coppelia,Fathom,"June 10, 2018",Unknown,2 hrs. 45 min.,Unrated,N/A,no dist,Fathom,"$202,217",360,"$202,217",360,6/10,6/10
+421,422,Zama,Strand,"April 13, 2018",Drama,1 hrs. 55 min.,Unrated,N/A,no dist,Strand,"$200,600",19,"$26,123",3,4/13,7/19
+422,423,Gemini,Neon,"March 30, 2018",Thriller,1 hrs. 33 min.,R,N/A,no dist,Neon,"$200,340",56,"$32,980",4,3/30,4/22
+423,424,Gauguin: Voyage to Tahiti,Cohen Media Group,"July 11, 2018",Drama,1 hrs. 42 min.,Not Yet Rated,N/A,"$3,117,729",Cohen,"$200,140",14,"$35,994",6,7/11,8/19
+424,425,TCM: Rebel Without a Cause,Fathom,"September 23, 2018",Drama,1 hrs. 51 min.,PG-13,N/A,no dist,Fathom,"$199,963",660,"$116,668",658,9/23,9/26
+425,426,Studio 54,Zeitgeist,"October 5, 2018",Documentary,1 hrs. 38 min.,Unrated,N/A,no dist,Zeit.,"$199,767",14,"$14,909",1,10/5,2/28
+426,427,Jason Mraz: Have It All The Movie,Atlantic Records,"August 7, 2018",Documentary,1 hrs. 30 min.,PG,N/A,no dist,Atlantic Rec,"$197,142",640,N/A,N/A,8/7,8/7
+427,428,Fate/Stay Night: Heaven's Feel - I. Presage Flower,Fathom,"June 5, 2018",Animation,2 hrs. 10 min.,Unrated,N/A,n/a,Fathom,"$193,833",245,N/A,N/A,6/5,6/7
+428,429,The Final Year,Magnolia,"January 19, 2018",Documentary,1 hrs. 29 min.,Unrated,N/A,no dist,Magn.,"$191,900",39,"$67,971",35,1/19,3/1
+429,430,Harry Potter & the Goblet of Fire (2018 re-release),Warner Bros.,"September 2, 2018",Fantasy,2 hrs. 33 min.,PG-13,N/A,no dist,WB,"$188,716",N/A,N/A,N/A,9/2,-
+430,431,Bolshoi Ballet: Don Quixote (2018),Fathom,"December 2, 2018",Unknown,2 hrs. 55 min.,Unrated,N/A,no dist,Fathom,"$187,946",358,"$187,824",358,12/2,12/3
+431,432,Never-Ending Man: Hayao Miyazaki,GKIDS,"December 13, 2018",Documentary,1 hrs. 10 min.,Unrated,N/A,no dist,GK,"$187,320",377,"$10,238",4,12/13,1/10
+432,433,The Monkey King 3,Well Go USA,"February 16, 2018",Action / Adventure,1 hrs. 54 min.,Unrated,N/A,"$114,897,502",WGUSA,"$187,074",34,"$95,577",34,2/16,3/8
+433,434,Goldbuster,Well Go USA,"January 5, 2018",Comedy,1 hrs. 29 min.,Unrated,N/A,no dist,WGUSA,"$186,135",24,"$79,180",24,1/5,2/1
+434,435,Summer 1993,Oscilloscope Pictures,"May 25, 2018",Drama,1 hrs. 36 min.,Unrated,N/A,n/a,Osci.,"$185,903",19,"$21,307",4,5/25,9/27
+435,436,Maquia: When the Promised Flower Blooms (Subtitled),Eleven Arts,"July 20, 2018",Animation,1 hrs. 55 min.,Unrated,N/A,n/a,Elev.,"$185,699",221,"$71,472",157,7/20,-
+436,437,Madeline's Madeline,Oscilloscope Pictures,"August 10, 2018",Drama,1 hrs. 30 min.,Unrated,N/A,no dist,Osci.,"$185,576",33,"$18,009",1,8/10,10/11
+437,438,NT Live: King Lear,Fathom,"September 27, 2018",Unknown,2 hrs. 20 min.,Unrated,N/A,no dist,Fathom,"$185,305",514,N/A,N/A,9/27,9/27
+438,439,Cobra Kai Premiere Event feat. The Karate Kid,Fathom,"April 25, 2018",Sports Action,2 hrs. 45 min.,PG,N/A,no dist,Fathom,"$185,082",678,N/A,N/A,4/25,4/25
+439,440,Jane and Emma,Excel,"October 12, 2018",Drama,1 hrs. 34 min.,PG,N/A,no dist,Excel,"$184,795",29,"$84,512",21,10/12,10/21
+440,441,Karwaan,PackYourBag,"August 3, 2018",Comedy / Drama,1 hrs. 54 min.,Unrated,N/A,n/a,PackYourBag,"$182,009",58,"$98,460",58,8/3,8/19
+441,442,Harry Potter & the Deathly Hallows - Part 2 (2018 re-release),Warner Bros.,"September 2, 2018",Fantasy,2 hrs. 10 min.,PG-13,N/A,no dist,WB,"$181,938",N/A,N/A,N/A,9/2,-
+442,443,Last Letter,China Lion,"November 9, 2018",Drama,1 hrs. 54 min.,Unrated,N/A,n/a,CL,"$180,946",23,"$80,485",18,11/9,12/6
+443,444,The Accidental Detective 2: In Action,CJ Entertainment,"June 22, 2018",Crime Comedy,1 hrs. 56 min.,Unrated,N/A,n/a,CJ,"$179,045",11,"$47,367",11,6/22,7/29
+444,445,Buybust,Well Go USA,"August 10, 2018",Action / Crime,2 hrs. 8 min.,Unrated,N/A,no dist,WGUSA,"$178,471",25,"$77,955",25,8/10,9/6
+445,446,Batman: Mask of the Phantasm (25th Anniversary),Fathom,"November 12, 2018",Animation,1 hrs. 16 min.,PG,N/A,no dist,Fathom,"$178,133",761,N/A,N/A,11/12,-
+446,447,The Guardians,Music Box Films,"May 4, 2018",Drama,2 hrs. 18 min.,R,N/A,n/a,MBox,"$177,331",10,"$7,479",1,5/4,9/13
+447,448,Bolshoi Ballet 2017/2018: The Flames of Paris,Fathom,"March 4, 2018",Unknown,2 hrs. 15 min.,Unrated,N/A,no dist,Fathom,"$175,922",360,"$175,922",360,3/4,3/4
+448,449,Always at the Carlyle,Good Deed,"May 11, 2018",Documentary,1 hrs. 32 min.,PG-13,N/A,no dist,Good Deed,"$174,251",23,"$9,239",1,5/11,7/15
+449,450,Met Summer Encore: Turandot,Fathom,"July 18, 2018",Unknown,2 hrs. 18 min.,Unrated,N/A,no dist,Fathom,"$172,627",356,N/A,N/A,7/18,7/18
+450,451,Bolshoi Ballet: La Sylphide (2018),Fathom,"November 11, 2018",Unknown,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$171,177",355,"$168,718",355,11/11,11/15
+451,452,The House That Jack Built (Director's Cut),IFC,"November 28, 2018",Drama / Thriller,2 hrs. 32 min.,Unrated,N/A,no dist,IFC,"$170,113",140,N/A,N/A,11/28,11/29
+452,453,Luis & the Aliens,Viva Pictures Distribution,"August 17, 2018",Animation,1 hrs. 26 min.,PG,N/A,n/a,VPD,"$169,710",20,N/A,N/A,8/17,-
+453,454,Bolshoi Ballet 2017/2018: The Lady of Camellias,Fathom,"February 4, 2018",Unknown,3 hrs. 5 min.,Unrated,N/A,no dist,Fathom,"$167,991",358,"$167,991",358,2/4,2/4
+454,455,Rampant,Well Go USA,"October 26, 2018",Action Horror,2 hrs. 7 min.,Unrated,N/A,no dist,WGUSA,"$167,937",29,"$18,326",2,10/26,11/22
+455,456,Double Lover,Cohen Media Group,"February 14, 2018",Drama,1 hrs. 47 min.,Not Yet Rated,N/A,n/a,Cohen,"$167,581",51,"$62,995",50,2/14,4/19
+456,457,Is Genesis History? (2018 re-release),Fathom,"February 22, 2018",Documentary,1 hrs. 40 min.,Unrated,N/A,no dist,Fathom,"$166,763",842,N/A,N/A,2/22,2/22
+457,458,Boom for Real: The Late Teenage Years of Jean-Michel Basquiat,Magnolia,"May 11, 2018",Documentary,1 hrs. 18 min.,Unrated,N/A,no dist,Magn.,"$166,616",14,"$22,717",2,5/11,7/26
+458,459,Heading Home: The Tale of Team Israel,Menemsha,"December 14, 2018",Documentary,1 hrs. 27 min.,Unrated,N/A,no dist,Men.,"$166,117",7,"$12,678",1,12/14,-
+459,460,Far from the Tree,IFC,"July 20, 2018",Documentary,1 hrs. 33 min.,Unrated,N/A,no dist,IFC,"$166,018",22,"$19,885",2,7/20,9/20
+460,461,Journey's End,Good Deed,"March 16, 2018",War Drama,1 hrs. 47 min.,R,N/A,no dist,Good Deed,"$161,796",185,"$11,798",2,3/16,-
+461,462,The Samuel Project,in8 Releasing,"September 28, 2018",Drama,1 hrs. 32 min.,PG-13,N/A,no dist,in8,"$161,565",2,"$11,087",2,9/28,-
+462,463,NT LIVE: The Curious Incident of the Dog in the Night-Time (2018 Encore),Fathom,"June 12, 2018",Unknown,2 hrs. 50 min.,Unrated,N/A,no dist,Fathom,"$160,381",483,N/A,N/A,6/12,6/12
+463,464,Silencio,Tulip Pictures,"October 26, 2018",Drama / Thriller,1 hrs. 38 min.,R,N/A,no dist,Tulip,"$158,723",348,"$90,480",348,10/26,11/18
+464,465,The Last Resort,Kino Lorber,"December 21, 2018",Documentary,1 hrs. 10 min.,Unrated,N/A,no dist,KL,"$158,646",13,"$1,844",1,12/21,5/9
+465,466,Buttons: A New Musical Film,Fathom,"December 8, 2018",Musical,1 hrs. 55 min.,Unrated,N/A,no dist,Fathom,"$151,983",543,N/A,543,12/8,12/10
+466,467,Eating Animals,IFC,"June 15, 2018",Documentary,1 hrs. 34 min.,Unrated,N/A,no dist,IFC,"$149,614",25,"$34,524",2,6/15,7/24
+467,468,Ghost Stories,IFC,"April 20, 2018",Horror,1 hrs. 38 min.,Unrated,N/A,n/a,IFC,"$148,747",24,"$11,972",1,4/20,5/24
+468,469,Bad Reputation,Magnolia,"September 28, 2018",Documentary,1 hrs. 34 min.,R,N/A,no dist,Magn.,"$148,568",196,"$130,675",196,9/28,10/18
+469,470,Museo,Vitagraph,"September 14, 2018",Crime Drama,2 hrs. 8 min.,Unrated,N/A,n/a,Vita.,"$148,505",12,"$16,554",1,9/14,11/4
+470,471,Harry Potter & the Deathly Hallows - Part 1 (2018 re-release),Warner Bros.,"September 2, 2018",Fantasy,2 hrs. 30 min.,PG-13,N/A,no dist,WB,"$148,263",N/A,N/A,N/A,9/2,-
+471,472,Night of the Living Dead (50th Anniversary),Fathom,"October 24, 2018",Horror,1 hrs. 36 min.,Unrated,N/A,no dist,Fathom,"$147,423",567,N/A,N/A,10/24,10/25
+472,473,The Little Mermaid (2018),Conglomerate Media,"August 17, 2018",Adventure,1 hrs. 34 min.,PG,N/A,n/a,Conglomerate,"$147,175",82,"$85,505",82,8/17,8/25
+473,474,TCM: Mr. Smith Goes to Washington,Fathom,"October 14, 2018",Drama,2 hrs. 9 min.,Unrated,N/A,no dist,Fathom,"$144,738",590,"$83,205",577,10/14,10/17
+474,475,Best F(r)iends Volume Two,Fathom,"June 1, 2018",Comedy / Drama,2 hrs. 0 min.,R,N/A,no dist,Fathom,"$141,524",544,"$69,297",366,6/1,6/4
+475,476,Harry Potter & the Order of the Phoenix (2018 re-release),Warner Bros.,"September 2, 2018",Fantasy,2 hrs. 19 min.,PG-13,N/A,no dist,WB,"$132,522",N/A,N/A,N/A,9/2,-
+476,477,Rudy (25th Anniversary),Fathom,"August 28, 2018",Sports Drama,1 hrs. 54 min.,PG,N/A,no dist,Fathom,"$131,200",656,"$85,349",656,8/28,9/2
+477,478,Harry Potter & the Half-Blood Prince (2018 re-release),Warner Bros.,"September 2, 2018",Fantasy,2 hrs. 33 min.,PG,N/A,no dist,WB,"$130,081",N/A,N/A,N/A,9/2,-
+478,479,Met Summer Encore: Madama Butterfly,Fathom,"June 20, 2018",Unknown,2 hrs. 40 min.,Unrated,N/A,no dist,Fathom,"$129,730",355,N/A,N/A,6/20,6/20
+479,480,Met Summer Encore: Eugene Onegin,Fathom,"July 11, 2018",Unknown,2 hrs. 51 min.,Unrated,N/A,no dist,Fathom,"$129,498",354,N/A,N/A,7/11,7/11
+480,481,Met Opera: Il Trovatore (2018),Fathom,"June 27, 2018",Musical,N/A,Unrated,N/A,no dist,Fathom,"$129,393",351,N/A,N/A,6/27,6/27
+481,482,Support the Girls,Magnolia,"August 24, 2018",Comedy,1 hrs. 30 min.,R,N/A,no dist,Magn.,"$129,124",35,"$51,167",33,8/24,10/18
+482,483,Sleepless In Seattle 25th Anniversary,Fathom,"December 2, 2018",Romantic Comedy,1 hrs. 45 min.,PG-13,N/A,no dist,Fathom,"$127,281",419,"$73,560",419,12/2,12/6
+483,484,Monster Family,Viva Pictures Distribution,"February 9, 2018",Animation,1 hrs. 36 min.,PG,N/A,"$26,314,633",VPD,"$127,259",15,$576,10,2/9,-
+484,485,The Young Karl Marx,The Orchard,"February 23, 2018",Drama,1 hrs. 58 min.,Unrated,N/A,n/a,Orch.,"$125,659",15,"$26,097",3,2/23,5/17
+485,486,Bel Canto,Screen Media,"September 14, 2018",Thriller,1 hrs. 42 min.,Unrated,N/A,no dist,Scre.,"$125,569",30,"$12,421",2,9/14,12/6
+486,487,'85: The Greatest Team in Football History,Fathom,"January 29, 2018",Documentary,1 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$124,573",221,N/A,N/A,1/29,2/7
+487,488,Wings of Desire (2018 re-release),Janus Films,"October 19, 2018",Romance,2 hrs. 7 min.,Unrated,N/A,no dist,Jan.,"$123,830",4,"$12,885",1,10/19,1/10
+488,489,Yu-Gi-Oh! The Movie (2018 re-release),Fathom,"March 11, 2018",Animation,1 hrs. 50 min.,PG,N/A,no dist,Fathom,"$121,688",576,"$68,833",556,3/11,3/12
+489,490,Love After Love,IFC,"March 30, 2018",Drama,1 hrs. 31 min.,Unrated,N/A,no dist,IFC,"$121,098",29,"$11,290",1,3/30,5/17
+490,491,Becoming Astrid,Music Box Films,"November 23, 2018",Historical Drama,2 hrs. 3 min.,Unrated,N/A,n/a,MBox,"$120,486",16,"$5,361",3,11/23,3/28
+491,492,Five Seasons: The Gardens of Piet Oudolf,Argot Pictures,"June 13, 2018",Documentary,1 hrs. 15 min.,Unrated,N/A,no dist,Argo.,"$119,223",9,"$7,525",3,6/13,9/16
+492,493,Till the End of the World,China Lion,"February 2, 2018",Adventure,1 hrs. 57 min.,Unrated,N/A,no dist,CL,"$118,660",27,"$57,713",27,2/2,2/22
+493,494,The Great Buster: A Celebration,Cohen Media Group,"October 5, 2018",Documentary,1 hrs. 42 min.,Unrated,N/A,no dist,Cohen,"$118,344",14,"$7,107",2,10/5,12/23
+494,495,Bisbee '17,4th Row Films,"September 5, 2018",Documentary,1 hrs. 52 min.,Unrated,N/A,no dist,4th Row,"$117,470",14,"$6,650",1,9/5,12/13
+495,496,Ryuichi Sakamoto: Coda,MUBI,"July 6, 2018",Documentary,1 hrs. 42 min.,Unrated,N/A,n/a,MUBI,"$117,460",9,"$12,827",1,7/6,10/4
+496,497,George Takei's Allegiance (2018),Fathom,"December 11, 2018",Musical,2 hrs. 10 min.,Unrated,N/A,no dist,Fathom,"$117,162",567,N/A,N/A,12/11,12/13
+497,498,Gonjiam: Haunted Asylum,Well Go USA,"April 13, 2018",Horror,1 hrs. 33 min.,Unrated,N/A,n/a,WGUSA,"$115,252",7,"$19,017",2,4/13,5/17
+498,499,Mantra: Sounds into Silence,Gathr Films,"April 20, 2018",Documentary,1 hrs. 25 min.,Unrated,N/A,no dist,Gathr,"$115,013",9,N/A,N/A,4/20,-
+499,500,Nostalgia,Bleecker Street,"February 16, 2018",Drama,1 hrs. 54 min.,R,N/A,no dist,BST,"$114,603",140,"$15,955",3,2/16,3/8
+500,501,Bodied,Neon,"November 2, 2018",Musical,2 hrs. 0 min.,R,N/A,no dist,Neon,"$113,956",17,"$53,000",14,11/2,11/18
+501,502,HYMN - Sarah Brightman In Concert,Fathom,"November 8, 2018",Unknown,1 hrs. 50 min.,Unrated,N/A,no dist,Fathom,"$113,274",466,N/A,N/A,11/8,11/8
+502,503,A Boy. A Girl. A Dream.,Samuel Goldwyn,"September 14, 2018",Romance,1 hrs. 29 min.,R,N/A,no dist,Gold.,"$112,552",61,"$67,760",61,9/14,9/23
+503,504,Take Point,CJ Entertainment,"December 27, 2018",Action,1 hrs. 59 min.,Unrated,N/A,n/a,CJ,"$112,386",25,"$21,189",2,12/27,1/24
+504,505,"Hale County This Morning, This Evening",Cinema Guild,"September 14, 2018",Documentary,1 hrs. 16 min.,Unrated,N/A,no dist,CGld,"$112,282",8,"$8,640",2,9/14,-
+505,506,The Dawn Wall,The Orchard,"September 14, 2018",Documentary,1 hrs. 40 min.,Unrated,N/A,n/a,Orch.,"$112,191",4,"$21,615",2,9/14,10/4
+506,507,A Chance in the World - Premiere,Fathom,"May 30, 2018",Drama,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$112,007",497,N/A,N/A,5/30,5/30
+507,508,The Negotiation,CJ Entertainment,"September 21, 2018",Action / Crime,1 hrs. 54 min.,Unrated,N/A,n/a,CJ,"$110,986",13,"$14,273",2,9/21,10/18
+508,509,Lu Over the Wall,GKIDS,"May 11, 2018",Animation,1 hrs. 52 min.,PG,N/A,no dist,GK,"$109,857",97,"$60,773",97,5/11,6/28
+509,510,El Angel,The Orchard,"November 9, 2018",Crime Thriller,1 hrs. 55 min.,Unrated,N/A,no dist,Orch.,"$109,608",11,"$23,348",2,11/9,1/17
+510,511,The Captain,Music Box Films,"July 27, 2018",War Drama,1 hrs. 58 min.,Unrated,N/A,n/a,MBox,"$109,226",10,"$7,568",1,7/27,11/29
+511,512,Mary Shelley,IFC,"May 25, 2018",Drama,2 hrs. 0 min.,PG-13,N/A,n/a,IFC,"$108,900",30,"$12,570",2,5/25,7/8
+512,513,In Between,Film Movement,"January 5, 2018",Drama,1 hrs. 36 min.,Unrated,N/A,n/a,FM,"$107,977",8,"$5,888",2,1/5,5/10
+513,514,NT Live: Julius Caesar,Fathom,"March 22, 2018",Unknown,2 hrs. 15 min.,Unrated,N/A,no dist,Fathom,"$107,057",514,N/A,N/A,3/22,3/22
+514,515,"Love, Cecil",Zeitgeist,"June 29, 2018",Documentary,1 hrs. 38 min.,Unrated,N/A,no dist,Zeit.,"$106,057",8,N/A,N/A,6/29,10/25
+515,516,Airpocalypse,China Lion,"December 21, 2018",Action / Adventure,1 hrs. 45 min.,Unrated,N/A,no dist,CL,"$105,678",21,"$35,363",21,12/21,1/10
+516,517,Never Heard,Fathom,"November 1, 2018",Drama,1 hrs. 29 min.,Unrated,N/A,no dist,Fathom,"$105,271",445,N/A,N/A,11/1,11/1
+517,518,Sweet Country (2018),Samuel Goldwyn,"April 6, 2018",Adventure,1 hrs. 53 min.,R,N/A,no dist,Gold.,"$104,297",24,"$8,895",2,4/6,6/24
+518,519,Namaste England,Eros,"October 19, 2018",Romantic Comedy,2 hrs. 21 min.,Unrated,N/A,n/a,Eros,"$104,079",71,"$67,612",71,10/19,11/4
+519,520,Detective K: Secret of the Living Dead,Well Go USA,"February 16, 2018",Crime Comedy,2 hrs. 0 min.,Unrated,N/A,"$18,499,463",WGUSA,"$104,013",9,"$30,288",9,2/16,3/15
+520,521,Memoir of War,Music Box Films,"August 17, 2018",Period Drama,2 hrs. 7 min.,Unrated,N/A,no dist,MBox,"$103,636",11,"$11,653",2,8/17,12/13
+521,522,Happy Phirr Bhag Jayegi ,Eros,"August 24, 2018",Comedy,2 hrs. 16 min.,Unrated,N/A,n/a,Eros,"$103,385",71,"$72,376",44,8/24,-
+522,523,Filmworker,Kino Lorber,"May 11, 2018",Documentary,1 hrs. 34 min.,Unrated,N/A,no dist,KL,"$102,609",17,"$7,984",1,5/11,-
+523,524,Ismael's Ghosts,Magnolia,"March 23, 2018",Drama / Thriller,0 hrs. 35 min.,R,N/A,n/a,Magn.,"$102,510",17,"$19,158",2,3/23,5/24
+524,525,Revenge (2018),Neon,"May 11, 2018",Thriller,1 hrs. 48 min.,R,N/A,n/a,Neon,"$102,091",37,"$45,924",37,5/11,5/31
+525,526,Andrei Rublev (re-release),Janus Films,"August 24, 2018",Drama,3 hrs. 3 min.,Unrated,N/A,no dist,Jan.,"$102,021",4,"$12,807",2,8/24,11/29
+526,527,Unstoppable (2018),Well Go USA,"November 30, 2018",Action / Crime,1 hrs. 55 min.,Unrated,N/A,n/a,WGUSA,"$101,417",22,"$42,133",22,11/30,12/20
+527,528,All About Nina,The Orchard,"September 28, 2018",Comedy,1 hrs. 40 min.,R,N/A,no dist,Orch.,"$100,335",54,"$26,468",4,9/28,11/4
+528,529,Meow Wolf: Origin Story,Fathom,"November 29, 2018",Documentary,1 hrs. 28 min.,Unrated,N/A,no dist,Fathom,"$99,488",461,N/A,N/A,11/29,-
+529,530,NT Live: Macbeth,Fathom,"May 17, 2018",Unknown,3 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$97,857",502,N/A,N/A,5/17,5/17
+530,531,Champion (2018),Well Go USA,"May 11, 2018",Sports Drama,1 hrs. 48 min.,Unrated,N/A,no dist,WGUSA,"$97,472",29,"$17,095",2,5/11,6/7
+531,532,GODSPEED The Race Across America,Fathom,"May 22, 2018",Documentary,1 hrs. 53 min.,Unrated,N/A,no dist,Fathom,"$96,690",514,N/A,N/A,5/22,5/22
+532,533,Golden Slumber,CJ Entertainment,"February 16, 2018",Action Thriller,1 hrs. 48 min.,Unrated,N/A,"$10,638,876",CJ,"$94,450",13,N/A,N/A,2/16,3/15
+533,534,Let the Corpses Tan,Kino Lorber,"August 31, 2018",Thriller,1 hrs. 32 min.,Unrated,N/A,no dist,KL,"$93,409",13,"$11,918",3,8/31,12/13
+534,535,Reign of Judges: Title of Liberty - Concept Short,"Darin Southam Endeavor, Inc.","March 15, 2018",Action,0 hrs. 14 min.,Unrated,N/A,"$5,184",Darin Southa,"$93,224",14,N/A,N/A,3/15,6/28
+535,536,Bandstand: The Broadway Musical (2018),Fathom,"November 15, 2018",Unknown,2 hrs. 15 min.,Unrated,N/A,no dist,Fathom,"$91,000",361,N/A,N/A,11/15,-
+536,537,Madame,Blue Fox Entertainment,"March 23, 2018",Comedy / Drama,1 hrs. 31 min.,Unrated,N/A,"$5,290,971",Blue Fox,"$90,979",N/A,N/A,N/A,3/23,-
+537,538,John McEnroe: In the Realm of Perfection,Oscilloscope Pictures,"August 22, 2018",Documentary,1 hrs. 35 min.,Unrated,N/A,no dist,Osci.,"$90,964",22,"$7,878",1,8/22,10/18
+538,539,Running for Grace,Blue Fox Entertainment,"July 20, 2018",Romance,1 hrs. 50 min.,Unrated,N/A,no dist,Blue Fox,"$89,988",13,"$30,597",3,7/20,9/20
+539,540,NT Live: Cat on a Hot Tin Roof,Fathom,"February 22, 2018",Unknown,3 hrs. 5 min.,Unrated,N/A,no dist,Fathom,"$89,332",482,N/A,N/A,2/22,2/22
+540,541,The Third Murder,Film Movement,"July 20, 2018",Thriller,2 hrs. 4 min.,Unrated,N/A,n/a,FM,"$89,315",10,"$10,670",2,7/20,11/29
+541,542,Bolshoi Ballet: Swan Lake,Fathom,"July 23, 2018",Unknown,3 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$88,905",282,N/A,N/A,7/23,7/26
+542,543,The House That Jack Built,IFC,"December 14, 2018",Drama / Thriller,2 hrs. 32 min.,R,N/A,n/a,IFC,"$87,993",32,"$34,273",32,12/14,1/24
+543,544,Goldstone,Lightyear Entertainment,"March 2, 2018",Crime Thriller,1 hrs. 50 min.,R,N/A,no dist,Lightyear,"$87,639",19,"$1,300",1,3/2,-
+544,545,The Price of Everything,HBO,"October 19, 2018",Documentary,1 hrs. 38 min.,Unrated,N/A,no dist,HBO,"$87,400",8,"$16,817",1,10/19,11/15
+545,546,Lobster Cop,China Lion,"June 22, 2018",Comedy Thriller,1 hrs. 34 min.,Unrated,N/A,no dist,CL,"$85,693",12,"$35,015",12,6/22,7/19
+546,547,Big Brother,Well Go USA,"August 31, 2018",Action Comedy,1 hrs. 41 min.,Unrated,N/A,no dist,WGUSA,"$85,624",25,"$41,225",25,8/31,9/20
+547,548,How to Talk to Girls at Parties,A24,"May 25, 2018",Comedy / Drama,1 hrs. 42 min.,R,N/A,no dist,A24,"$84,809",103,"$12,674",2,5/25,6/14
+548,549,Custody,Kino Lorber,"June 29, 2018",Drama,1 hrs. 33 min.,Unrated,N/A,n/a,KL,"$83,882",7,"$4,947",1,6/29,10/25
+549,550,NT Live: Antony & Cleopatra,Fathom,"December 6, 2018",Unknown,3 hrs. 40 min.,Unrated,N/A,no dist,Fathom,"$83,672",470,N/A,N/A,12/6,12/6
+550,551,Claire's Camera,Cinema Guild,"March 9, 2018",Comedy / Drama,1 hrs. 9 min.,Unrated,N/A,no dist,CGld,"$83,418",5,"$11,489",1,3/9,7/22
+551,552,Blood Fest,Fathom,"August 14, 2018",Horror Comedy,1 hrs. 33 min.,Unrated,N/A,no dist,Fathom,"$82,774",485,N/A,N/A,8/14,8/14
+552,553,Doctor Who: New Season Premiere,Fathom,"October 10, 2018",Sci-Fi,1 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$82,698",487,N/A,N/A,10/10,-
+553,554,Godard Mon Amour,Cohen Media Group,"April 20, 2018",Comedy / Drama,1 hrs. 47 min.,R,N/A,n/a,Cohen,"$82,264",20,"$10,994",4,4/20,5/28
+554,555,Yuri!!! on ICE Binge,Fathom,"October 13, 2018",Unknown,4 hrs. 20 min.,Unrated,N/A,no dist,Fathom,"$81,878",109,"$81,878",109,10/13,10/13
+555,556,Nancy (2018),Samuel Goldwyn,"June 8, 2018",Drama / Thriller,1 hrs. 27 min.,Unrated,N/A,no dist,Gold.,"$80,115",11,"$15,056",3,6/8,7/15
+556,557,En el Septimo Dia (On the Seventh Day),Cinema Guild,"June 8, 2018",Comedy / Drama,1 hrs. 32 min.,Unrated,N/A,no dist,CGld,"$79,887",9,"$12,793",2,6/8,10/11
+557,558,Have a Nice Day,Strand,"January 26, 2018",Animation,1 hrs. 17 min.,Unrated,N/A,no dist,Strand,"$79,393",15,"$10,463",1,1/26,4/19
+558,559,The Princess and the Matchmaker,CJ Entertainment,"March 9, 2018",Romantic Comedy,1 hrs. 50 min.,Unrated,N/A,no dist,CJ,"$78,900",6,"$20,142",3,3/9,3/29
+559,560,The Boxcar Children: Surprise Island,Fathom,"May 8, 2018",Animation,1 hrs. 21 min.,Unrated,N/A,no dist,Fathom,"$78,676",699,N/A,N/A,5/8,5/8
+560,561,Just a Breath Away,Entertainment One,"August 10, 2018",Sci-Fi,1 hrs. 29 min.,Unrated,N/A,n/a,EOne,"$77,987",12,"$16,046",12,8/10,1/28
+561,562,Shock & Awe,Vertical Entertainment,"July 13, 2018",Drama,1 hrs. 31 min.,R,N/A,no dist,VE,"$77,980",100,"$45,856",100,7/13,7/23
+562,563,93Queen,Abramorama,"July 25, 2018",Documentary,1 hrs. 21 min.,Unrated,N/A,no dist,Abr.,"$76,056",3,"$6,302",1,7/25,10/11
+563,564,Mukkabaaz,Eros,"January 12, 2018",Sports Action,2 hrs. 34 min.,Unrated,N/A,n/a,Eros,"$75,929",19,"$47,808",19,1/12,1/25
+564,565,The Riot Act,Hannover House,"September 14, 2018",Thriller,1 hrs. 31 min.,PG-13,N/A,no dist,Hann.,"$75,506",10,"$28,840",9,9/14,10/21
+565,566,Keys to the Heart,CJ Entertainment,"January 26, 2018",Comedy / Drama,2 hrs. 0 min.,Unrated,N/A,n/a,CJ,"$75,134",2,"$9,851",2,1/26,3/8
+566,567,Tehran Taboo,Kino Lorber,"February 14, 2018",Animation,1 hrs. 36 min.,Unrated,N/A,n/a,KL,"$74,758",9,"$4,962",1,2/14,5/17
+567,568,Above and Beyond: NASA's Journey to Tomorrow,Fathom,"September 29, 2018",Unknown,1 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$74,711",404,"$35,490",350,9/29,10/3
+568,569,After Auschwitz,Passion River,"April 14, 2018",Documentary,1 hrs. 23 min.,Unrated,N/A,no dist,Passion Rive,"$73,885",13,N/A,N/A,4/14,5/31
+569,570,Bye Bye Germany,Film Movement,"April 13, 2018",Comedy,1 hrs. 42 min.,Unrated,N/A,no dist,FM,"$73,730",6,"$4,874",2,4/13,12/6
+570,571,The Last Suit,Outsider Films,"March 23, 2018",Drama,1 hrs. 32 min.,Unrated,N/A,n/a,OutF,"$73,548",6,"$27,549",6,3/23,4/8
+571,572,"Nico, 1988",Magnolia,"August 1, 2018",Drama,1 hrs. 33 min.,R,N/A,n/a,Magn.,"$73,304",12,"$12,309",2,8/1,10/7
+572,573,Helicopter Eela,Eros,"October 12, 2018",Drama,2 hrs. 15 min.,Unrated,N/A,n/a,Eros,"$71,971",70,"$51,115",70,10/12,11/4
+573,574,Namiya,China Lion,"January 5, 2018",Drama,1 hrs. 56 min.,Unrated,N/A,"$35,271,736",CL,"$70,814",21,"$39,584",21,1/5,1/18
+574,575,The Fog (2018 re-release),Rialto,"October 26, 2018",Horror,1 hrs. 29 min.,Unrated,N/A,no dist,Rialto,"$70,421",43,"$39,565",43,10/26,12/6
+575,576,Wastelander,Indican,"January 12, 2018",Action,1 hrs. 30 min.,Unrated,N/A,no dist,Indic.,"$70,045",22,"$20,768",22,1/12,7/26
+576,577,Parchi,Atlas Distribution,"January 12, 2018",Action Comedy,2 hrs. 17 min.,Unrated,N/A,no dist,ADC,"$69,431",39,"$34,437",39,1/12,2/8
+577,578,Outside In,The Orchard,"March 30, 2018",Drama,1 hrs. 49 min.,Unrated,N/A,no dist,Orch.,"$68,492",16,"$14,136",9,3/30,5/27
+578,579,Chef Flynn,Kino Lorber,"November 9, 2018",Documentary,1 hrs. 22 min.,Unrated,N/A,no dist,KL,"$68,407",10,"$7,509",1,11/9,2/7
+579,580,Where Hands Touch,Vertical Entertainment,"September 14, 2018",Drama,2 hrs. 1 min.,PG-13,N/A,no dist,VE,"$67,743",103,"$67,743",103,9/14,-
+580,581,Under the Tree,Magnolia,"July 6, 2018",Comedy,1 hrs. 29 min.,Unrated,N/A,n/a,Magn.,"$67,596",9,"$13,617",3,7/6,9/6
+581,582,Making the Five Heartbeats,Fathom,"August 27, 2018",Documentary,1 hrs. 25 min.,PG-13,N/A,no dist,Fathom,"$67,415",437,N/A,N/A,8/27,8/27
+582,583,The Doctor from India,Zeitgeist,"April 20, 2018",Documentary,1 hrs. 29 min.,Unrated,N/A,no dist,Zeit.,"$67,136",5,"$2,442",1,4/20,9/27
+583,584,3100: Run and Become,Illumine Films,"August 17, 2018",Documentary,1 hrs. 19 min.,Unrated,N/A,no dist,Illumine,"$65,524",7,N/A,N/A,8/17,11/15
+584,585,Beuys,Kino Lorber,"January 17, 2018",Documentary,1 hrs. 47 min.,Unrated,N/A,no dist,KL,"$65,410",6,"$9,084",2,1/17,5/31
+585,586,Feng Shui (Myung Dang),CJ Entertainment,"September 21, 2018",Drama,2 hrs. 13 min.,Unrated,N/A,no dist,CJ,"$64,147",14,"$9,644",2,9/21,11/15
+586,587,"Monrovia, Indiana",Zipporah Films,"October 26, 2018",Documentary,2 hrs. 21 min.,Unrated,N/A,no dist,Zipp.,"$63,944",14,"$5,172",1,10/26,1/31
+587,588,Liz and the Blue Bird,Eleven Arts,"November 2, 2018",Animation,1 hrs. 30 min.,Unrated,N/A,no dist,Elev.,"$63,204",79,N/A,N/A,11/2,12/6
+588,589,The Gardener,Gravitas Ventures,"March 30, 2018",Documentary,1 hrs. 24 min.,Unrated,N/A,no dist,Grav.,"$62,734",2,"$6,298",1,3/30,-
+589,590,Never Goin' Back,A24,"August 3, 2018",Comedy,1 hrs. 26 min.,R,N/A,no dist,A24,"$61,271",27,"$10,322",2,8/3,8/27
+590,591,Viper Club,Roadside Attractions,"October 26, 2018",Drama,1 hrs. 49 min.,R,N/A,no dist,RAtt.,"$60,607",70,"$14,180",3,10/26,11/15
+591,592,Where is Kyra?,Great Point,"April 6, 2018",Drama,1 hrs. 38 min.,R,N/A,no dist,Great Point,"$59,717",33,"$7,000",1,4/6,5/3
+592,593,Bomb City,Gravitas Ventures,"February 9, 2018",Action / Crime,1 hrs. 35 min.,Unrated,N/A,no dist,Grav.,"$59,329",17,"$31,005",17,2/9,4/8
+593,594,Digimon Adventure Tri. 4: Loss,Fathom,"February 1, 2018",Animation,1 hrs. 22 min.,Unrated,N/A,no dist,Fathom,"$59,114",410,N/A,N/A,2/1,2/1
+594,595,"Westwood: Punk, Icon, Activist",Greenwich,"June 8, 2018",Documentary,1 hrs. 23 min.,Unrated,N/A,no dist,Greenwich,"$58,979",8,"$4,450",1,6/8,7/29
+595,596,Horn From the Heart,Abramorama,"October 17, 2018",Documentary,1 hrs. 44 min.,Unrated,N/A,no dist,Abr.,"$58,597",2,"$3,086",1,10/17,1/24
+596,597,A Kid Like Jake,IFC,"June 1, 2018",Drama,1 hrs. 32 min.,R,N/A,no dist,IFC,"$58,403",13,"$8,936",1,6/1,7/8
+597,598,Cynthia,Indican,"August 31, 2018",Horror Comedy,1 hrs. 29 min.,Unrated,N/A,no dist,Indic.,"$58,177",21,"$30,660",21,8/31,10/18
+598,599,In Search of Greatness,Art of Sport,"November 2, 2018",Documentary,1 hrs. 20 min.,PG-13,N/A,no dist,Art of Sport,"$58,090",16,"$32,952",16,11/2,11/14
+599,600,Woman Walks Ahead,A24,"June 29, 2018",Western,1 hrs. 42 min.,R,N/A,no dist,A24,"$57,528",6,"$6,863",2,6/29,8/9
+600,601,Black '47,IFC,"September 28, 2018",Action Drama,1 hrs. 40 min.,R,N/A,no dist,IFC,"$57,520",100,"$8,600",1,9/28,11/15
+601,602,Bhavesh Joshi Superhero,Eros,"June 1, 2018",Action Drama,2 hrs. 34 min.,Unrated,N/A,no dist,Eros,"$57,376",46,"$42,579",46,6/1,-
+602,603,Ramen Heads,FilmBuff,"March 16, 2018",Documentary,1 hrs. 33 min.,Unrated,N/A,no dist,FB,"$57,345",6,"$7,085",2,3/16,4/26
+603,604,Django,Under the Milky Way,"January 5, 2018",Drama,1 hrs. 57 min.,Unrated,N/A,no dist,UTMW,"$56,556",7,"$11,722",4,1/5,2/22
+604,605,American Dream: Detroit,Fathom,"May 15, 2018",Documentary,1 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$55,092",421,N/A,N/A,5/15,5/15
+605,606,Canelo vs Rocky,Fathom,"December 15, 2018",Unknown,4 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$54,916",368,N/A,368,12/15,12/15
+606,607,Digimon Adventure Tri. 6: Future,Fathom,"September 20, 2018",Animation,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$54,324",463,N/A,N/A,9/20,9/20
+607,608,The Great Silence (2018 re-release),Film Movement,"March 30, 2018",Western,1 hrs. 45 min.,Unrated,N/A,no dist,FM,"$53,074",6,"$8,755",1,3/30,8/30
+608,609,Twiceland,CJ Entertainment,"December 7, 2018",Documentary,N/A,Unrated,N/A,no dist,CJ,"$52,874",19,N/A,N/A,12/7,-
+609,610,Digimon Adventure Tri. 5: Coexistence,Fathom,"May 10, 2018",Animation,1 hrs. 29 min.,Unrated,N/A,no dist,Fathom,"$52,339",393,N/A,N/A,5/10,5/10
+610,611,Before We Vanish,Super,"February 2, 2018",Sci-Fi Thriller,2 hrs. 9 min.,R,N/A,n/a,Super,"$52,087",42,"$8,370",2,2/2,3/15
+611,612,The Snowman Trek,Fathom,"May 17, 2018",Documentary,1 hrs. 45 min.,Unrated,N/A,no dist,Fathom,"$51,743",350,N/A,N/A,5/17,5/17
+612,613,Wanda (2018 re-release),Janus Films,"July 20, 2018",Crime Drama,1 hrs. 43 min.,Unrated,N/A,no dist,Jan.,"$51,713",3,"$10,679",1,7/20,9/20
+613,614,I Am Not a Witch,Film Movement,"September 7, 2018",Drama,1 hrs. 33 min.,Unrated,N/A,n/a,FM,"$50,868",8,"$8,252",2,9/7,2/7
+614,615,Harry & Meghan - The Royal Wedding,Fathom,"May 19, 2018",Unknown,3 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$50,264",194,"$50,264",194,5/19,5/19
+615,616,Jumanji Movie Event,Fathom,"June 10, 2018",Action,3 hrs. 43 min.,PG-13,N/A,no dist,Fathom,"$49,381",352,"$32,264",335,6/10,6/11
+616,617,Hal,Oscilloscope Pictures,"September 7, 2018",Documentary,1 hrs. 30 min.,Unrated,N/A,no dist,Osci.,"$48,698",10,"$5,150",1,9/7,11/22
+617,618,The China Hustle,Magnolia,"March 30, 2018",Documentary,1 hrs. 24 min.,R,N/A,no dist,Magn.,"$48,650",20,"$25,791",20,3/30,4/19
+618,619,350 Days - Legends. Champions. Survivors.,Fathom,"July 12, 2018",Documentary,2 hrs. 5 min.,Unrated,N/A,no dist,Fathom,"$47,526",341,N/A,N/A,7/12,7/12
+619,620,Bigger,Freestyle Releasing,"October 12, 2018",Drama,1 hrs. 47 min.,PG-13,N/A,no dist,Free,"$46,382",61,"$31,477",61,10/12,10/25
+620,621,Racer & the Jailbird,Super,"May 4, 2018",Crime Drama,2 hrs. 10 min.,R,N/A,n/a,Super,"$46,337",48,"$2,513",2,5/4,5/17
+621,622,Summer in the Forest,Abramorama,"March 23, 2018",Documentary,1 hrs. 48 min.,Unrated,N/A,no dist,Abr.,"$45,542",6,"$8,366",1,3/23,5/17
+622,623,Rodin,Cohen Media Group,"June 1, 2018",Drama,1 hrs. 59 min.,Unrated,N/A,n/a,Cohen,"$44,261",8,N/A,N/A,6/1,7/8
+623,624,What Will People Say,Kino Lorber,"July 13, 2018",Drama,1 hrs. 46 min.,Unrated,N/A,n/a,KL,"$44,156",4,"$4,024",1,7/13,11/1
+624,625,Liyana,Abramorama,"October 10, 2018",Animation,1 hrs. 17 min.,Unrated,N/A,no dist,Abr.,"$44,045",4,"$2,160",1,10/10,4/11
+625,626,Garry Winogrand: All Things Are Photographable,Greenwich,"September 19, 2018",Documentary,1 hrs. 30 min.,Unrated,N/A,no dist,Greenwich,"$44,002",3,"$9,058",1,9/19,-
+626,627,Hitler's Hollywood,Kino Lorber,"April 11, 2018",Documentary,1 hrs. 45 min.,Unrated,N/A,no dist,KL,"$43,766",6,"$8,634",1,4/11,8/30
+627,628,Antonio Lopez 1970: Sex Fashion & Disco,Film Movement,"September 14, 2018",Documentary,1 hrs. 35 min.,Unrated,N/A,"$29,953",FM,"$43,169",5,"$7,167",1,9/14,11/22
+628,629,First We Take Brooklyn,Zealous Productions,"February 9, 2018",Crime Drama,1 hrs. 31 min.,Unrated,N/A,no dist,ZP,"$42,812",5,"$15,845",5,2/9,2/25
+629,630,A Ciambra,IFC,"January 19, 2018",Drama,1 hrs. 58 min.,Unrated,N/A,n/a,IFC,"$41,934",6,"$6,330",1,1/19,2/15
+630,631,Golden Exits,Vertical Entertainment,"February 9, 2018",Drama,1 hrs. 34 min.,R,N/A,no dist,VE,"$41,888",11,"$11,719",1,2/9,3/4
+631,632,Western,Cinema Guild,"February 16, 2018",Drama,2 hrs. 0 min.,Unrated,N/A,no dist,CGld,"$41,072",7,"$6,688",1,2/16,6/28
+632,633,Humor Me,Shout! Factory,"January 12, 2018",Comedy,1 hrs. 33 min.,Unrated,N/A,no dist,Shout!,"$40,099",5,"$3,342",1,1/12,3/8
+633,634,Submission,Great Point,"March 2, 2018",Drama,1 hrs. 46 min.,R,N/A,no dist,Great Point,"$39,985",39,N/A,N/A,3/2,3/22
+634,635,Mamma Mia! 10th Anniversary,Fathom,"November 4, 2018",Musical,1 hrs. 48 min.,PG-13,N/A,no dist,Fathom,"$39,601",243,"$23,376",243,11/4,-
+635,636,Divide and Conquer: The Story of Roger Ailes,Magnolia,"December 7, 2018",Documentary,1 hrs. 47 min.,Not Yet Rated,N/A,no dist,Magn.,"$38,510",16,"$18,833",15,12/7,1/10
+636,637,Araby,Grasshopper Film,"June 22, 2018",Drama,1 hrs. 38 min.,Unrated,N/A,no dist,Ghop,"$38,399",7,"$8,668",1,6/22,-
+637,638,Gray Matter,Indican,"May 18, 2018",Sci-Fi,1 hrs. 25 min.,Unrated,N/A,no dist,Indic.,"$38,034",12,"$14,064",12,5/18,6/14
+638,639,The Heart of Nuba,Abramorama,"April 6, 2018",Documentary,1 hrs. 25 min.,Unrated,N/A,no dist,Abr.,"$37,788",4,"$4,016",1,4/6,7/12
+639,640,Oolong Courtyard,China Lion,"August 24, 2018",Comedy,1 hrs. 43 min.,Unrated,N/A,n/a,CL,"$37,727",10,"$19,065",10,8/24,9/6
+640,641,Krystal,Paladin,"April 13, 2018",Comedy / Drama,1 hrs. 30 min.,R,N/A,no dist,Pala.,"$37,516",86,N/A,N/A,4/13,4/26
+641,642,Girls vs Gangsters,Well Go USA,"March 9, 2018",Comedy,2 hrs. 18 min.,Unrated,N/A,n/a,WGUSA,"$37,115",4,"$15,044",4,3/9,3/22
+642,644,Return of the Hero,Distrib Films,"August 30, 2018",Drama,1 hrs. 30 min.,Unrated,N/A,"$7,279,636",Distrib.,"$37,108",3,$761,1,8/30,1/31
+643,643,Breath,FilmRise,"June 1, 2018",Drama,1 hrs. 56 min.,Unrated,N/A,no dist,FR,"$37,108",21,"$5,258",1,6/1,7/5
+644,645,Small Group,Gathr Films,"October 18, 2018",Drama,2 hrs. 0 min.,PG-13,N/A,no dist,Gathr,"$37,058",10,"$26,579",10,10/18,10/28
+645,646,Searching for Ingmar Bergman,Oscilloscope Pictures,"November 2, 2018",Documentary,1 hrs. 39 min.,Unrated,N/A,no dist,Osci.,"$36,686",8,"$5,996",1,11/2,12/13
+646,647,Mind Game (2017 re-release),GKIDS,"February 16, 2018",Animation,1 hrs. 43 min.,Unrated,N/A,no dist,GK,"$36,613",7,"$5,609",7,2/16,4/5
+647,648,A tous ceux qui ne me lisent pas,Entertainment One,"November 23, 2018",Drama,1 hrs. 47 min.,Unrated,N/A,no dist,EOne,"$36,506",6,"$9,263",5,11/23,-
+648,649,"No Date, No Signature",Distrib Films,"August 1, 2018",Drama,1 hrs. 44 min.,Unrated,N/A,n/a,Distrib.,"$36,444",3,"$4,993",3,8/1,1/24
+649,650,Le Corbeau (2018 re-issue),Rialto,"April 20, 2018",Drama,1 hrs. 33 min.,Unrated,N/A,no dist,Rialto,"$36,089",1,"$6,452",1,4/20,9/9
+650,651,The House of Tomorrow,Shout! Factory,"April 27, 2018",Comedy / Drama,1 hrs. 25 min.,Unrated,N/A,no dist,Shout!,"$35,821",8,"$6,652",8,4/27,5/31
+651,652,The Big Bad Fox and Other Tales,GKIDS,"March 8, 2018",Animation,1 hrs. 23 min.,G,N/A,"$9,608,653",GK,"$35,787",12,"$2,402",4,3/8,11/8
+652,653,The Road Movie,Oscilloscope Pictures,"January 19, 2018",Documentary,1 hrs. 7 min.,Unrated,N/A,no dist,Osci.,"$35,757",19,"$17,175",19,1/19,2/15
+653,654,PGS Intuition,Gathr Films,"January 16, 2018",Documentary,1 hrs. 23 min.,Unrated,N/A,no dist,Gathr,"$35,423",4,N/A,N/A,1/16,-
+654,655,That Summer,IFC,"May 18, 2018",Documentary,1 hrs. 20 min.,Unrated,N/A,no dist,IFC,"$34,556",5,"$5,977",1,5/18,-
+655,656,24 Frames,Janus Films,"February 2, 2018",Foreign,1 hrs. 54 min.,Unrated,N/A,no dist,Jan.,"$34,482",2,"$8,101",1,2/2,3/22
+656,657,Holy Hell (2018),Indican,"July 20, 2018",Action Comedy,1 hrs. 29 min.,Unrated,N/A,no dist,Indic.,"$34,366",7,"$21,504",4,7/20,8/23
+657,658,Kuleana,Gathr Films,"April 13, 2018",Drama,1 hrs. 35 min.,PG-13,N/A,no dist,Gathr,"$33,953",6,N/A,N/A,4/13,-
+658,659,Sollers Point,Oscilloscope Pictures,"May 11, 2018",Drama,1 hrs. 42 min.,R,N/A,no dist,Osci.,"$32,608",4,"$10,618",1,5/11,6/21
+659,660,Goodland,Parade Deck Films,"May 11, 2018",Crime,1 hrs. 24 min.,Unrated,N/A,no dist,PDF,"$32,140",3,"$17,621",2,5/11,-
+660,661,Moynihan,First Run,"October 3, 2018",Documentary,1 hrs. 44 min.,Unrated,N/A,no dist,FRun,"$31,970",2,"$4,416",1,10/3,10/25
+661,662,Good Manners,Distrib Films,"July 27, 2018",Fantasy,2 hrs. 15 min.,Unrated,N/A,no dist,Distrib.,"$31,177",4,"$2,476",1,7/27,12/13
+662,663,Poor Boy,Indican,"July 13, 2018",Drama,1 hrs. 44 min.,Unrated,N/A,no dist,Indic.,"$31,031",5,"$10,920",4,7/13,10/18
+663,664,Cold Water (2018 re-release),Janus Films,"April 27, 2018",Drama,1 hrs. 32 min.,Unrated,N/A,no dist,Jan.,"$30,209",1,"$5,110",1,4/27,6/21
+664,665,The Desert Bride,Strand,"May 4, 2018",Drama,1 hrs. 18 min.,Unrated,N/A,no dist,Strand,"$30,110",4,"$2,127",2,5/4,8/23
+665,666,Memories of Underdevelopment (2017 re-release),Janus Films,"January 12, 2018",Drama,1 hrs. 37 min.,Unrated,N/A,no dist,Jan.,"$29,647",1,"$8,244",1,1/12,2/15
+666,667,The Mercy,Screen Media,"November 30, 2018",Adventure,1 hrs. 52 min.,Unrated,N/A,"$4,230,143",Scre.,"$29,538",108,N/A,N/A,11/30,12/9
+667,668,Charm City,PBS Distribution,"October 12, 2018",Documentary,1 hrs. 48 min.,Unrated,N/A,no dist,PBS,"$29,335",3,"$10,511",1,10/12,12/6
+668,669,Restoring Tomorrow (Event),Fathom,"November 13, 2018",Documentary,1 hrs. 42 min.,PG,N/A,no dist,Fathom,"$28,556",394,N/A,N/A,11/13,-
+669,670,The Apparition (2018),Music Box Films,"September 7, 2018",Drama,2 hrs. 24 min.,Unrated,N/A,n/a,MBox,"$28,293",7,"$9,830",7,9/7,12/20
+670,671,On Her Shoulders,Oscilloscope Pictures,"October 19, 2018",Documentary,1 hrs. 34 min.,Unrated,N/A,no dist,Osci.,"$28,288",7,"$4,374",1,10/19,12/6
+671,672,Quai des Orfevres (2018 Re-issue),Rialto,"April 13, 2018",Crime Drama,1 hrs. 46 min.,Unrated,N/A,no dist,Rialto,"$28,013",2,"$7,125",1,4/13,7/26
+672,673,The Amendment,Fathom,"April 12, 2018",Drama,1 hrs. 30 min.,Unrated,N/A,no dist,Fathom,"$27,961",541,N/A,N/A,4/12,4/12
+673,674,Senso (2018 re-release),Rialto,"October 26, 2018",Drama,2 hrs. 3 min.,Unrated,N/A,no dist,Rialto,"$27,723",2,"$3,984",1,10/26,-
+674,675,The Cured,IFC,"February 23, 2018",Horror,1 hrs. 35 min.,R,N/A,no dist,IFC,"$26,630",29,"$4,875",3,2/23,3/15
+675,676,Milford Graves Full Mantis,Cinema Guild,"July 13, 2018",Documentary,1 hrs. 31 min.,Unrated,N/A,no dist,CGld,"$26,566",4,"$7,407",1,7/13,-
+676,677,Belle de jour (2018 re-release),Janus Films,"March 23, 2018",Drama,1 hrs. 40 min.,R,N/A,no dist,Jan.,"$26,331",3,"$6,462",1,3/23,4/19
+677,678,The Charmer,Film Movement,"December 5, 2018",Drama / Thriller,1 hrs. 42 min.,Unrated,N/A,n/a,FM,"$26,167",3,"$4,128",1,12/5,1/24
+678,679,The Misandrists,Cartilage,"May 25, 2018",Comedy Thriller,1 hrs. 31 min.,Unrated,N/A,no dist,Cartilage,"$26,123",5,"$3,278",1,5/25,8/2
+679,680,Ridge Runners,Indican,"January 19, 2018",Crime Thriller,1 hrs. 21 min.,Unrated,N/A,no dist,Indic.,"$26,019",7,"$8,015",7,1/19,3/1
+680,681,Jet Trash,Indican,"April 27, 2018",Drama / Thriller,1 hrs. 25 min.,Unrated,N/A,no dist,Indic.,"$26,002",6,"$4,914",2,4/27,10/18
+681,682,In the Intense Now,Icarus Films,"January 31, 2018",Documentary,2 hrs. 7 min.,Unrated,N/A,no dist,Icar.,"$24,955",1,"$5,565",1,1/31,6/14
+682,683,Phoenix Wilder: And The Great Elephant Adventure ,Fathom,"April 16, 2018",Family,1 hrs. 40 min.,Unrated,N/A,no dist,Fathom,"$24,844",586,N/A,N/A,4/16,4/16
+683,684,The Day After,Cinema Guild,"May 11, 2018",Comedy / Drama,1 hrs. 32 min.,Unrated,N/A,no dist,CGld,"$24,746",6,"$3,727",1,5/11,8/19
+684,685,Swimming with Men,IFC,"December 7, 2018",Comedy,1 hrs. 36 min.,Unrated,N/A,no dist,IFC,"$24,708",31,"$10,336",31,12/7,1/3
+685,686,Life & Nothing More,CFI Releasing,"October 24, 2018",Drama,1 hrs. 54 min.,Unrated,N/A,no dist,CFI,"$24,358",6,"$6,536",6,10/24,3/24
+686,687,Seven Years of Night,CJ Entertainment,"April 6, 2018",Action Drama,2 hrs. 3 min.,Unrated,N/A,no dist,CJ,"$24,281",4,"$13,669",4,4/6,4/19
+687,688,Elliot: The Littlest Reindeer,Screen Media,"November 30, 2018",Animation,1 hrs. 29 min.,PG,N/A,n/a,Scre.,"$24,262",105,"$22,056",105,11/30,12/9
+688,689,Vazante,Music Box Films,"January 12, 2018",Drama,1 hrs. 56 min.,Unrated,N/A,no dist,MBox,"$23,884",6,"$3,489",1,1/12,4/19
+689,690,Death House,Hannover House,"March 2, 2018",Horror,1 hrs. 33 min.,R,N/A,no dist,Hann.,"$23,833",7,"$10,140",1,3/2,5/17
+690,691,Letter From Masanjia,Ammo Content,"September 14, 2018",Documentary,1 hrs. 17 min.,Unrated,N/A,no dist,Ammo,"$23,481",2,"$8,295",2,9/14,-
+691,692,The Atomic Cafe (2018 re-release),Kino Lorber,"August 1, 2018",Documentary,1 hrs. 26 min.,Unrated,N/A,no dist,KL,"$22,293",5,"$4,098",1,8/1,10/25
+692,693,The Judge (2018),Idle Wild Films,"April 13, 2018",Documentary,1 hrs. 22 min.,Unrated,N/A,no dist,IWF,"$22,257",3,N/A,N/A,4/13,5/31
+693,694,Winning Formula,Indican,"July 27, 2018",Crime Comedy,1 hrs. 33 min.,Unrated,N/A,no dist,Indic.,"$22,189",5,"$4,505",5,7/27,9/6
+694,695,The Workshop,Strand,"March 23, 2018",Drama,1 hrs. 53 min.,Not Yet Rated,N/A,n/a,Strand,"$22,061",8,"$2,860",1,3/23,5/31
+695,696,Loving Pablo,Universal,"October 5, 2018",Crime Drama,2 hrs. 3 min.,R,N/A,n/a,Uni.,"$22,017",15,"$16,564",15,10/5,10/11
+696,697,The Female Brain,IFC,"February 9, 2018",Comedy,1 hrs. 38 min.,Unrated,N/A,no dist,IFC,"$21,786",26,"$6,886",2,2/9,2/22
+697,698,A Paris Education,Kino Lorber,"August 30, 2018",Drama,2 hrs. 17 min.,Unrated,N/A,n/a,KL,"$21,598",2,"$3,467",1,8/30,12/20
+698,699,Half the Picture,Gravitas Ventures,"June 8, 2018",Documentary,1 hrs. 34 min.,Unrated,N/A,no dist,Grav.,"$21,589",1,"$6,581",1,6/8,6/24
+699,700,Primal Rage: The Bigfoot Reborn,Fathom,"February 27, 2018",Horror,1 hrs. 46 min.,R,N/A,no dist,Fathom,"$21,497",125,N/A,N/A,2/27,2/28
+700,701,Tyrel,Magnolia,"December 7, 2018",Comedy / Drama,1 hrs. 26 min.,Not Yet Rated,N/A,no dist,Magn.,"$21,456",5,"$6,059",5,12/7,2/7
+701,702,Ganja & Hess (2018 re-release),Kino Lorber,"May 30, 2018",Horror,1 hrs. 53 min.,R,N/A,no dist,KL,"$21,197",8,"$3,406",1,5/30,11/1
+702,703,The Happys,Indican,"March 16, 2018",Comedy,1 hrs. 27 min.,Unrated,N/A,no dist,Indic.,"$21,108",2,"$7,707",2,3/16,7/26
+703,704,Ava,Grasshopper Film,"April 27, 2018",Drama,1 hrs. 43 min.,Unrated,N/A,no dist,Ghop,"$20,940",3,"$2,996",1,4/27,-
+704,705,Did You Wonder Who Fired the Gun?,Grasshopper Film,"February 28, 2018",Documentary,1 hrs. 30 min.,Unrated,N/A,no dist,Ghop,"$20,765",3,"$5,725",3,2/28,-
+705,706,Tag Along: The Devil Fish,China Lion,"December 7, 2018",Horror,1 hrs. 54 min.,Unrated,N/A,n/a,CL,"$20,726",8,"$10,974",8,12/7,12/27
+706,707,Ice Dragon: The Legend of the Blue Daisies,Fathom,"March 24, 2018",Animation,1 hrs. 10 min.,Unrated,N/A,no dist,Fathom,"$20,549",228,N/A,228,3/24,3/26
+707,708,The Devil and Father Amorth,The Orchard,"April 20, 2018",Documentary,1 hrs. 8 min.,Unrated,N/A,no dist,Orch.,"$20,449",8,"$7,814",8,4/20,5/24
+708,709,Izzy Gets the Fuck Across Town,Shout! Factory,"June 22, 2018",Comedy / Drama,1 hrs. 26 min.,Unrated,N/A,no dist,Shout!,"$20,208",15,"$10,559",15,6/22,6/28
+709,710,Apocalypsis,Indican,"March 2, 2018",Sci-Fi,1 hrs. 30 min.,Unrated,N/A,no dist,Indic.,"$20,052",2,"$3,945",1,3/2,6/21
+710,711,Eight Hours Don't Make a Day (2018 re-release),Janus Films,"March 16, 2018",Foreign,7 hrs. 56 min.,Unrated,N/A,no dist,Jan.,"$19,987",1,"$5,880",1,3/16,4/1
+711,712,"One Sings, the Other Doesn't",Janus Films,"June 1, 2018",Musical,2 hrs. 0 min.,Unrated,N/A,no dist,Jan.,"$19,919",2,"$6,700",1,6/1,6/21
+712,713,Active Measures,Super,"August 31, 2018",Documentary,1 hrs. 50 min.,PG-13,N/A,no dist,Super,"$19,862",2,"$9,509",2,8/31,9/9
+713,714,Freak Show,IFC,"January 12, 2018",Comedy / Drama,1 hrs. 35 min.,Unrated,N/A,no dist,IFC,"$19,696",9,"$4,809",1,1/12,2/8
+714,715,Who We are Now,FilmRise,"May 25, 2018",Drama,1 hrs. 40 min.,Unrated,N/A,no dist,FR,"$19,128",3,"$5,188",1,5/25,6/21
+715,716,November (2018),Oscilloscope Pictures,"February 23, 2018",Drama,1 hrs. 55 min.,Unrated,N/A,no dist,Osci.,"$19,084",8,"$3,354",1,2/23,4/5
+716,717,Anything,Paladin,"May 11, 2018",Drama,1 hrs. 34 min.,R,N/A,no dist,Pala.,"$19,037",27,"$4,110",3,5/11,6/7
+717,718,Crime + Punishment,IFC,,,,,,,,"$18,644",3,"$8,787",3,8/24,9/5
+718,719,Mrs. Hyde,Cartilage,"April 27, 2018",Drama,1 hrs. 35 min.,Unrated,N/A,no dist,Cartilage,"$18,627",2,"$5,943",1,4/27,8/5
+719,720,Maquia: When the Promised Flower Blooms (Dubbed),Eleven Arts,"September 21, 2018",Animation,1 hrs. 55 min.,Unrated,N/A,no dist,Elev.,"$18,539",62,"$6,100",13,9/21,10/18
+720,721,Allegiance To Broadway (2018),Fathom,"December 4, 2018",Documentary,1 hrs. 25 min.,Unrated,N/A,no dist,Fathom,"$18,527",344,N/A,N/A,12/4,12/4
+721,722,Desolation,Parade Deck Films,"January 26, 2018",Thriller,1 hrs. 29 min.,Unrated,N/A,no dist,PDF,"$18,490",3,"$11,320",2,1/26,3/11
+722,723,Gabriel and the Mountain,Strand,"June 15, 2018",Drama,2 hrs. 11 min.,Unrated,N/A,n/a,Strand,"$18,415",2,"$4,963",2,6/15,9/6
+723,724,306 Hollywood,El Tigre,"September 28, 2018",Documentary,1 hrs. 28 min.,Unrated,N/A,no dist,El Tigre,"$18,399",4,"$8,150",1,9/28,10/25
+724,725,Frank and Ava,Hannover House,"December 7, 2018",Drama,1 hrs. 50 min.,Unrated,N/A,no dist,Hann.,"$17,819",3,"$3,080",1,12/7,-
+725,726,Marlina the Murderer in Four Acts,Icarus Films,"June 22, 2018",Drama / Thriller,1 hrs. 33 min.,Unrated,N/A,n/a,Icar.,"$17,788",3,"$3,296",1,6/22,-
+726,727,King of Hearts (2018 re-release),Cohen Media Group,"February 23, 2018",Comedy / Drama,1 hrs. 42 min.,Unrated,N/A,no dist,Cohen,"$17,646",4,"$3,443",1,2/23,4/12
+727,728,Chronicle of Anna Magdalena Bach,Grasshopper Film,"March 2, 2018",Music Drama,1 hrs. 34 min.,Unrated,N/A,no dist,Ghop,"$17,527",2,"$3,453",2,3/2,7/5
+728,729,A Bread Factory,In the Family,"October 26, 2018",Comedy / Drama,4 hrs. 2 min.,Unrated,N/A,no dist,ITF,"$17,325",2,"$5,847",2,10/26,11/8
+729,730,Revival!,TriCoast Worldwide,"December 7, 2018",Musical,1 hrs. 45 min.,PG,N/A,no dist,TriCoast,"$17,252",10,N/A,N/A,12/7,-
+730,731,Haikara-San: Here Comes Miss Modern,Eleven Arts,"June 8, 2018",Animation,1 hrs. 37 min.,Unrated,N/A,no dist,Elev.,"$16,572",101,"$6,748",51,6/8,7/19
+731,732,Detour (2018 re-release),Janus Films,"November 30, 2018",Drama / Thriller,1 hrs. 8 min.,Unrated,N/A,no dist,Jan.,"$16,172",1,"$5,127",1,11/30,1/10
+732,733,OUT on Stage,Fathom,"July 24, 2018",Unknown,1 hrs. 30 min.,R,N/A,no dist,Fathom,"$15,623",136,N/A,N/A,7/24,7/24
+733,734,Bob Le Flambeur (2017 re-release),Rialto,"January 5, 2018",Crime Drama,1 hrs. 40 min.,Unrated,N/A,no dist,Rialto,"$15,586",2,"$4,623",1,1/5,3/29
+734,735,When You Read this Letter (2018 re-release),Rialto,"September 12, 2018",Drama,1 hrs. 44 min.,Unrated,N/A,no dist,Rialto,"$15,552",2,"$5,166",1,9/12,11/1
+735,736,Narcissister Organ Player,Film Movement,"November 7, 2018",Documentary,1 hrs. 31 min.,Unrated,N/A,no dist,FM,"$15,334",4,"$1,983",1,11/7,2/7
+736,737,Sicilian Ghost Story,Strand,"November 30, 2018",Drama,2 hrs. 0 min.,Unrated,N/A,no dist,Strand,"$15,285",3,"$4,324",1,11/30,2/21
+737,738,People's Republic of Desire,Tripod Media,"November 30, 2018",Documentary,1 hrs. 35 min.,Unrated,N/A,no dist,Tripod,"$15,241",5,N/A,N/A,11/30,12/20
+738,739,Trust Machine: The Story of Blockchain,SingularDTV,"October 26, 2018",Documentary,1 hrs. 24 min.,Unrated,N/A,no dist,SingularDTV,"$14,905",1,"$7,424",1,10/26,11/22
+739,740,Prayer Before Dawn,A24,"August 10, 2018",Action Drama,1 hrs. 56 min.,R,N/A,no dist,A24,"$14,453",13,"$14,453",13,8/10,8/12
+740,741,The Last Movie Star,A24,"March 30, 2018",Drama,1 hrs. 34 min.,R,N/A,no dist,A24,"$14,410",5,"$3,780",2,3/30,4/19
+741,742,Chasing the Blues,Ammo Content,"October 5, 2018",Comedy,1 hrs. 20 min.,Unrated,N/A,no dist,Ammo,"$14,030",9,"$9,949",9,10/5,10/14
+742,743,The Escape,IFC,"May 11, 2018",Drama,1 hrs. 45 min.,Unrated,N/A,n/a,IFC,"$14,018",29,N/A,2,5/11,5/24
+743,744,Weed the People,Abramorama,"October 26, 2018",Documentary,1 hrs. 37 min.,Unrated,N/A,no dist,Abr.,"$13,926",2,"$4,279",1,10/26,12/20
+744,745,Here and Now,AMBI,"November 9, 2018",Drama,1 hrs. 31 min.,R,N/A,no dist,AMBI,"$13,892",51,"$8,090",51,11/9,11/22
+745,746,Stavisky (2018 re-release),Rialto,"October 3, 2018",Drama,2 hrs. 0 min.,PG,N/A,no dist,Rialto,"$13,793",1,"$4,734",1,10/3,10/18
+746,747,The Boy Downstairs,FilmRise,"February 16, 2018",Romantic Comedy,1 hrs. 30 min.,PG-13,N/A,no dist,FR,"$13,638",1,"$5,995",1,2/16,3/1
+747,748,Un Traductor,Film Movement,"October 19, 2018",Drama,1 hrs. 47 min.,Unrated,N/A,no dist,FM,"$13,509",2,"$4,412",1,10/19,4/4
+748,749,Shed Skin Papa,China Lion,"March 23, 2018",Comedy / Drama,1 hrs. 40 min.,Unrated,N/A,no dist,CL,"$13,331",8,"$7,950",8,3/23,4/1
+749,750,Our Blood is Wine,Music Box Films,"March 9, 2018",Documentary,1 hrs. 18 min.,Unrated,N/A,no dist,MBox,"$13,210",5,"$1,540",2,3/9,5/17
+750,751,Like Me,Kino Lorber,"January 26, 2018",Horror Thriller,1 hrs. 20 min.,Unrated,N/A,no dist,KL,"$12,965",4,"$5,064",3,1/26,2/15
+751,752,How Victor 'The Garlic' Took Alexey 'The Stud' to the Nursing Home,CARUSEL,"March 23, 2018",Crime Drama,1 hrs. 30 min.,Unrated,N/A,n/a,CARUSEL,"$12,954",8,"$2,634",8,3/23,4/8
+752,753,"Lou Andreas-Salomé, the Audacity to be Free",Cinema Libre Studio,"April 20, 2018",Drama,1 hrs. 53 min.,Unrated,N/A,n/a,CLS,"$12,875",2,"$5,060",1,4/20,5/17
+753,754,American Socialist: The Life & Times of Eugene Victor Debs,First Run,"March 2, 2018",Documentary,1 hrs. 37 min.,Unrated,N/A,no dist,FRun,"$12,609",3,"$2,823",1,3/2,5/10
+754,755,Of Fathers and Sons,Kino Lorber,"November 16, 2018",Documentary,1 hrs. 39 min.,Unrated,N/A,no dist,KL,"$12,579",6,N/A,N/A,11/16,2/28
+755,756,My Art,Film Movement,"January 12, 2018",Comedy,1 hrs. 27 min.,Unrated,N/A,no dist,FM,"$12,554",2,"$5,538",1,1/12,2/8
+756,757,American Chaos,Sony Classics,"September 14, 2018",Documentary,1 hrs. 30 min.,R,N/A,no dist,SPC,"$12,368",26,"$7,616",26,9/14,9/20
+757,758,Head Full of Honey,Warner Bros.,"November 30, 2018",Drama,2 hrs. 19 min.,PG-13,N/A,no dist,WB,"$12,350",4,"$8,715",4,11/30,12/6
+758,759,Let Yourself Go,Menemsha,"March 2, 2018",Drama,1 hrs. 52 min.,Unrated,N/A,n/a,Men.,"$12,189",8,"$8,128",8,3/2,3/8
+759,760,The Most Unknown,Abramorama,"May 18, 2018",Documentary,1 hrs. 28 min.,Unrated,N/A,no dist,Abr.,"$12,119",2,"$2,905",1,5/18,6/14
+760,761,Minding the Gap,Magnolia,"August 17, 2018",Documentary,1 hrs. 33 min.,Unrated,N/A,no dist,Magn.,"$11,998",5,"$6,812",4,8/17,8/23
+761,762,The Last Race,Magnolia,"November 16, 2018",Documentary,1 hrs. 15 min.,Unrated,N/A,no dist,Magn.,"$11,947",3,"$2,437",3,11/16,11/29
+762,763,Les Parents Terribles (2018 re-release),Cohen Media Group,"May 25, 2018",Drama,1 hrs. 45 min.,Unrated,N/A,no dist,Cohen,"$11,818",1,"$5,332",1,5/25,6/10
+763,764,Summer '03,Blue Fox Entertainment,"September 28, 2018",Drama,1 hrs. 35 min.,Unrated,N/A,no dist,Blue Fox,"$11,746",15,"$4,174",2,9/28,10/18
+764,765,Hannah (2018),Parade Deck Films,"March 9, 2018",Drama,1 hrs. 35 min.,Unrated,N/A,n/a,PDF,"$11,700",2,"$11,700",2,3/9,-
+765,766,This is Our Land,Distrib Films,"April 18, 2018",Drama,1 hrs. 57 min.,Unrated,N/A,no dist,Distrib.,"$11,567",2,"$2,442",1,4/18,5/3
+766,767,Souvenir,Strand,"March 2, 2018",Drama,1 hrs. 30 min.,Unrated,N/A,n/a,Strand,"$11,411",3,"$2,267",1,3/2,-
+767,768,Rendezvous in July (2018 re-release),Rialto,"August 1, 2018",Comedy / Drama,1 hrs. 40 min.,Unrated,N/A,no dist,Rialto,"$11,321",2,"$6,080",1,8/1,-
+768,769,The Public Image is Rotten,Abramorama,"September 14, 2018",Documentary,1 hrs. 43 min.,Unrated,N/A,no dist,Abr.,"$11,293",1,"$8,052",1,9/14,10/21
+769,770,Bullitt County,Mr. Pictures,"October 26, 2018",Thriller,1 hrs. 38 min.,Unrated,N/A,no dist,Mr. Pictures,"$11,257",9,"$6,511",9,10/26,11/15
+770,771,The Assassin's Code,Gravitas Ventures,"May 11, 2018",Thriller,1 hrs. 35 min.,Unrated,N/A,no dist,Grav.,"$11,218",12,"$11,218",12,5/11,-
+771,772,The Wedding Party 2: Destination Dubai,IronFlix,"February 14, 2018",Comedy,1 hrs. 38 min.,Unrated,N/A,no dist,IronFlix,"$11,140",2,"$4,905",2,2/14,2/25
+772,773,Class Rank,Cinedigm Entertainment,"May 11, 2018",Comedy,1 hrs. 43 min.,Unrated,N/A,no dist,Cdgm.,"$10,452",14,N/A,N/A,5/11,-
+773,774,Mama Africa Miriam Makeba,Artmattan Prods.,"January 19, 2018",Documentary,1 hrs. 30 min.,Unrated,N/A,no dist,Artma,"$10,430",1,"$3,495",1,1/19,2/15
+774,775,The Advocates,Cinema Libre Studio,"October 19, 2018",Documentary,1 hrs. 27 min.,Unrated,N/A,no dist,CLS,"$10,402",4,"$4,355",1,10/19,11/1
+775,776,Around India with a Movie Camera,Icarus Films,"November 30, 2018",Documentary,1 hrs. 12 min.,Unrated,N/A,no dist,Icar.,"$10,389",1,$183,1,11/30,-
+776,777,Heavy Trip,Music Box Films,"October 5, 2018",Action Comedy,1 hrs. 30 min.,Unrated,N/A,no dist,MBox,"$10,153",19,"$5,419",16,10/5,12/20
+777,778,Time Freak,Grindstone Entertainment,"November 9, 2018",Comedy / Drama,1 hrs. 44 min.,PG-13,N/A,"$256,487",Grindstone,"$10,003",N/A,N/A,N/A,11/9,-
+778,779,Furious (Legend of Kolovrat),CARUSEL,"April 20, 2018",Action,1 hrs. 47 min.,Unrated,N/A,n/a,CARUSEL,"$9,996",15,"$6,964",15,4/20,5/3
+779,780,The Owl's Legacy,Icarus Films,"November 9, 2018",Documentary,5 hrs. 40 min.,Unrated,N/A,no dist,Icar.,"$9,981",1,N/A,N/A,11/9,-
+780,781,River Runs Red,Cinedigm Entertainment,"November 9, 2018",Drama / Thriller,1 hrs. 24 min.,Unrated,N/A,no dist,Cdgm.,"$9,893",20,"$6,349",20,11/9,-
+781,782,Please Stand By,Magnolia,"January 26, 2018",Comedy / Drama,1 hrs. 33 min.,PG-13,N/A,no dist,Magn.,"$9,868",7,"$4,090",5,1/26,2/22
+782,783,The Quest of Alain Ducasse,Magnolia,"June 8, 2018",Documentary,1 hrs. 24 min.,Unrated,N/A,no dist,Magn.,"$9,627",5,"$2,711",1,6/8,6/28
+783,784,Strangers on the Earth,First Run,"May 4, 2018",Documentary,1 hrs. 36 min.,Unrated,N/A,no dist,FRun,"$9,518",2,"$3,768",1,5/4,6/3
+784,785,El Mar La Mar,Cinema Guild,"February 23, 2018",Documentary,1 hrs. 34 min.,Unrated,N/A,no dist,CGld,"$9,065",2,"$3,375",1,2/23,-
+785,786,Step Up: High Water Premiere,Fathom,"January 30, 2018",Documentary,2 hrs. 0 min.,Unrated,N/A,no dist,Fathom,"$9,005",378,N/A,N/A,1/30,1/30
+786,787,Zoo Wars,Parade Deck Films,"April 27, 2018",Animation,1 hrs. 15 min.,G,N/A,no dist,PDF,"$8,998",12,"$8,998",12,4/27,-
+787,788,Survivors Guide to Prison,Gravitas Ventures,"February 23, 2018",Documentary,1 hrs. 42 min.,Unrated,N/A,no dist,Grav.,"$8,982",4,"$8,982",4,2/23,2/25
+788,789,Summer of '67,Mainstreet,"June 29, 2018",Drama,1 hrs. 23 min.,Unrated,N/A,no dist,MS,"$8,941",1,"$5,400",1,6/29,-
+789,790,Beauty and the Dogs,Oscilloscope Pictures,"March 23, 2018",Drama,1 hrs. 40 min.,Unrated,N/A,n/a,Osci.,"$8,915",4,"$3,055",2,3/23,6/17
+790,791,Blood Feast,Hannover House,"April 6, 2018",Horror Thriller,1 hrs. 36 min.,R,$1.2 million,no dist,Hann.,"$8,708",3,"$4,046",1,4/6,5/3
+791,792,Furlough,IFC,"March 16, 2018",Comedy,1 hrs. 23 min.,R,N/A,no dist,IFC,"$8,472",2,N/A,2,3/16,-
+792,793,The Clovehitch Killer,IFC,"November 16, 2018",Drama / Thriller,1 hrs. 49 min.,Unrated,N/A,no dist,IFC,"$8,208",26,"$5,175",26,11/16,11/25
+793,794,Spiral,Cohen Media Group,"June 22, 2018",Documentary,1 hrs. 19 min.,Unrated,N/A,no dist,Cohen,"$8,190",2,"$3,258",2,6/22,7/8
+794,795,Dark River,FilmRise,"June 29, 2018",Drama,1 hrs. 31 min.,Unrated,N/A,no dist,FR,"$7,714",2,"$4,246",2,6/29,7/5
+795,796,Legend of the Mountain (2017 re-release),Kino Lorber,"February 2, 2018",Action / Adventure,3 hrs. 4 min.,Unrated,N/A,no dist,KL,"$7,640",2,N/A,N/A,2/2,4/5
+796,797,The Lodgers,Epic Pictures,"February 23, 2018",Horror,1 hrs. 33 min.,R,N/A,no dist,EpicPics,"$7,362",17,"$5,053",17,2/23,-
+797,798,Shoah: Four Sisters,Cohen Media Group,"November 14, 2018",Documentary,4 hrs. 33 min.,Unrated,N/A,no dist,Cohen,"$7,323",3,"$2,840",1,11/14,11/25
+798,799,Tall: The American Skyscraper and Louis Sullivan,Cinema Guild,"January 19, 2018",Documentary,1 hrs. 19 min.,Unrated,N/A,no dist,CGld,"$7,216",1,"$7,216",1,1/19,1/21
+799,800,Painless,Indican,"September 21, 2018",Drama / Thriller,1 hrs. 21 min.,Unrated,N/A,no dist,Indic.,"$7,082",2,"$2,958",2,9/21,11/8
+800,801,In Echo Park,Indican,"October 12, 2018",Crime Drama,1 hrs. 22 min.,Unrated,N/A,no dist,Indic.,"$7,072",2,"$4,222",2,10/12,11/8
+801,802,This is Congo,Abramorama,"June 29, 2018",Documentary,1 hrs. 31 min.,Unrated,N/A,no dist,Abr.,"$7,051",2,"$3,690",1,6/29,7/5
+802,803,In the Land of Pomegranates,First Run,"January 5, 2018",Documentary,2 hrs. 0 min.,Unrated,N/A,no dist,FRun,"$7,014",1,"$3,072",1,1/5,1/18
+803,804,Duckbutter,The Orchard,"April 27, 2018",Comedy / Drama,1 hrs. 33 min.,Unrated,N/A,no dist,Orch.,"$6,877",2,"$2,797",2,4/27,5/17
+804,805,Calling All Earthlings,Carpe Stella,"June 29, 2018",Documentary,1 hrs. 14 min.,Unrated,N/A,no dist,Carpe Stella,"$6,756",1,N/A,N/A,6/29,-
+805,806,A Whale of a Tale,Fine Line Media,"August 17, 2018",Documentary,1 hrs. 35 min.,Unrated,N/A,no dist,FLM,"$6,747",1,N/A,N/A,8/17,-
+806,807,An Evening with Beverly Luff Linn,The Film Arcade,"October 19, 2018",Crime Comedy,1 hrs. 48 min.,R,N/A,no dist,TFA,"$6,701",16,"$5,212",16,10/19,10/25
+807,808,School of Life,Distrib Films,"September 7, 2018",Drama,1 hrs. 56 min.,Unrated,N/A,no dist,Distrib.,"$6,300",2,N/A,N/A,9/7,-
+808,809,The Quake,Magnolia,"December 14, 2018",Action Thriller,1 hrs. 46 min.,PG,N/A,n/a,Magn.,"$6,235",7,"$3,256",7,12/14,12/27
+809,810,One Last Thing (2018),Fathom,"June 13, 2018",Drama,1 hrs. 31 min.,Unrated,N/A,no dist,Fathom,"$6,232",151,N/A,N/A,6/13,6/13
+810,811,I Am MLK Jr.,Gathr Films,"May 3, 2018",Documentary,1 hrs. 35 min.,Unrated,N/A,no dist,Gathr,"$5,918",2,N/A,N/A,5/3,-
+811,812,Are We Not Cats,Cleopatra Films,"February 23, 2018",Horror Comedy,1 hrs. 17 min.,Unrated,N/A,no dist,Cleopatra,"$5,518",2,"$3,983",2,2/23,3/1
+812,813,Cuban Food Stories,First Run,"August 10, 2018",Documentary,1 hrs. 22 min.,Unrated,N/A,no dist,FRun,"$5,434",1,"$3,032",1,8/10,-
+813,814,Postcards from London,Strand,"November 9, 2018",Drama,1 hrs. 28 min.,Unrated,N/A,no dist,Strand,"$5,312",1,"$2,686",1,11/9,1/10
+814,815,"Distant Voices, Still Lives (2018 reissue)",Arrow Films,"August 31, 2018",Unknown,1 hrs. 24 min.,PG-13,N/A,no dist,Arrow,"$5,234",1,"$2,395",1,8/31,9/9
+815,816,In Searching,Indican,"November 9, 2018",Adventure,1 hrs. 30 min.,Unrated,N/A,no dist,Indic.,"$5,210",2,"$3,090",2,11/9,11/22
+816,817,12 Days,Distrib Films,"March 16, 2018",Documentary,1 hrs. 27 min.,Unrated,N/A,no dist,Distrib.,"$5,204",2,$923,1,3/16,7/14
+817,818,Intersection (2018),Indican,"June 15, 2018",Crime Drama,1 hrs. 23 min.,Unrated,N/A,no dist,Indic.,"$5,116",2,"$1,940",2,6/15,8/9
+818,819,Notes on Appearance,Grasshopper Film,"August 17, 2018",Drama / Thriller,1 hrs. 0 min.,Unrated,N/A,no dist,Ghop,"$5,065",2,"$2,239",1,8/17,-
+819,820,The Texture of Falling,BloodSweatHoney,"June 1, 2018",Drama,1 hrs. 15 min.,Unrated,N/A,no dist,BloodSweatHo,"$5,010",1,N/A,N/A,6/1,6/22
+820,821,Social Animals,Vertical Entertainment,"June 1, 2018",Comedy / Drama,1 hrs. 24 min.,R,N/A,no dist,VE,"$5,007",75,"$2,505",75,6/1,6/7
+821,822,An L.A. Minute,Strand,"August 24, 2018",Comedy,1 hrs. 26 min.,R,N/A,no dist,Strand,"$5,004",3,"$2,791",3,8/24,8/30
+822,823,Edward II (2018 re-release),Film Movement,"May 4, 2018",Drama,1 hrs. 27 min.,R,N/A,n/a,FM,"$4,826",1,"$1,701",1,5/4,5/17
+823,824,Status Update,Vertical Entertainment,"March 30, 2018",Comedy,1 hrs. 46 min.,PG-13,N/A,no dist,VE,"$4,764",75,"$2,205",75,3/30,-
+824,825,The Other Side of Everything,Icarus Films,"July 13, 2018",Documentary,1 hrs. 40 min.,Unrated,N/A,no dist,Icar.,"$4,685",2,$315,1,7/13,-
+825,826,The Long Dumb Road,The Film Arcade,"November 9, 2018",Comedy,1 hrs. 30 min.,R,N/A,no dist,TFA,"$4,667",1,"$4,667",1,11/9,-
+826,827,Kangaroo,Abramorama,"January 19, 2018",Documentary,1 hrs. 43 min.,Unrated,N/A,no dist,Abr.,"$4,547",2,"$2,282",2,1/19,1/25
+827,828,Kickboxer Retaliation,Well Go USA,"January 26, 2018",Action,1 hrs. 50 min.,R,N/A,no dist,WGUSA,"$4,537",10,"$3,061",10,1/26,2/1
+828,829,Weightless,Great Point,"November 9, 2018",Drama,1 hrs. 33 min.,R,N/A,no dist,Great Point,"$4,461",3,"$2,515",2,11/9,12/13
+829,830,The Peacemaker (2018),Central Square,"February 9, 2018",Documentary,1 hrs. 30 min.,Unrated,N/A,no dist,Central Squa,"$4,400",1,"$4,400",1,2/9,2/11
+830,831,Small Group (Theatrical on Demand(r)),Gathr Films,"October 18, 2018",Drama,2 hrs. 0 min.,PG-13,N/A,no dist,Gathr,"$4,299",3,"$4,299",3,10/18,10/21
+831,832,Stella's Last Weekend,Paladin,"October 12, 2018",Comedy / Drama,1 hrs. 42 min.,Unrated,N/A,no dist,Pala.,"$4,215",4,"$2,375",2,10/12,11/8
+832,833,The Party's Just Beginning,The Orchard,"December 7, 2018",Comedy / Drama,1 hrs. 31 min.,Unrated,N/A,no dist,Orch.,"$4,145",10,"$2,770",10,12/7,12/13
+833,834,Armed,GVN Releasing,"September 14, 2018",Action,1 hrs. 58 min.,R,N/A,no dist,GVN,"$3,948",10,"$2,227",10,9/14,9/20
+834,835,American Dresser,Cinedigm Entertainment,"September 21, 2018",Drama,1 hrs. 37 min.,Unrated,N/A,no dist,Cdgm.,"$3,895",11,"$2,211",11,9/21,10/4
+835,836,The Second Time Around,First Run,"November 30, 2018",Romantic Comedy,1 hrs. 47 min.,Unrated,N/A,no dist,FRun,"$3,837",1,N/A,N/A,11/30,12/20
+836,837,Cocote,Grasshopper Film,"August 3, 2018",Drama,1 hrs. 46 min.,Unrated,N/A,no dist,Ghop,"$3,815",2,"$1,436",1,8/3,-
+837,838,Nelly,Cinema Libre Studio,"September 7, 2018",Drama,1 hrs. 40 min.,Unrated,N/A,no dist,CLS,"$3,751",2,"$1,304",1,9/7,9/20
+838,839,La Familia,Film Movement,"August 3, 2018",Drama,1 hrs. 22 min.,Unrated,N/A,no dist,FM,"$3,696",2,"$2,030",1,8/3,10/4
+839,840,FourPlay,Parade Deck Films,"March 30, 2018",Comedy / Drama,1 hrs. 18 min.,Unrated,N/A,no dist,PDF,"$3,550",2,"$3,550",2,3/30,-
+840,841,The Citizen (2018),Artmattan Prods.,"July 6, 2018",Drama,1 hrs. 49 min.,Unrated,N/A,no dist,Artma,"$3,495",1,N/A,N/A,7/6,-
+841,842,Under the Wire,Abramorama,"November 16, 2018",Documentary,1 hrs. 35 min.,R,N/A,no dist,Abr.,"$3,429",2,"$2,271",2,11/16,11/22
+842,843,Cage Fighter,IFC,"February 2, 2018",Documentary,1 hrs. 21 min.,Not Yet Rated,N/A,no dist,IFC,"$3,392",2,"$1,204",2,2/2,2/8
+843,844,Followers,Cinedigm Entertainment,"March 23, 2018",Horror,1 hrs. 22 min.,Unrated,N/A,no dist,Cdgm.,"$3,350",10,N/A,N/A,3/23,3/29
+844,845,Tom of Finland (Gathr Release),Gathr Films,"February 23, 2018",Drama,1 hrs. 55 min.,Unrated,N/A,no dist,Gathr,"$3,314",1,N/A,1,2/23,-
+845,846,At First Light,Entertainment One,"September 28, 2018",Sci-Fi,1 hrs. 31 min.,Unrated,N/A,no dist,EOne,"$3,292",5,$274,5,9/28,10/18
+846,847,Over the Limit,Film Movement,"October 12, 2018",Documentary,1 hrs. 13 min.,Unrated,N/A,no dist,FM,"$3,243",2,"$1,402",1,10/12,1/10
+847,848,Game Changers,Ammo Content,"June 29, 2018",Documentary,1 hrs. 25 min.,Unrated,N/A,no dist,Ammo,"$3,142",1,"$3,142",1,6/29,-
+848,849,Hot to Trot (2018),First Run,"August 24, 2018",Documentary,1 hrs. 28 min.,Unrated,N/A,no dist,FRun,"$3,133",1,"$3,133",1,8/24,-
+849,850,Nana,Fun Academy,"April 13, 2018",Documentary,1 hrs. 40 min.,Unrated,N/A,no dist,FunAcad,"$2,784",1,"$1,240",1,4/13,4/19
+850,851,Straight into a Storm,Abramorama,"June 15, 2018",Documentary,1 hrs. 50 min.,Unrated,N/A,no dist,Abr.,"$2,684",1,"$1,964",1,6/15,6/21
+851,852,ACORN and the Firestorm,First Run,"April 6, 2018",Documentary,1 hrs. 24 min.,Unrated,N/A,no dist,FRun,"$2,621",1,"$2,621",1,4/6,-
+852,853,El Pacto,Sony / Columbia,"October 26, 2018",Horror Thriller,1 hrs. 45 min.,R,N/A,n/a,Sony,"$2,488",10,"$1,453",10,10/26,11/1
+853,854,The Swan,Synergetic Distribution,"August 10, 2018",Drama,1 hrs. 32 min.,Unrated,N/A,n/a,Synergetic,"$2,367",2,$898,1,8/10,-
+854,855,10x10,Vertical Entertainment,"April 13, 2018",Thriller,1 hrs. 28 min.,Unrated,N/A,no dist,VE,"$2,263",10,N/A,10,4/13,-
+855,856,A Wizard's Tale,Blue Fox Entertainment,"September 14, 2018",Animation,1 hrs. 37 min.,Unrated,N/A,no dist,Blue Fox,"$2,150",10,"$1,593",10,9/14,9/20
+856,857,West of the Jordan River,Kino Lorber,"January 26, 2018",Documentary,1 hrs. 24 min.,Unrated,N/A,no dist,KL,"$1,926",1,"$1,047",1,1/26,2/1
+857,858,Finding Happiness,Gathr Films,"April 6, 2018",Documentary,1 hrs. 36 min.,Unrated,N/A,no dist,Gathr,"$1,841",1,$617,1,4/6,-
+858,859,The Lost Village,First Run,"October 19, 2018",Documentary,1 hrs. 29 min.,Unrated,N/A,no dist,FRun,"$1,780",1,$840,1,10/19,11/15
+859,860,An Actor Prepares,Gravitas Ventures,"August 31, 2018",Comedy / Drama,1 hrs. 37 min.,Unrated,N/A,n/a,Grav.,"$1,743",25,$933,25,8/31,9/6
+860,861,Henchmen,Entertainment One,"December 7, 2018",Animation,1 hrs. 29 min.,Unrated,N/A,no dist,EOne,"$1,469",3,$580,3,12/7,-
+861,862,That Way Madness Lies,First Run,"December 14, 2018",Documentary,1 hrs. 41 min.,Unrated,N/A,no dist,FRun,"$1,447",2,$579,2,12/14,12/20
+862,863,Marrowbone,Magnolia,"April 13, 2018",Horror Thriller,1 hrs. 50 min.,R,N/A,"$12,293,554",Magn.,"$1,377",7,$624,7,4/13,5/3
+863,864,Beauty and the Beholder,Reel One,"October 26, 2018",Comedy / Drama,1 hrs. 35 min.,Unrated,N/A,no dist,R1,"$1,368",1,"$1,352",1,10/26,10/29
+864,865,I Still See You,Lionsgate,"October 12, 2018",Thriller,1 hrs. 38 min.,PG-13,N/A,"$1,455,225",LGF,"$1,359",10,$815,10,10/12,10/18
+865,866,Billionaire Boy's Club,Vertical Entertainment,"August 17, 2018",Thriller,1 hrs. 48 min.,R,N/A,"$2,455,528",VE,"$1,349",N/A,N/A,N/A,8/17,-
+866,867,Guy (2018),Distrib Films,"December 14, 2018",Comedy / Drama,1 hrs. 41 min.,Unrated,N/A,no dist,Distrib.,"$1,319",2,"$1,319",2,12/14,-
+867,868,Altered Perception,Cinedigm Entertainment,"May 4, 2018",Sci-Fi Fantasy,1 hrs. 19 min.,Unrated,N/A,no dist,Cdgm.,"$1,259",10,N/A,N/A,5/4,-
+868,869,Two Men Went to War (2018 re-release),Indican,"May 25, 2018",War,1 hrs. 49 min.,PG,N/A,no dist,Indic.,"$1,227",1,$185,1,5/25,-
+869,870,Under the Turban,Gathr Films,"April 25, 2018",Documentary,1 hrs. 29 min.,Unrated,N/A,no dist,Gathr,"$1,190",1,N/A,N/A,4/25,-
+870,871,Half Brothers,Parade Deck Films,"September 21, 2018",Comedy / Drama,1 hrs. 37 min.,Unrated,N/A,no dist,PDF,"$1,100",3,"$1,100",3,9/21,-
+871,872,Invisible Hands,First Run,"November 23, 2018",Documentary,1 hrs. 20 min.,Unrated,N/A,no dist,FRun,"$1,034",1,$456,1,11/23,12/2
+872,873,Gangsterdam,Distrib Films,"September 19, 2018",Comedy Thriller,1 hrs. 40 min.,Unrated,N/A,no dist,Distrib.,$954,1,N/A,N/A,9/19,9/27
+873,874,The Breadwinner (Gathr Release),Gathr Films,"April 13, 2018",Animation,1 hrs. 34 min.,PG-13,N/A,no dist,Gathr,$834,1,$834,1,4/13,-
+874,875,TVTV: Video Revolutionaries ,First Run,"October 19, 2018",Documentary,1 hrs. 22 min.,Unrated,N/A,no dist,FRun,$812,1,$556,1,10/19,10/25
+875,876,Higher Power,Magnolia,"May 11, 2018",Action,1 hrs. 33 min.,R,N/A,no dist,Magn.,$528,3,$299,3,5/11,5/17
+876,877,The Legend of Hallowaiian,Viva Pictures Distribution,"October 19, 2018",Animation,1 hrs. 22 min.,PG,N/A,no dist,VPD,$451,20,N/A,N/A,10/19,11/8
+877,878,Realms,The Film Arcade,"September 7, 2018",Horror,1 hrs. 30 min.,R,N/A,no dist,TFA,$147,3,$108,3,9/7,9/13
