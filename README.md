@@ -2,6 +2,6 @@
 
 *** 
 
-Work in progress, stay tuned :)
+-> [notebook](https://github.com/thezapalsky/boxoffice_prediction/blob/master/boxoffice.ipynb) <-
 
 ***
